@@ -156,14 +156,24 @@ class RankerEvaluator:
 				word = ranked_candidates[i]
 				all_gold.append(gold_rankings[word])
 				all_ranks.append(i)
+		S, p = spearmanr(all_ranks, all_gold)
 		P = pearsonr(all_ranks, all_gold)
-		return P[0]
+		return S#P[0]
 
 datapath = sys.argv[1] #Path to the dataset
 
 #Get feature calculator and evaluator:
 fe = FeatureEstimator()
-fe.addCollocationalFeature('/export/data/ghpaetzold/subimdbexperiments/corpora/binlms/subimdb', 2, 2, 'Complexity')
+#fe.addNGramProbabilityFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 1, 0, 'Simplicity')
+#fe.addNGramProbabilityFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 0, 1, 'Simplicity')
+#fe.addNGramProbabilityFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 1, 1, 'Simplicity')
+#fe.addNGramProbabilityFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 2, 0, 'Simplicity')
+#fe.addNGramProbabilityFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 0, 2, 'Simplicity')
+#fe.addCollocationalFeature('/export/data/ghpaetzold/subtitlesimdb/corpora/160715/subtleximdb.5gram.unk.bin.txt', 1, 1, 'Simplicity')
+#w2vmodel = '/export/data/ghpaetzold/word2vecvectors/models/word_vectors_all_200_glove.bin'
+#fe.addWordVectorSimilarityFeature(w2vmodel, 'Simplicity')
+#fe.addWordVectorContextSimilarityFeature(w2vmodel, model, tagger, java, 'Simplicity')
+fe.addCollocationalFeature('/export/data/ghpaetzold/subimdbexperiments/corpora/binlms/subimdb', 2, 2, 'Simplicity')
 ev = RankerEvaluator()
 
 instances, name = mountInstances(datapath)
@@ -174,17 +184,21 @@ mr = MetricRanker(fe)
 #Setup control variables:
 corrs_g = []
 corrs_f = []
-for prop in range(20, 100, 20):
+for prop in range(20, 120, 20):
 	trainprop = float(prop)/100.0
 	pivot = int(len(instances)*trainprop)
         random.shuffle(instances)
-	test = instances[pivot:]
+	test = instances[:pivot]
+	print len(test)
 	ranks_g = gr.getRankings(test)
 	ranks_f = mr.getRankings(test, 0)
         corr_g = ev.evaluateRanker(test, ranks_g)
 	corr_f = ev.evaluateRanker(test, ranks_f)
         corrs_g.append(corr_g)
 	corrs_f.append(corr_f)
+
+print corrs_g
+print corrs_f
 
 #Save results:
 o = open('../corpora/baselines/'+name+'_glavas.txt', 'w')
