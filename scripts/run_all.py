@@ -1,7 +1,7 @@
 import os
 
 scripts = ['ridge.py', 'boundary.py']
-#scripts = ['boundary.py']
+scripts = ['mlp.py']
 datasets = ['benchls.txt']
 
 for script in scripts:
