@@ -189,7 +189,7 @@ matrix = np.array(all_results)
 final_scores = np.average(matrix, 0)
 
 #Save results:
-o = open('../corpora/performances/mlp_'+name+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
+o = open('../../corpora/performances/mlp_'+name+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
 for i, c in zip(sizes, final_scores):
 	o.write(str(i)+'\t'+str(c)+'\n')
 o.close()
