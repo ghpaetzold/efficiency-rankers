@@ -201,10 +201,10 @@ print corrs_g
 print corrs_f
 
 #Save results:
-o = open('../corpora/baselines/'+name+'_glavas.txt', 'w')
+o = open('../../corpora/baselines/'+name+'_glavas.txt', 'w')
 o.write(str(numpy.mean(corrs_g))+'\n')
 o.close()
 
-o = open('../corpora/baselines/'+name+'_frequency.txt', 'w')
+o = open('../../corpora/baselines/'+name+'_frequency.txt', 'w')
 o.write(str(numpy.mean(corrs_f))+'\n')
 o.close()
