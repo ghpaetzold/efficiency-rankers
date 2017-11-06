@@ -184,7 +184,7 @@ mr = MetricRanker(fe)
 #Setup control variables:
 corrs_g = []
 corrs_f = []
-for prop in range(20, 120, 20):
+for prop in range(10, 110, 10):
 	trainprop = float(prop)/100.0
 	pivot = int(len(instances)*trainprop)
         random.shuffle(instances)
@@ -197,14 +197,17 @@ for prop in range(20, 120, 20):
         corrs_g.append(corr_g)
 	corrs_f.append(corr_f)
 
+corrs_g = [str(s) for s in corrs_g]
+corrs_f = [str(s) for s in corrs_f]
+
 print corrs_g
 print corrs_f
 
 #Save results:
 o = open('../../corpora/baselines/'+name+'_glavas.txt', 'w')
-o.write(str(numpy.mean(corrs_g))+'\n')
+o.write('\t'.join(corrs_g)+'\n')
 o.close()
 
 o = open('../../corpora/baselines/'+name+'_frequency.txt', 'w')
-o.write(str(numpy.mean(corrs_f))+'\n')
+o.write('\t'.join(corrs_f)+'\n')
 o.close()
