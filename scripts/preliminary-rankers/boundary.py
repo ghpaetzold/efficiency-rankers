@@ -263,10 +263,8 @@ class RankerEvaluator:
 
 
 datapath = '../../corpora/datasets/COLING_SR_Annotations_with_IDs.txt' #Path to the dataset
-trainprop = float(sys.argv[1])/100.0 #Proportion of the dataset that will become training data
-ntrains = int(sys.argv[2]) #Number of different models that will be trained for the same setting
-step = int(sys.argv[3]) #Instance number interval
-mode = sys.argv[4]
+ntrains = int(sys.argv[1]) #Number of different models that will be trained for the same setting
+mode = sys.argv[2]
 
 #Modes:
 #- normal: regular training (no adaptitve approach is used)
@@ -286,23 +284,20 @@ instancemap, name = mountInstances(datapath, mode)
 trainmap = {}
 testmap = {}
 for group in instancemap:
-	pivot = int(len(instancemap[group])*trainprop)
+	pivot = int(len(instancemap[group])*0.5)
 	trainmap[group] = instancemap[group][:pivot+1]
 	testmap[group] = instancemap[group][pivot+1:]
 
 #Setup control variables:
-all_results = []
+results = []
 for i in range(0, ntrains):
-	results = []
-	for j in range(1, step, step/10)+range(step, pivot+1, step):
 		preds = []
 		golds = []
 		for group in instancemap:
-			print group
 			train = trainmap[group]
 			random.shuffle(train)
 			test = testmap[group]
-			used_train = train[:j]
+			used_train = train
 			text_train = toText(used_train)
 			ranker = BoundaryRanker(fe)
 			ranker.trainRankerWithCrossValidation(text_train, 1, 2, 0.5)
@@ -310,18 +305,9 @@ for i in range(0, ntrains):
 			preds.extend(ranks)
 			golds.extend(test)
 		acc = ev.evaluateRankerAccuracy(test, ranks)
+		print acc
 		results.append(acc)
-	all_results.append(results)
 
-#Get list of training sizes:
-sizes = range(1, step, step/10)+range(step, pivot+1, step)
+final_score = np.mean(results)
 
-#Calculate averages:
-matrix = np.array(all_results)
-final_scores = np.average(matrix, 0)
-
-#Save results:
-o = open('../../corpora/adaptive/boundary_'+name+'_'+mode+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
-for i, c in zip(sizes, final_scores):
-	o.write(str(i)+'\t'+str(c)+'\n')
-o.close()
+print final_score

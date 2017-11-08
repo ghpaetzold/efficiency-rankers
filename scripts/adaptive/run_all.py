@@ -1,16 +1,10 @@
 import os
 
-scripts = ['ridge.py', 'boundary.py', 'mlp.py']
-#scripts = ['ridge.py']
-#datasets = ['benchls.txt']
-#datasets = ['nnseval.txt']
-datasets = ['semeval.txt']
+scripts = ['boundary.py']
+modes = ['normal', 'individual', 'group-age', 'group-lang', 'group-edu', 'group-prof']
 
 for script in scripts:
-	for dataset in datasets:
+	for mode in modes:
 		for prop in range(10, 100, 10):
-#		for prop in [f for f in range(10, 100, 10) if f not in set(range(20, 100, 20))]:
-		#for prop in range(20, 100, 20):
-		#for prop in [90]:
-			comm = 'nohup python -u '+script+' ../../corpora/datasets/'+dataset+' '+str(prop)+' 5 5 &'
+			comm = 'nohup python -u '+script+' '+str(prop)+' 5 500 '+mode+' &'
 			os.system(comm)

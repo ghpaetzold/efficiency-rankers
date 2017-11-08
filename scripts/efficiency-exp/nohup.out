@@ -61,3 +61,5 @@ Using Theano backend.
   warnings.warn('The `nb_epoch` argument in `fit` '
 /usr/local/lib/python2.7/dist-packages/keras/models.py:848: UserWarning: The `nb_epoch` argument in `fit` has been renamed `epochs`.
   warnings.warn('The `nb_epoch` argument in `fit` '
+/usr/local/lib/python2.7/dist-packages/keras/callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.196856). Check your callbacks.
+  % delta_t_median)
