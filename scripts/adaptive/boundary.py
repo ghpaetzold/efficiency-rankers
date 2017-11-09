@@ -11,6 +11,7 @@ def toText(data):
 
 def mountInstances(path, mode):
 	map = {}
+	size = 0
 	name = 'colingsr'
 	f = open(path)
 	insts = []
@@ -44,8 +45,9 @@ def mountInstances(path, mode):
 		if key not in map:
 			map[key] = []
 		map[key].append(inst)
+		size += 1
 	f.close()
-	return map, name
+	return map, name, size
 
 class BoundaryRanker:
 
@@ -277,10 +279,22 @@ mode = sys.argv[4]
 #Get feature calculator and evaluator:
 fe = FeatureEstimator()
 fe.addCollocationalFeature('/export/data/ghpaetzold/subimdbexperiments/corpora/binlms/subimdb', 2, 2, 'Complexity')
+fe.addWordVectorValues('/export/data/ghpaetzold/word2vecvectors/models/word_vectors_all_100_cbow_retrofitted.bin', 100, 'Simplicity')
+fe.addLengthFeature('Complexity')
 ev = RankerEvaluator()
 
 #Get instances and name from dataset:
-instancemap, name = mountInstances(datapath, mode)
+instancemap, name, totalsize = mountInstances(datapath, mode)
+
+#Produce global steps:
+rawcounts = []
+allsteps = []
+globalpivot = int(float(totalsize)*trainprop)
+for j in range(1, step, step/5)+range(step, globalpivot+1, step):
+	rawcounts.append(j)
+	proportion = float(j)/float(globalpivot)
+	allsteps.append(proportion)
+
 
 #Get train and test portions:
 trainmap = {}
@@ -293,19 +307,20 @@ for group in instancemap:
 #Setup control variables:
 all_results = []
 for i in range(0, ntrains):
+	print i
 	results = []
-	for j in range(1, step, step/10)+range(step, pivot+1, step):
+	for stepprop in allsteps:
 		preds = []
 		golds = []
 		for group in instancemap:
-			print group
 			train = trainmap[group]
 			random.shuffle(train)
 			test = testmap[group]
+			j = max(1, int(stepprop*float(len(train))))
 			used_train = train[:j]
 			text_train = toText(used_train)
 			ranker = BoundaryRanker(fe)
-			ranker.trainRankerWithCrossValidation(text_train, 1, 2, 0.5)
+			ranker.trainRankerWithCrossValidation(text_train, 1, 5, 0.5)
 			ranks = ranker.getRankings(test)
 			preds.extend(ranks)
 			golds.extend(test)
@@ -313,15 +328,15 @@ for i in range(0, ntrains):
 		results.append(acc)
 	all_results.append(results)
 
-#Get list of training sizes:
-sizes = range(1, step, step/10)+range(step, pivot+1, step)
 
 #Calculate averages:
 matrix = np.array(all_results)
 final_scores = np.average(matrix, 0)
 
+print len(rawcounts), len(final_scores)
+
 #Save results:
 o = open('../../corpora/adaptive/boundary_'+name+'_'+mode+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
-for i, c in zip(sizes, final_scores):
+for i, c in zip(rawcounts, final_scores):
 	o.write(str(i)+'\t'+str(c)+'\n')
 o.close()
