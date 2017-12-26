@@ -1,0 +1,21 @@
+Training proportions:
+	- Boundary has superior performance, but unstable with smaller amounts of data (needs entire ranking)
+	- MLP: results are not apparent if test set is too small with respect to the training set, more stable, requires less data to surpass unsupervised approach
+	
+Evaluation correlation:
+	- Ranking LS data available collected in binary form (coling 2016)
+	- Rankings cannot be inferred: binary comparisons were distributed arbitrarily (not all the ones from a given instance were given to the same person)
+	- Pearson and Spearman correlation 0.99 average correlation with binary decision Accuracy
+	- Allows binary-made datasets for ranking to be evaluated through Accuracy (segway onto adaptive LS)
+	
+Adaptive LS:
+
+
+
+
+Experiments:
+	- Normal (proportion vs. Accuracy)
+	- One for each user (same...)
+	- One for each language/age band/proficiency/education level
+	- Adding aspects as features (try different combinations)
+	- Try adding more features...
