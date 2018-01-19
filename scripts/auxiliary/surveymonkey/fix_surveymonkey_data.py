@@ -46,7 +46,7 @@ for line in f:
 	langhm[data[0].strip()] = data[1:]
 f.close()
 
-f = open('../../corpora/datasets/surveymonkey_dataset_251217.txt')
+f = open('../../../corpora/datasets/surveymonkey_dataset_150118.txt')
 line1 = f.readline().strip().split('\t')
 line2 = f.readline().strip().split('\t')
 
@@ -76,7 +76,7 @@ for i in range(6, len(line2)):
 
 		
 #Build output file:
-o = open('SurveyMonkey_Data_With_IDS.txt', 'w')
+o = open('SurveyMonkey_New_Data_With_IDS.txt', 'w')
 currid = -1
 for line in f:
 	data = line.strip().split('\t')
