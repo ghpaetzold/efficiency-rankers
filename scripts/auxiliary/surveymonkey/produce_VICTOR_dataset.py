@@ -102,14 +102,14 @@ for line in f:
 			
 		answers = data[15:]
 		candi = -1
-		for sent, target, index in zip(truesents,truetargets,trueindexes):
+		for sent, target, tgtindex in zip(truesents,truetargets,trueindexes):
 			candmap = {}
 			for cand in truemap[sent]:
 				candi += 1
 				index = int(answers[candi])
 				candmap[cand] = index
 			cands = sorted(candmap.keys(), key=candmap.__getitem__)
-			newline_short = sent+'\t'+target.lower()+'\t'+str(index)
+			newline_short = sent+'\t'+target.lower()+'\t'+str(tgtindex)
 			for cand in cands:
 				newline_short += '\t'+str(candmap[cand])+':'+cand
 			newline_short += '\n'
