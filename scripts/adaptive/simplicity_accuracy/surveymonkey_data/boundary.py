@@ -265,7 +265,7 @@ class RankerEvaluator:
 
                 return accuracy
 
-datapath = '../../../corpora/datasets/SurveyMonkey_Data_With_IDS.txt'
+datapath = '../../../../corpora/datasets/SurveyMonkey_150118_Data_With_IDS.txt'
 trainprop = float(sys.argv[1])/100.0 #Proportion of the dataset that will become training data
 ntrains = int(sys.argv[2]) #Number of different models that will be trained for the same setting
 step = int(sys.argv[3]) #Instance number interval
@@ -325,7 +325,7 @@ for i in range(0, ntrains):
 			ranks = ranker.getRankings(test)
 			preds.extend(ranks)
 			golds.extend(test)
-		acc = ev.evaluateRankerAccuracy(test, ranks)
+		acc = ev.evaluateRankerAccuracy(preds, golds)
 		results.append(acc)
 	all_results.append(results)
 
@@ -337,7 +337,7 @@ final_scores = np.average(matrix, 0)
 print len(rawcounts), len(final_scores)
 
 #Save results:
-o = open('../../../corpora/adaptive/surveymonkey/boundary_'+name+'_'+mode+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
+o = open('../../../../corpora/adaptive/simplicity_accuracy/surveymonkey/boundary_'+name+'_'+mode+'_'+str(trainprop)+'_'+str(ntrains)+'_'+str(step)+'.txt', 'w')
 for i, c in zip(rawcounts, final_scores):
 	o.write(str(i)+'\t'+str(c)+'\n')
 o.close()

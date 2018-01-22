@@ -1,7 +1,7 @@
 from lexenstein.generators import *
 from lexenstein.morphadorner import *
 from lexenstein.spelling import *
-import sys, os
+import sys, os, codecs
 
 class GlavasGenerator:
 
@@ -46,7 +46,7 @@ class GlavasGenerator:
 		tagged_sents = self.tagger.tag_sents(sents)
 		return tagged_sents
 
-	def getLemmaStemMap(self, data, tsents):
+	def getLemmaStemTagMap(self, data, tsents):
 		trgs = []
 		trgsc = []
 		trgsstems = []
@@ -78,7 +78,7 @@ class GlavasGenerator:
 			data.append(d)
 		lexf.close()
 		
-		trgmap = getLemmaStemTagMap(data, tagged_sents)
+		trgmap = self.getLemmaStemTagMap(data, tagged_sents)
 		
 		subs = []
 
@@ -102,14 +102,18 @@ class GlavasGenerator:
 				print tword
 				
 				try:
-					most_sim = self.model.most_similar(positive=[word], topn=50)
+					most_sim = self.model.most_similar(positive=[tword], topn=50)
 				except KeyError:
 					most_sim = []
 				
 				subs.append([word[0] for word in most_sim if '_' not in word[0]])
+
+		print subs
 			
 		subs_filtered = self.filterSubs(data, subs, trgmap)
 		
+		print subs_filtered
+
 		final_cands = {}
 		for i in range(0, len(data)):
 			target = data[i][1]
@@ -172,7 +176,7 @@ class GlavasGenerator:
 			target = d[1]
 			targett = target.split(' ')
 			firsttgt = targett[0]
-		    lasttgt = targett[-1]
+			lasttgt = targett[-1]
 			
 			if len(targett)>1:
 				most_sim = subs[i]
@@ -188,7 +192,7 @@ class GlavasGenerator:
 					cchars = set(c)
 					edges = set([first, last])
 					inter_edge = edges.intersection(prohibited_edges)
-								inter_chars = cchars.intersection(prohibited_chars)
+					inter_chars = cchars.intersection(prohibited_chars)
 					if c not in target and target not in c and first!=prevtgt and last!=proxtgt:
 						if len(inter_edge)==0 and len(inter_chars)==0:
 							if (firsttgt=='most' and first!='more') or (firsttgt=='more' and first!='most') or (firsttgt!='more' and firsttgt!='most'):
@@ -201,7 +205,7 @@ class GlavasGenerator:
 				tlemma = trgmap[target][1]
 				tag = trgmap[target][2]
 
-				rtarget = t+'|||'+tag
+				rtarget = target+'|||'+tag
 
 				most_sim = subs[i]
 				most_simf = []
@@ -213,7 +217,7 @@ class GlavasGenerator:
 
 					if ctag==tag:
 						if (not tlemma in cword) and (not tstem in cword) and (cword not in target) and (target not in cword):
-							most_simf.append(cand)
+							most_simf.append(cword)
 			
 				result.append(most_simf)
 		return result
@@ -229,20 +233,28 @@ class GlavasGenerator:
 
 victor_corpus = sys.argv[1].strip()
 
+pos_model = '/export/data/ghpaetzold/benchmarking/lexmturk/scripts/evaluators/stanford-postagger-full-2015-04-20/models/wsj-0-18-left3words-distsim.tagger'
 w2v = '/export/data/ghpaetzold/word2vecvectors/models/word_vectors_mweall_generalized_1300_cbow_retrofitted.bin'
+stanford_tagger = '/export/data/ghpaetzold/benchmarking/lexmturk/scripts/evaluators/stanford-postagger-full-2015-04-20/stanford-postagger.jar'
 
-kg = GlavasGenerator(w2v)
+kg = GlavasGenerator(w2v, pos_model, stanford_tagger, '/usr/bin/java')
 subs = kg.getSubstitutions(victor_corpus, 40)
 
-os.system('mkdir ../../../corpora/substitutions/')
+os.system('mkdir ../../../../corpora/substitutions/')
 for i in [5, 10, 20, 30, 40]:
-	out = open('../../../corpora/substitutions/mweretrofittedpaetzoldfembed_substitutions_'+str(i)+'.txt', 'w')
-	for k in subs.keys():
-		newline = k + '\t'
-		if len(subs[k])>0:
-			for c in subs[k][:i]:
-				newline += c + '|||'
-			newline = newline[0:len(newline)-3]
-			out.write(newline.strip() + '\n')
+	f = codecs.open(victor_corpus, encoding='utf8')
+	out = codecs.open('../../../../corpora/substitutions/mweretrofittedpaetzoldfembed_substitutions_victor_'+str(i)+'.txt', 'w', encoding='utf8')
+	for line in f:
+		data = line.strip().split('\t')
+		target = data[1].strip()
+		cands = []
+		if target in subs:
+			cands = subs[target]
+		newline = data[0]+'\t'+target+'\t'+data[2]
+		for j, c in enumerate(cands[:i]):
+			try:
+				newline += '\t' + str(j+1)+':'+c.decode('utf8')
+			except Exception:
+				pass
+		out.write(newline.strip() + '\n')
 	out.close()
-		

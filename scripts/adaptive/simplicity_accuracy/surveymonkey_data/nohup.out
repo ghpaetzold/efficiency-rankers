@@ -71,650 +71,3228 @@
 /usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
   "This module will be removed in 0.20.", DeprecationWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 2.40963855422e-05 0.602379883251
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 0.00243373493976 0.592725639874
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 2.71083520833e-05 0.522117161178
+0 3.61441428417e-05 0.605986660159
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 2.71083520833e-05 0.613413304253
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 0.00484337349398 0.57768298159
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 2.40963855422e-05 0.580152671756
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
+0 0.00725301204819 0.594072743601
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
 0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-1
-1
-1
-1
-2
-2
-1
-2
-3
-1
-3
-2
-4
-1
-3
-4
-1
-12 12
-1
-2
-3
-4
-12 12
-1
-2
-12 12
-1
-4
-1
-3
-2
-12 12
-2
-3
-1
-2
-4
-1
-1
-1
-3
-2
-20 20
-4
-2
-3
-3
-1
-1
-2
-20 20
-4
-1
-1
-3
-4
-4
-2
-1
-2
-20 20
-3
-2
-1
-2
-20 20
-28 28
-3
-4
-1
-1
-1
-1
-4
-2
-3
-3
-28 28
-2
-4
-3
-1
-2
-1
-2
-3
-1
-28 28
-1
-4
-4
-2
-36 36
-1
-3
-4
-2
-1
-4
-28 28
-3
-36 36
-1
-2
-3
-3
-2
-2
-36 36
-2
-4
-1
-44 44
-3
-1
-4
-2
-4
-3
-4
-2
-2
-1
-44 44
-3
-2
-3
-4
-3
-2
-36 36
-52 52
-3
-44 44
-2
-4
-4
-3
-52 52
-2
-3
-3
-4
-4
-2
-60 60
-4
-3
-44 44
-3
-2
-52 52
-4
-3
-60 60
-2
-4
-4
-68 68
-3
-4
-52 52
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-3
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-0
-/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py:84: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
-  "and default tol will be 1e-3." % type(self), FutureWarning)
-4
-1
-1
-1
-1
-68 68
-2
-2
-2
-4
-2
-1
-1
-1
-3
-3
-3
-1
-3
-4
-4
-4
-4
-1
-12 12
-2
-12 12
-1
-12 12
-2
-1
-2
-75 75
-12 12
-3
-2
-3
-1
-1
-60 60
-3
-1
-3
-2
-4
-1
-4
-2
-4
-3
-4
-2
-3
-1
-1
-1
-20 20
-1
-20 20
-20 20
-75 75
-3
-4
-3
-2
-2
-1
-2
-1
-3
-60 60
-1
-20 20
-2
-1
-4
-4
-4
-1
-1
-4
-3
-3
-2
-1
-68 68
-28 28
-1
-2
-4
-3
-2
-28 28
-1
-2
-1
-3
-28 28
-1
-4
-4
-4
-1
-1
-2
-1
-4
-2
-68 68
-3
-2
-1
-4
-75 75
-3
-2
-3
-28 28
-36 36
-75 75
-3
-36 36
-1
-2
-2
-36 36
-4
-1
-2
-3
-2
-4
-3
-4
-2
-4
-2
-3
-3
-44 44
-2
-44 44
-3
-36 36
-3
-2
-2
-4
-2
-4
-44 44
-3
-4
-4
-2
-3
-3
-52 52
-3
-4
-52 52
-2
-4
-3
-44 44
-52 52
-2
-3
-4
-3
-3
-4
-60 60
-4
-60 60
-4
-3
-60 60
-4
-52 52
-3
-4
-4
-4
-68 68
-68 68
-3
-4
-68 68
-60 60
-4
-75 75
-75 75
-4
-75 75
-68 68
-75 75
+0 2.40963855422e-05 0.502170138889
+0 0.00243373493976 0.55812431843
+0 0.00966265060241 0.585092052088
+0 0.00273794356041 0.578953107961
+0 2.40963855422e-05 0.467794404684
+0
+0
+0 3.09808538323e-05 0.584776864357
+0 0.00273794356041 0.565808064341
+0 2.71083520833e-05 0.466970387244
+0
+0 3.09808538323e-05 0.626472927058
+0
+0 0.00484337349398 0.552889858233
+0 0.00365055842701 0.583319776585
+0 0.0120481927711 0.600359227661
+0 0.00243373493976 0.577473958333
+0
+0 4.33726578765e-05 0.577446420032
+0 0.000108436347864 0.575572519084
+0 4.33726578765e-05 0.570369395455
+0 0.00243373493976 0.647581869443
+0 0.00544877876874 0.595092693566
+0 4.33726578765e-05 0.563340563991
+0 0.00484337349398 0.639105902778
+0 0.0240963855422 0.590255949708
+0 0.00725301204819 0.560305343511
+0 3.09808538323e-05 0.55115942029
+0 0.00544877876874 0.562982284534
+0 2.71083520833e-05 0.664606376057
+0 3.09808538323e-05 0.581447473068
+0 0.00484337349398 0.66753415745
+0 0.00273794356041 0.592689011823
+0 0.00312906623707 0.558866705813
+0 0.00815961397707 0.595747001091
+0 0.0361445783133 0.602155365963
+0 0.00725301204819 0.662760416667
+0 0.00966265060241 0.572082878953
+0 0.00312906623707 0.632328489843
+0 0.00725301204819 0.695727607894
+0 0.0481927710843 0.592725639874
+0 3.61441428417e-05 0.595474372955
+0 0.00815961397707 0.583740897729
+0 0.0108704491854 0.594329334787
+0 5.42181739319e-05 0.557433660487
+0 0.00966265060241 0.641710069444
+0 5.42181739319e-05 0.544679005205
+0 3.61441428417e-05 0.583763236492
+0 0.0120481927711 0.572955288986
+0 0.0602409638554 0.588235294118
+0 0.00273794356041 0.654196486662
+0 7.22908985759e-05 0.665499721172
+0 0.00726497271117 0.622797028361
+0 0.00966265060241 0.707438733463
+0 4.33726578765e-05 0.636000867491
+0 0.00438063844552 0.553145241925
+0 0.0108704491854 0.591674817955
+0 0.0062271516203 0.561876100998
+0 0.00438063844552 0.615921908894
+0 7.22908985759e-05 0.581859368212
+0 0.0135541760416 0.586041439477
+0 5.42181739319e-05 0.50804963641
+0 0.00438063844552 0.565719048873
+0 0.00544877876874 0.601366742597
+0 0.00312906623707 0.555579710145
+0 0.0120481927711 0.661458333333
+0 3.61441428417e-05 0.384623725873
+0 0.0722891566265 0.602604400539
+0 0.00312906623707 0.577832405466
+0 0.0240963855422 0.609160305344
+0 0.00544877876874 0.664172630666
+0 7.22908985759e-05 0.587624391605
+0 0.000216872695728 0.630289156627
+0 0.0120481927711 0.712643678161
+0 0.0271083520833 0.59705561614
+0 0.0135541760416 0.586349309858
+0 0.0843373493976 0.612258643916
+0 7.22908985759e-05 0.563594113091
+0 5.42181739319e-05 0.647883760437
+0 0.0240963855422 0.693142361111
+0 0.0062271516203 0.623581291115
+0 0.0109520711342 0.558805888768
+0 0.00365055842701 0.574154852781
+0 0.0240963855422 0.729776621123
+0 0.000108436347864 0.350321233972
+0 0.00815961397707 0.63629460896
+0 0.00932523700353 0.568482090429
+0 0.0361445783133 0.60479825518
+0 0.0963855421687 0.611585092052
+0 0.0406625281249 0.61254089422
+0 0.00815961397707 0.703643461288
+0 0.0108793869953 0.628978905699
+0 0.0361445783133 0.684027777778
+0 0.000108436347864 0.585917785918
+0 0.00365055842701 0.561770295954
+0 0.10843373494 0.625505163898
+0 0.0361445783133 0.738885274344
+0 0.0062271516203 0.581014492754
+0 0.00871790423317 0.558753206104
+0 0.000216872695728 0.541318029466
+0 0.0542167041666 0.632061068702
+0 0.0271083520833 0.5912400826
+0 0.00871790423317 0.565762920067
+0 0.0062271516203 0.619694888294
+0 0.0481927710843 0.636423118866
+0 0.120481927711 0.638976201167
+0 0.000216872695728 0.642865749331
+0 0.00730138075616 0.557686340222
+0 0.0481927710843 0.708767361111
+0 0.000108436347864 0.43810659871
+0 0.00547603556712 0.555034532897
+0 0.0108704491854 0.687920190848
+0 0.0481927710843 0.730427239211
+0 0.00547603556712 0.588056680162
+0 0.0108704491854 0.640633474346
+0 0.00871790423317 0.606203904555
+0 0.000216872695728 0.514373369408
+0 0.0124233223868 0.551379917792
+0 0.00365055842701 0.634081544134
+0 0.00438063844552 0.650921708957
+0 0.00932523700353 0.684883973108
+0 0.00726497271117 0.57066521265
+0 0.0602409638554 0.641003271538
+0 0.00547603556712 0.534025541768
+0 0.0602409638554 0.704210069444
+0 0.0677708802082 0.630534351145
+0 0.0406625281249 0.633518095859
+0 0.0602409638554 0.746909564086
+0 0.00726497271117 0.560304099919
+0 0.0144938012795 0.640366574481
+0 0.00932523700353 0.560362318841
+0 0.132530120482 0.632240682533
+0 0.00932523700353 0.622948449136
+0 0.0135541760416 0.703318152245
+0 0.0130551700208 0.584445507108
+0 0.00730138075616 0.618253919078
+0 0.0135541760416 0.670897060419
+0 0.0219041422685 0.650602409639
+0 0.0722891566265 0.643402399128
+0 0.00547603556712 0.585932699606
+0 0.0722891566265 0.720703125
+0 0.0722891566265 0.737367165474
+0 0.0124233223868 0.691823899371
+0 0.0154904269162 0.577436876101
+0 0.00726497271117 0.686944263717
+0 0.00730138075616 0.575161980345
+0 0.0130551700208 0.58967462039
+0 0.00730138075616 0.586243222308
+0 0.0130551700208 0.564271299465
+0 0.0813250562498 0.621810250818
+0 0.0542167041666 0.619715248343
+0 0.144578313253 0.619443197126
+0 0.0108793869953 0.582731468911
+0 0.0271083520833 0.712535241813
+0 0.0309808538323 0.590281855549
+0 0.0217957059206 0.561150490731
+0 0.0173924358085 0.580880754684
+0 0.0843373493976 0.727864583333
+0 0.0271083520833 0.674802039267
+0 0.0145304706137 0.566468069261
+0 0.0843373493976 0.642966194111
+0 0.0124233223868 0.598913043478
+0 0.0109520711342 0.669549188105
+0 0.0108793869953 0.563304252999
+0 0.0843373493976 0.744957709824
+0 0.0464712807485 0.608338226659
+0 0.0108978529603 0.565976008724
+0 0.0219041422685 0.607248716775
+0 0.00871790423317 0.674083712861
+0 0.0124233223868 0.644494252043
+0 0.0144938012795 0.585555253869
+0 0.0963855421687 0.723090277778
+0 0.0108978529603 0.617698091382
+0 0.0154904269162 0.703896479433
+0 0.0180720714208 0.67019142129
+0 0.0109520711342 0.525763125763
+0 0.0406625281249 0.723595749295
+0 0.0108793869953 0.669648666233
+0 0.0963855421687 0.741921492084
+0 0.0619617076647 0.595566647093
+0 0.0677708802082 0.630148896859
+0 0.0109520711342 0.624491677059
+0 0.0948792322915 0.624645583424
+0 0.0406625281249 0.698014969086
+0 0.0173924358085 0.5640080723
+0 0.156626506024 0.638527166592
+0 0.0963855421687 0.640785169029
+0 0.0108978529603 0.683015867279
+0 0.0108978529603 0.562172135596
+0 0.10843373494 0.738064236111
+0 0.0154904269162 0.608115942029
+0 0.10843373494 0.745391455216
+0 0.0219041422685 0.512320030921
+0 0.0216863289382 0.571621092901
+0 0.0309808538323 0.704980842912
+0 0.0144938012795 0.567884405671
+0 0.108433408333 0.642529989095
+0 0.0217595604713 0.567833426426
+0 0.0219041422685 0.588748764197
+0 0.0542167041666 0.726198221644
+0 0.0173924358085 0.656616052061
+0 0.0154904269162 0.665895452245
+0 0.0542167041666 0.70322160755
+0 0.10843373494 0.659541984733
+0 0.0130551700208 0.686532205595
+0 0.0145304706137 0.60901626646
+0 0.0145304706137 0.66742053411
+0 0.120481927711 0.723741319444
+0 0.0180720714208 0.584686396959
+0 0.0813250562498 0.639930442343
+0 0.0774521345808 0.601805637111
+0 0.120481927711 0.740403383214
+0 0.168674698795 0.632914234396
+0 0.0216863289382 0.54992541897
+0 0.032639340707 0.577780806979
+0 0.0677708802082 0.730101930167
+0 0.0309808538323 0.595579710145
+0 0.0435914118412 0.66113253012
+0 0.0145304706137 0.555073317419
+0 0.121987584375 0.641221374046
+0 0.0217957059206 0.649597440972
+0 0.0144938012795 0.665907612232
+0 0.0361441428417 0.684073531804
+0 0.0309808538323 0.678909695611
+0 0.0163196703535 0.674485849568
+0 0.120481927711 0.655616139586
+0 0.0163196703535 0.566303162486
+0 0.0163196703535 0.652400231348
+0 0.0677708802082 0.707343529667
+0 0.132530120482 0.733289930556
+0 0.132530120482 0.743222728259
+0 0.135541760416 0.63893129771
+0 0.0464712807485 0.719366731728
+0 0.0435914118412 0.621635298937
+0 0.0163196703535 0.566766759524
+0 0.0173924358085 0.666276295814
+0 0.0433726578765 0.609659609616
+0 0.0813250562498 0.737909347213
+0 0.0180720714208 0.573882224646
+0 0.0217957059206 0.548066748067
+0 0.092942561497 0.608338226659
+0 0.0948792322915 0.629931529182
+0 0.0216863289382 0.653796095445
+0 0.0464712807485 0.682380160509
+0 0.0180720714208 0.67235957493
+0 0.0542162142625 0.686893335502
+0 0.144578313253 0.741054001301
+0 0.0361441428417 0.606950855281
+0 0.0433726578765 0.564315170659
+0 0.144578313253 0.728732638889
+0 0.132530120482 0.662377317339
+0 0.0813250562498 0.714177242651
+0 0.0464712807485 0.604710144928
+0 0.180722891566 0.657162101482
+0 0.0216863289382 0.688787681631
+0 0.0289886503289 0.565071681251
+0 0.0619617076647 0.707655606159
+0 0.0435914118412 0.540607788192
+0 0.0948792322915 0.733788765994
+0 0.0217957059206 0.651520902239
+0 0.0217414877467 0.648317490151
+0 0.156626506024 0.737847222222
+0 0.0619617076647 0.695683609283
+0 0.156626506024 0.747126436782
+0 0.0217595604713 0.597180480248
+0 0.108433408333 0.641560699924
+0 0.108432988413 0.61898120963
+0 0.0217595604713 0.660945535659
+0 0.0650589868147 0.603660392123
+0 0.032639340707 0.689338285126
+0 0.0948792322915 0.726434537368
+0 0.0722882856833 0.691502630009
+0 0.0435914118412 0.563888018133
+0 0.0433726578765 0.699718065496
+0 0.0217414877467 0.552998909487
+0 0.144578313253 0.673500545256
+0 0.0361441428417 0.703589243114
+0 0.0217595604713 0.563195585454
+0 0.0217414877467 0.658111625217
+0 0.168674698795 0.738715277778
+0 0.108433408333 0.729559748428
+0 0.0433726578765 0.68
+0 0.0361441428417 0.568375136314
+0 0.0434829754934 0.565594329335
+0 0.168674698795 0.747560182173
+0 0.0619617076647 0.618333333333
+0 0.065278681414 0.690144578313
+0 0.0774521345808 0.715132672981
+0 0.0217414877467 0.59049962013
+0 0.0774521345808 0.724065640136
+0 0.180722891566 0.73046875
+0 0.0650589868147 0.580152671756
+0 0.065278681414 0.63999807215
+0 0.0542162142625 0.623622047244
+0 0.032639340707 0.589960656627
+0 0.108433408333 0.717431391691
+0 0.0903603571041 0.692424488911
+0 0.192771084337 0.653794342164
+0 0.156626506024 0.657579062159
+0 0.149095936458 0.655616139586
+0 0.123923415329 0.621990604815
+0 0.192771084337 0.740885416667
+0 0.121987584375 0.642538854472
+0 0.0361454492879 0.563023645504
+0 0.121987584375 0.732812838864
+0 0.0650589868147 0.693015184382
+0 0.180722891566 0.742355237476
+0 0.0542162142625 0.713294296248
+0 0.0650589868147 0.717718499241
+0 0.135541760416 0.731945348081
+0 0.027109086966 0.559142130134
+0 0.027109086966 0.654424522846
+0 0.092942561497 0.704865880992
+0 0.0542162142625 0.597655398037
+0 0.0722882856833 0.612055389628
+0 0.0289886503289 0.587965402858
+0 0.192771084337 0.747126436782
+0 0.0774521345808 0.634057971014
+0 0.121987584375 0.726543009003
+0 0.0867453157529 0.59081337194
+0 0.0867453157529 0.627266008781
+0 0.027109086966 0.583879020296
+0 0.204819277108 0.737413194444
+0 0.168674698795 0.670229007634
+0 0.0542181739319 0.566848418757
+0 0.092942561497 0.7258729126
+0 0.027109086966 0.69002783099
+0 0.135541760416 0.643517009021
+0 0.0722908985759 0.578570098678
+0 0.204819277108 0.746258945999
+0 0.065278681414 0.523987824911
+0 0.0289886503289 0.648737412858
+0 0.139413842245 0.627128596594
+0 0.0434829754934 0.683916614709
+0 0.032639340707 0.621184189123
+0 0.0722882856833 0.716438950336
+0 0.0289886503289 0.678449718074
+0 0.0867453157529 0.716937757536
+0 0.135541760416 0.727736196984
+0 0.149095936458 0.729885057471
+0 0.0869659509868 0.69356626506
+0 0.204819277108 0.655590480467
+0 0.108432428525 0.702890298791
+0 0.0903603571041 0.637686668477
+0 0.21686746988 0.744090219041
+0 0.21686746988 0.740451388889
+0 0.065278681414 0.59316148634
+0 0.0542181739319 0.682475419318
+0 0.108431644691 0.593621128367
+0 0.108436347864 0.578026172301
+0 0.0867453157529 0.68967462039
+0 0.180722891566 0.664558342421
+0 0.108432988413 0.714915768925
+0 0.108432988413 0.730571821008
+0 0.149095936458 0.650038039344
+0 0.092942561497 0.638695652174
+0 0.0361454492879 0.581796199275
+0 0.1626501125 0.650054525627
+0 0.0542181739319 0.71254563198
+0 0.0722882856833 0.589585605234
+0 0.149095936458 0.723831218136
+0 0.1626501125 0.730535675558
+0 0.130117973629 0.607265069755
+0 0.0434829754934 0.577967711301
+0 0.0542181739319 0.583351508542
+0 0.0869659509868 0.650287972625
+0 0.126504499946 0.703812157692
+0 0.108436347864 0.702168674699
+0 0.228915662651 0.74213836478
+0 0.154904269162 0.630871990605
+0 0.108431644691 0.721145087833
+0 0.0903603571041 0.713565387118
+0 0.0542181739319 0.689148526661
+0 0.108436347864 0.595140569726
+0 0.228915662651 0.735677083333
+0 0.0813272608979 0.690066512435
+0 0.108431644691 0.640655566665
+0 0.162654521796 0.586205016358
+0 0.192771084337 0.663249727372
+0 0.0361454492879 0.668102246321
+0 0.108431644691 0.701778741866
+0 0.0542181739319 0.602438406715
+0 0.240963855422 0.741102430556
+0 0.123923415329 0.714915768925
+0 0.176204288541 0.733897202342
+0 0.0813272608979 0.593238822246
+0 0.240963855422 0.746258945999
+0 0.21686746988 0.671306690615
+0 0.1626501125 0.724698991214
+0 0.151804302568 0.606826357813
+0 0.108432428525 0.639858810752
+0 0.0869659509868 0.494661319934
+0 0.144581797152 0.594954384658
+0 0.0869659509868 0.591256540715
+0 0.1626501125 0.650798826215
+0 0.0813272608979 0.711569740124
+0 0.130117973629 0.695661605206
+0 0.108432988413 0.639855072464
+0 0.123923415329 0.727535603268
+0 0.216872695728 0.71686746988
+0 0.189758464583 0.72945131208
+0 0.0903603571041 0.594329334787
+0 0.253012048193 0.743272569444
+0 0.0542181739319 0.57324650658
+0 0.18072724644 0.608918264755
+0 0.144576571367 0.708529906187
+0 0.216872695728 0.591930207197
+0 0.0361454492879 0.69806059855
+0 0.176204288541 0.728278555158
+0 0.204819277108 0.678080697928
+0 0.139413842245 0.716578700022
+0 0.108436347864 0.660120008675
+0 0.130117973629 0.717198004771
+0 0.253012048193 0.746909564086
+0 0.108432428525 0.719366731728
+0 0.108436347864 0.598909487459
+0 0.108436347864 0.692126951995
+0 0.203312640625 0.735415311212
+0 0.0434829754934 0.648701404327
+0 0.139413842245 0.729270584833
+0 0.173490631506 0.603448275862
+0 0.108436347864 0.525944535704
+0 0.0722908985759 0.616145332796
+0 0.108436347864 0.714874352788
+0 0.176204288541 0.655798282795
+0 0.176204288541 0.650054525627
+0 0.151804302568 0.715419648666
+0 0.216872695728 0.607677030969
+0 0.265060240964 0.740885416667
+0 0.123923415329 0.642101449275
+0 0.265060240964 0.747343309477
+0 0.151804302568 0.702993492408
+0 0.189758464583 0.729797158043
+0 0.21686746988 0.681134133043
+0 0.108432428525 0.600817884406
+0 0.216866816666 0.733680329646
+0 0.126504499946 0.633776812381
+0 0.154904269162 0.727318730572
+0 0.27109086966 0.600736095965
+0 0.130117973629 0.636656088336
+0 0.13554543483 0.702139965298
+0 0.0722908985759 0.67256390395
+0 0.170394696078 0.632266588373
+0 0.325309043591 0.713373493976
+0 0.13554543483 0.614540167212
+0 0.0813272608979 0.619731558193
+0 0.162648642787 0.704408654628
+0 0.154904269162 0.716289494614
+0 0.108436347864 0.605169877746
+0 0.228915662651 0.658733722497
+0 0.216872695728 0.676434441044
+0 0.0722908985759 0.71729970878
+0 0.195176960444 0.606563130648
+0 0.108436347864 0.710557704124
+0 0.277108433735 0.745391455216
+0 0.277108433735 0.741753472222
+0 0.126504499946 0.606761177754
+0 0.173490631506 0.716442516269
+0 0.162654521796 0.609305707016
+0 0.173490631506 0.721058338755
+0 0.126504499946 0.723487312947
+0 0.325309043591 0.606788440567
+0 0.189758464583 0.657645908053
+0 0.170394696078 0.72890913034
+0 0.203312640625 0.729905629678
+0 0.108436347864 0.598697598698
+0 0.230420992708 0.7360659293
+0 0.253018145016 0.615062371998
+0 0.162654521796 0.71151291713
+0 0.228915662651 0.678080697928
+0 0.108436347864 0.682261812548
+0 0.433745391455 0.715614457831
+0 0.216863289382 0.612880582609
+0 0.289156626506 0.738932291667
+0 0.139413842245 0.642246376812
+0 0.144576571367 0.658050502308
+0 0.195176960444 0.719713728042
+0 0.144576571367 0.723216222078
+0 0.289156626506 0.738017783561
+0 0.216866816666 0.732400477275
+0 0.170394696078 0.721639794664
+0 0.189763608762 0.611304980007
+0 0.0542181739319 0.670932060945
+0 0.108436347864 0.627956722572
+0 0.325309043591 0.694845410512
+0 0.185885122994 0.732162220776
+0 0.216872695728 0.540559474345
+0 0.379527217523 0.608860414395
+0 0.180720714208 0.710482077978
+0 0.151804302568 0.63861235491
+0 0.144576571367 0.606379498364
+0 0.189758464583 0.652889858233
+0 0.195176960444 0.703080260304
+0 0.230420992708 0.738257945547
+0 0.13554543483 0.71330465898
+0 0.542181739319 0.716891566265
+0 0.301204819277 0.741536458333
+0 0.301204819277 0.747126436782
+0 0.243975168749 0.734547820429
+0 0.162648642787 0.723758403817
+0 0.240963855422 0.672846237732
+0 0.203312640625 0.658732746441
+0 0.162654521796 0.694657316368
+0 0.108436347864 0.717578536464
+0 0.216863289382 0.724051181956
+0 0.243975168749 0.739776548433
+0 0.216872695728 0.620530008922
+0 0.108436347864 0.627654571108
+0 0.240963855422 0.669510552313
+0 0.433745391455 0.604989094875
+0 0.289163594303 0.619158443493
+0 0.162648642787 0.650502307901
+0 0.154904269162 0.654492753623
+0 0.185885122994 0.72539946497
+0 0.313253012048 0.747560182173
+0 0.216872695728 0.610941475827
+0 0.20137554991 0.730210366515
+0 0.257529344791 0.738126219909
+0 0.257529344791 0.735980041219
+0 0.216872695728 0.71815446339
+0 0.185885122994 0.642102172637
+0 0.253012048193 0.676117775354
+0 0.198792785629 0.697088010412
+0 0.313253012048 0.746744791667
+0 0.238549618321 0.722229451312
+0 0.180720714208 0.721427022338
+0 0.162654521796 0.71431669498
+0 0.162648642787 0.615267175573
+0 0.433745391455 0.69923126973
+0 0.216863289382 0.712885032538
+0 0.216866816666 0.661667210086
+0 0.650618087183 0.72156626506
+0 0.20137554991 0.725182560914
+0 0.144581797152 0.686413632843
+0 0.325301204819 0.747560182173
+0 0.144581797152 0.642558204421
+0 0.162654521796 0.621869488536
+0 0.271083520833 0.741945981126
+0 0.173490631506 0.649958701039
+0 0.325309043591 0.551236834477
+0 0.216865976826 0.725294585412
+0 0.487963565387 0.612050163577
+0 0.325301204819 0.741102430556
+0 0.271083520833 0.733897202342
+0 0.170394696078 0.654927536232
+0 0.243981782694 0.61715739731
+0 0.325309043591 0.616707006765
+0 0.108436347864 0.67131160874
+0 0.180720714208 0.613631406761
+0 0.180720714208 0.652945967961
+0 0.13554543483 0.637856806917
+0 0.265060240964 0.682224645583
+0 0.238549618321 0.617750285163
+0 0.238549618321 0.715184381779
+0 0.232356403742 0.731656184486
+0 0.198792785629 0.718390804598
+0 0.203312640625 0.647001090513
+0 0.260235947259 0.715593146823
+0 0.189763608762 0.707959803355
+0 0.253012048193 0.676470588235
+0 0.144581797152 0.715967532065
+0 0.325309043591 0.628704395843
+0 0.33734939759 0.746909564086
+0 0.230420992708 0.660145636344
+0 0.284637696874 0.73552374756
+0 0.216865976826 0.718820041935
+0 0.284637696874 0.73250894891
+0 0.542181739319 0.703954502735
+0 0.21686485705 0.710915893932
+0 0.33734939759 0.74609375
+0 0.18072724644 0.697226955848
+0 0.247846830659 0.729848912022
+0 0.27109086966 0.720241806501
+0 0.759054435047 0.722554216867
+0 0.27109086966 0.615557978917
+0 0.189763608762 0.720244334406
+0 0.277108433735 0.676117775354
+0 0.349397590361 0.741921492084
+0 0.542181739319 0.611641221374
+0 0.298191872916 0.732053784429
+0 0.20137554991 0.636964180857
+0 0.18072724644 0.634559940478
+0 0.185885122994 0.650289855072
+0 0.260235947259 0.715488069414
+0 0.21686485705 0.723866840165
+0 0.195176960444 0.643003086554
+0 0.243975168749 0.66807955657
+0 0.361454492879 0.624495748774
+0 0.281922276197 0.72231620039
+0 0.162654521796 0.676327061758
+0 0.198792785629 0.657453163182
+0 0.349397590361 0.743272569444
+0 0.433745391455 0.556189003768
+0 0.298191872916 0.734244495065
+0 0.361445783133 0.736716547387
+0 0.433745391455 0.626799450218
+0 0.232356403742 0.724748752802
+0 0.216872695728 0.698187451588
+0 0.289156626506 0.680697928026
+0 0.216872695728 0.62501695835
+0 0.162654521796 0.640533989364
+0 0.234936928471 0.709505992083
+0 0.263337257575 0.729198293935
+0 0.265060240964 0.670633138752
+0 0.361445783133 0.742838541667
+0 0.216872695728 0.700802486987
+0 0.311746048958 0.738017783561
+0 0.281922276197 0.717787418655
+0 0.373493975904 0.744307091737
+0 0.18072724644 0.723743726377
+0 0.20137554991 0.655289855072
+0 0.216866816666 0.66106870229
+0 0.198792785629 0.613522355507
+0 0.257529344791 0.665362460602
+0 0.311746048958 0.739234190259
+0 0.216872695728 0.721870820833
+0 0.21686485705 0.65609557426
+0 0.260235947259 0.621874177415
+0 0.373493975904 0.741753472222
+0 0.650618087183 0.706075137962
+0 0.303608605135 0.720494469746
+0 0.234936928471 0.723812621991
+0 0.325300224999 0.737909347213
+0 0.325309043591 0.717856271517
+0 0.301204819277 0.672410032715
+0 0.216863289382 0.649089249228
+0 0.303608605135 0.711887201735
+0 0.247846830659 0.731328175837
+0 0.278827684491 0.729198293935
+0 0.86749078291 0.722096385542
+0 0.216872695728 0.639241094956
+0 0.385542168675 0.749078291043
+0 0.338854401041 0.7360659293
+0 0.216865976826 0.6376247798
+0 0.271083520833 0.66297141615
+0 0.216865976826 0.65768115942
+0 0.253008999892 0.708096090234
+0 0.542181739319 0.557904145328
+0 0.385542168675 0.740885416667
+0 0.379527217523 0.720919515303
+0 0.253018145016 0.704322230829
+0 0.216872695728 0.718507962079
+0 0.325300224999 0.738257945547
+0 0.352408577083 0.735740620256
+0 0.216872695728 0.696551537169
+0 0.298199956625 0.618756815703
+0 0.253008999892 0.725005421817
+0 0.325294934074 0.715488069414
+0 0.542181739319 0.644185093198
+0 0.243981782694 0.711430017351
+0 0.596399913251 0.610550708833
+0 0.189763608762 0.642017293151
+0 0.277108433735 0.6697350696
+0 0.313253012048 0.6826608506
+0 0.433745391455 0.718181571742
+0 0.294318111407 0.730210366515
+0 0.234936928471 0.665653000272
+0 0.253018145016 0.718631885495
+0 0.397590361446 0.747126436782
+0 0.975927130774 0.721084337349
+1
+0 0.325294934074 0.722923443938
+0 0.27109086966 0.633591100258
+0 0.263337257575 0.728291519051
+0 0.230420992708 0.6586695747
+0 0.238549618321 0.65000217363
+0 0.346981263012 0.718611713666
+0 0.397590361446 0.745225694444
+0 0.759054435047 0.705641371665
+0 0.243981782694 0.724437054975
+0 0.409638554217 0.746258945999
+0 0.397599942167 0.628188419289
+0 0.309808538323 0.731439311791
+0 0.338854401041 0.739125718625
+0 0.284637696874 0.669057711118
+0 0.232356403742 0.660724637681
+1 0.000216872695728 0.647831325301
+0 0.21686485705 0.62213740458
+0 0.650618087183 0.555754179148
+0 0.365962753124 0.732053784429
+0 0.421686746988 0.747993927565
+0 0.325301204819 0.684187568157
+0 0.271081071312 0.710807439944
+0 0.289163594303 0.726779850053
+0 0.271081071312 0.722186076773
+0 0.27109086966 0.710670908039
+0 0.253018145016 0.641287162476
+0 0.487963565387 0.720946623655
+0 0.278827684491 0.725688670378
+0 0.27109086966 0.697635959443
+0 0.281922276197 0.618364481881
+0 0.346981263012 0.722533073086
+0 0.325298965239 0.733102002458
+0 0.409638554217 0.743055555556
+0 0.352408577083 0.741620566222
+0 0.289163594303 0.704663051898
+0 0.216872695728 0.647697261315
+0 0.379516929166 0.729342875732
+0 0.232356403742 0.645258367587
+0 0.36866759195 0.721648590022
+0 0.650618087183 0.6495141183
+0 0.86749078291 0.706123334217
+0 0.433734939759 0.741921492084
+0 0.253008999892 0.655878360033
+0 0.289156626506 0.678715761114
+0 0.289153142733 0.714332194566
+0 0.298191872916 0.666992718183
+0 0.33734939759 0.684405670665
+0 0.247846830659 0.658695652174
+1 0.0219041422685 0.65465060241
+0 0.298199956625 0.713382012724
+0 0.294318111407 0.728002313643
+0 0.325309043591 0.642382309049
+0 0.365962753124 0.739342661894
+0 0.393071105208 0.73704185643
+0 0.340789392156 0.730860984602
+0 0.325309043591 0.724549228577
+0 0.243975168749 0.668484187568
+0 0.759054435047 0.566334911586
+0 0.260235947259 0.662826587836
+0 0.289153142733 0.723378876599
+0 0.421686746988 0.742621527778
+0 0.390353920888 0.719869848156
+0 0.27109086966 0.717063649836
+0 0.36866759195 0.725699414444
+0 0.325309043591 0.62141039622
+0 0.44578313253 0.745825200607
+0 0.542181739319 0.722518908076
+0 0.650618087183 0.613167938931
+0 0.307225214154 0.71541673445
+0 0.309808538323 0.726339382546
+0 0.311746048958 0.67057928486
+0 0.234936928471 0.623773173391
+0 0.406625281249 0.73552374756
+0 0.325309043591 0.713772269558
+0 0.263337257575 0.665434782609
+0 0.349397590361 0.681570338059
+0 0.289163594303 0.651145487801
+0 0.356279819072 0.730860984602
+0 0.433745391455 0.621578849376
+0 0.325309043591 0.706338448192
+0 0.379516929166 0.738908775355
+0 0.243981782694 0.655945877501
+0 0.271081071312 0.666087428727
+0 0.361454492879 0.728669682136
+0 0.433734939759 0.745442708333
+0 0.457831325301 0.747560182173
+0 0.301204819277 0.671980242479
+0 0.303608605135 0.620119329648
+0 0.975927130774 0.70559317541
+1
+0 0.325309043591 0.712478311163
+0 0.307225214154 0.722728258512
+1 0.0435914118412 0.674337349398
+0 0.86749078291 0.566262440816
+0 0.247846830659 0.640634174985
+0 0.412040249827 0.720780911063
+0 0.390353920888 0.722446324008
+0 0.281922276197 0.66065295831
+0 0.420179457291 0.738451528953
+0 0.759054435047 0.651467290396
+0 0.44578313253 0.746527777778
+0 0.361445783133 0.68745910578
+0 0.298199956625 0.720316622691
+0 0.393071105208 0.740969736414
+0 0.325297285575 0.713789924624
+0 0.257529344791 0.66401308615
+0 0.325298965239 0.732412696117
+0 0.596399913251 0.721190598823
+0 0.325300224999 0.678295837409
+0 0.278827684491 0.672246376812
+0 0.361454492879 0.710580945004
+0 0.371770245988 0.732089929878
+0 0.433733633332 0.734547820429
+0 0.412040249827 0.725482541748
+0 0.397599942167 0.725943366999
+0 0.325297285575 0.723758403817
+0 0.289153142733 0.664023893565
+0 0.379527217523 0.637172703839
+0 0.469879518072 0.741487746693
+1 0.000216872695728 0.624527074246
+0 0.447287809374 0.734439384082
+0 0.325309043591 0.654927612611
+0 0.379527217523 0.70454915144
+0 0.387260672904 0.730354948312
+0 0.975927130774 0.569620253165
+1
+0 0.27109086966 0.655728808654
+0 0.406625281249 0.740535849875
+1 0.065278681414 0.676
+0 0.433726578765 0.721301518438
+0 0.352418130557 0.621992002908
+0 0.340789392156 0.732051189357
+0 0.343369356996 0.722619822164
+0 0.457831325301 0.744574652778
+0 0.373493975904 0.685496183206
+0 0.253008999892 0.628898582334
+0 0.313253012048 0.684553210597
+0 0.343369356996 0.718344992137
+0 0.481927710843 0.745391455216
+0 0.338854401041 0.668188240409
+0 0.352418130557 0.70745373048
+0 0.469890840743 0.624650902998
+0 0.460841985416 0.737367165474
+0 0.433745391455 0.728948509821
+0 0.294318111407 0.670942028986
+0 0.303608605135 0.668956223101
+0 0.325309043591 0.713376947266
+0 0.433726578765 0.718152244632
+0 0.40275109982 0.731294729993
+0 0.650618087183 0.721651440809
+0 0.263337257575 0.643937169701
+0 0.361441428417 0.723324658426
+0 0.397599942167 0.717614252517
+0 0.307225214154 0.664078197122
+0 0.469879518072 0.741970486111
+0 0.271083520833 0.657033805889
+0 0.325294934074 0.617530929192
+0 0.86749078291 0.651901328639
+1 0.0219041422685 0.567125334362
+0 0.704836261115 0.611423118866
+0 0.420179457291 0.742705282569
+0 0.433745391455 0.645991045991
+0 0.385542168675 0.688549618321
+0 0.493975903614 0.745825200607
+0 0.474396161457 0.733138147907
+0 0.433745391455 0.702461638562
+0 0.379513499837 0.722999349382
+0 0.356279819072 0.73429253127
+0 0.361454492879 0.660073782435
+0 0.298199956625 0.661372598676
+0 0.455412907703 0.716746203905
+0 0.352408577083 0.673839800022
+0 0.379527217523 0.708971949104
+0 0.361441428417 0.715037145491
+0 0.418241526736 0.729487457529
+0 0.309808538323 0.674347826087
+0 0.481927710843 0.750434027778
+0 0.352418130557 0.72678642426
+0 0.704836261115 0.720865298598
+1 0.000216872695728 0.526186104938
+0 0.455412907703 0.723270440252
+0 0.506024096386 0.747126436782
+0 0.469890840743 0.731457958981
+0 0.325297285575 0.667607928319
+0 0.325301204819 0.684777727885
+1 0.0869659509868 0.682072289157
+0 0.433733633332 0.741078208049
+0 0.371770245988 0.734437133974
+0 0.433745391455 0.71098373354
+0 0.487950337499 0.735957492952
+0 0.397590361446 0.694220283533
+0 0.325294934074 0.664130765552
+0 0.397585571258 0.725710258079
+0 0.271081071312 0.629225736096
+1 0.0435914118412 0.60958623515
+0 0.379513499837 0.722791605661
+0 0.365962753124 0.66721008586
+0 0.518072289157 0.747777054869
+0 0.433731953653 0.732523675269
+0 0.493975903614 0.745225694444
+0 0.477099236641 0.720563991323
+0 0.379527217523 0.627408215194
+0 0.284637696874 0.674482006543
+0 0.278827684491 0.648341162654
+0 0.975927130774 0.65479491693
+1
+0 0.406636304489 0.714141122036
+0 0.506036290031 0.628126357599
+0 0.387260672904 0.731906586653
+0 0.447287809374 0.745200130166
+0 0.487963565387 0.650359517026
+0 0.325309043591 0.662602655476
+0 0.487963565387 0.707016212113
+0 0.325298965239 0.668985507246
+0 0.346981263012 0.667608572795
+0 0.501504513541 0.735632183908
+0 0.343369356996 0.67195221287
+0 0.379516929166 0.680686881861
+0 0.397599942167 0.657283690362
+0 0.530120481928 0.744523964433
+1 0.0219041422685 0.52727316649
+0 0.346981263012 0.626436781609
+0 0.506024096386 0.744791666667
+0 0.415657642679 0.72256560399
+0 0.397585571258 0.719375305027
+0 0.477099236641 0.721665582303
+0 0.409638554217 0.692039258451
+0 0.379527217523 0.723172009976
+0 0.449222380569 0.729198293935
+0 0.759054435047 0.612322791712
+1 0.108436347864 0.690337349398
+0 0.759054435047 0.718425546911
+0 0.33734939759 0.684104176022
+0 0.460841985416 0.744657771993
+0 0.506036290031 0.723340975277
+0 0.40275109982 0.735377051551
+0 0.518072289157 0.747829861111
+0 0.542168674699 0.748427672956
+0 0.498785565579 0.718091106291
+0 0.393071105208 0.678078469732
+0 0.433745391455 0.715442452285
+0 0.469890840743 0.711913245546
+0 0.340789392156 0.673623188406
+1 0.065278681414 0.637781044413
+0 0.415657642679 0.719266851038
+0 0.421686746988 0.692693565976
+0 0.361441428417 0.670486016834
+0 0.542181739319 0.654103920771
+0 0.289153142733 0.626826608506
+0 0.515058689582 0.734981565821
+0 0.474396161457 0.741945981126
+0 0.298191872916 0.663031624864
+0 0.464712807485 0.732451384371
+0 0.294318111407 0.64364357017
+0 0.418241526736 0.733280312342
+0 0.406625281249 0.681338984893
+0 0.542181739319 0.709781488912
+1 0.000216872695728 0.544525089822
+0 0.4337297141 0.724734330948
+0 0.406636304489 0.625699745547
+0 0.352418130557 0.666690785427
+1 0.0435914118412 0.540970142043
+0 0.530120481928 0.744791666667
+0 0.36866759195 0.66643481285
+0 0.55421686747 0.747777054869
+0 0.4337297141 0.720568298899
+0 0.406636304489 0.721762388405
+0 0.498785565579 0.723660811104
+0 0.520471894518 0.718134490239
+0 0.433745391455 0.667390023871
+0 0.528612865624 0.737258729126
+0 0.356279819072 0.671739130435
+0 0.349397590361 0.690390660081
+0 0.480203234401 0.729704330225
+0 0.542181739319 0.725478654192
+0 0.433734939759 0.689640130862
+0 0.487950337499 0.744766243627
+0 0.566265060241 0.746909564086
+0 0.520471894518 0.723443938408
+1 0.216872695728 0.711301204819
+0 0.542168674699 0.746527777778
+0 0.36866759195 0.62402386593
+0 0.379513499837 0.674341569373
+0 0.813272608979 0.722329149611
+1 0.0869659509868 0.64238378678
+0 0.460854478421 0.716599190283
+0 0.542181739319 0.626171414386
+0 0.420179457291 0.679491359635
+0 0.433731953653 0.735883161015
+1 0.065278681414 0.520678326408
+0 0.596399913251 0.654619454619
+0 0.596399913251 0.711326790652
+0 0.433745391455 0.717641956121
+0 0.506036290031 0.712749806352
+0 0.390353920888 0.674172933965
+0 0.451801785521 0.724463240078
+0 0.55421686747 0.7421875
+0 0.371770245988 0.677173913043
+0 0.501504513541 0.741186679683
+0 0.542158223456 0.720086767896
+0 0.542167041666 0.736391238343
+0 0.578313253012 0.749078291043
+0 0.451801785521 0.719971801963
+0 0.813272608979 0.612241003272
+0 0.311746048958 0.665212649945
+0 0.469890840743 0.655206621819
+1 0.0219041422685 0.530684092498
+0 0.495693661317 0.731583893588
+0 0.309808538323 0.645331767469
+0 0.307225214154 0.626772082879
+0 0.44578313253 0.688113413304
+0 0.379527217523 0.66647371658
+0 0.566265060241 0.749131944444
+0 0.542158223456 0.726523530687
+0 0.555721217707 0.738017783561
+0 0.433733633332 0.676339528312
+0 0.449222380569 0.733714120454
+1 0.0869659509868 0.519035655619
+0 0.578327188607 0.726501022368
+0 0.460854478421 0.722991289262
+0 0.487963565387 0.714574898785
+0 0.469873856941 0.722791605661
+0 0.397585571258 0.675373336954
+0 0.86749078291 0.719618314403
+0 0.563844552394 0.722906724512
+0 0.650618087183 0.705498020929
+1 0.108436347864 0.64248017929
+0 0.569275393749 0.733788765994
+0 0.361445783133 0.6863493489
+0 0.590361445783 0.750813272609
+0 0.515058689582 0.742379867665
+0 0.412040249827 0.674781550233
+0 0.387260672904 0.67731884058
+1 0.325309043591 0.716626506024
+0 0.469873856941 0.724571676426
+0 0.578313253012 0.748046875
+0 0.511184088233 0.732017638979
+0 0.464712807485 0.733135709638
+0 0.542181739319 0.714268009295
+0 0.563844552394 0.723530687486
+0 0.58282956979 0.735632183908
+0 0.602409638554 0.749078291043
+0 0.433745391455 0.627190112686
+1 0.108436347864 0.52956807421
+1 0.0435914118412 0.555014347375
+0 0.457831325301 0.68985823337
+0 0.447287809374 0.683838713183
+0 0.487945928362 0.719863347975
+0 0.52667451515 0.730716402805
+0 0.390353920888 0.622049662192
+0 0.704836261115 0.710459252833
+0 0.506036290031 0.665002945097
+0 0.585530881332 0.721388286334
+0 0.650618087183 0.658580925248
+0 0.406636304489 0.661444954958
+0 0.614472637895 0.726996716029
+0 0.528612865624 0.741186679683
+0 0.590361445783 0.743706597222
+0 0.325300224999 0.673391494002
+0 0.40275109982 0.685072463768
+0 0.480203234401 0.734654038031
+0 0.921708956842 0.72205806609
+1 0.433745391455 0.716578313253
+0 0.325298965239 0.651350557839
+0 0.487963565387 0.721075649691
+0 0.415657642679 0.675862068966
+0 0.542167041666 0.743030697473
+0 0.596383745832 0.737367165474
+0 0.578327188607 0.624837088066
+0 0.515072652353 0.713779641411
+0 0.614457831325 0.749078291043
+0 0.607217210271 0.725553145336
+0 0.418241526736 0.678115942029
+0 0.460841985416 0.676122160635
+0 0.469879518072 0.69945474373
+0 0.433726578765 0.674433769508
+0 0.325297285575 0.630207197383
+0 0.487945928362 0.724842767296
+0 0.373493975904 0.677144140099
+1 0.216872695728 0.528674268045
+0 0.542164942066 0.729559748428
+0 0.602409638554 0.749348958333
+0 0.585530881332 0.72691390154
+0 0.578327188607 0.71553834237
+1 0.216872695728 0.685278453864
+0 0.506017999783 0.717802722195
+0 0.433745391455 0.673383741543
+0 0.86749078291 0.612731733915
+0 0.759054435047 0.71203166513
+0 0.495693661317 0.732268093413
+0 0.609937921874 0.734114075038
+0 0.704836261115 0.653018586352
+0 0.975927130774 0.722220716203
+1
+0 0.542181739319 0.668103047401
+0 0.626506024096 0.744090219041
+0 0.650618087183 0.723650783816
+0 0.474396161457 0.682099771764
+0 0.4337297141 0.680097746402
+0 0.542181739319 0.714177270098
+1 0.065278681414 0.588001253888
+0 0.614457831325 0.745659722222
+0 0.506017999783 0.725330730861
+0 0.515072652353 0.720063613691
+0 0.555721217707 0.742379867665
+1 0.325309043591 0.546791960576
+0 0.628903539209 0.722689804772
+0 0.338854401041 0.678516902944
+0 0.623492097915 0.738017783561
+0 0.481927710843 0.6826608506
+0 0.557655368982 0.731150148196
+0 0.433731953653 0.684420289855
+0 0.412040249827 0.627050978328
+0 0.607217210271 0.722793320321
+0 0.460854478421 0.627626317703
+0 0.524090071204 0.720351390922
+0 0.524090071204 0.725547603557
+0 0.626506024096 0.745225694444
+0 0.455412907703 0.675085858366
+0 0.614472637895 0.719287374129
+0 0.511184088233 0.731906586653
+0 0.638554216867 0.740837128606
+0 0.451801785521 0.682269888678
+0 0.340789392156 0.649295361127
+1 0.542181739319 0.723807228916
+0 0.637046273957 0.732379093472
+0 0.813272608979 0.71195033346
+1 0.325309043591 0.690459551293
+0 0.385542168675 0.697799730579
+0 0.542162142625 0.72420150751
+1 0.0869659509868 0.583226833209
+0 0.460854478421 0.668427336203
+0 0.542162142625 0.722511385817
+0 0.487950337499 0.682534507119
+0 0.569275393749 0.742054452761
+0 0.542181739319 0.722376838833
+0 0.573145795898 0.733174293356
+0 0.343369356996 0.637295528899
+0 0.650600449999 0.737367165474
+0 0.628903539209 0.723747560182
+1 0.433745391455 0.553145231423
+0 0.52667451515 0.733352613694
+0 0.560234214046 0.721652838783
+1 0.000108436347864 0.449727561062
+0 0.493975903614 0.689422028353
+0 0.650602409639 0.748644545652
+0 0.578327188607 0.666645999318
+0 0.449222380569 0.673550724638
+0 0.650589868147 0.720130151844
+0 0.638554216867 0.749782986111
+0 0.614472637895 0.628436666046
+0 0.759054435047 0.657712657713
+0 0.588636222814 0.729921202921
+0 0.469873856941 0.678142818355
+0 0.569290826285 0.714358010411
+0 0.686763536471 0.728328892744
+0 0.477099236641 0.677216015302
+0 0.66415462604 0.737800910865
+0 0.560234214046 0.725818694426
+0 0.650618087183 0.714175058095
+0 0.66265060241 0.744523964433
+0 0.501504513541 0.682317139441
+0 0.542164942066 0.736461571831
+0 0.352408577083 0.667284623773
+0 0.921708956842 0.61254089422
+1 0.108436347864 0.598514624677
+0 0.58282956979 0.741295151318
+1 0.433745391455 0.694242957322
+0 0.506024096386 0.694438386041
+1 0.0109520711342 0.64254926943
+0 0.650602409639 0.75
+0 0.60412664973 0.732668257066
+0 0.86749078291 0.709645936128
+0 0.487963565387 0.671176874932
+0 0.578306285466 0.72420150751
+0 0.578306285466 0.724951203643
+0 0.356279819072 0.651644157369
+0 0.650589868147 0.720971589677
+0 0.677708802082 0.739319019735
+0 0.674698795181 0.744307091737
+0 0.397590361446 0.678266726538
+1 0.650618087183 0.720337349398
+0 0.433726578765 0.623629025182
+0 0.672276197085 0.725379609544
+0 0.464712807485 0.675579710145
+0 0.498785565579 0.676563926444
+0 0.596383745832 0.743573055646
+1 0.542181739319 0.553918252971
+0 0.569290826285 0.721184082119
+0 0.487963565387 0.623700472555
+0 0.619617076647 0.731222439095
+0 0.722908985759 0.728359873598
+0 0.557655368982 0.731183573133
+1 0.0217957059206 0.678223860772
+0 0.66265060241 0.746527777778
+0 0.596378356887 0.723595749295
+0 0.691262978124 0.737367165474
+1 0.216872695728 0.623399483977
+0 0.487945928362 0.686722780342
+0 0.515058689582 0.680904249538
+0 0.361441428417 0.635332606325
+0 0.686763536471 0.71745933385
+0 0.614472637895 0.670924140497
+0 0.686746987952 0.750379527218
+0 0.596399913251 0.714755639098
+0 0.813272608979 0.659801926469
+0 0.515072652353 0.67577149886
+1 0.650618087183 0.557493477631
+0 0.518072289157 0.698800436205
+0 0.674698795181 0.744357638889
+0 0.614450428308 0.724842767296
+0 0.672276197085 0.726133159835
+0 0.635107503563 0.731077857298
+0 0.693962526024 0.720824295011
+0 0.759054435047 0.727275543714
+0 0.921708956842 0.711841891232
+0 0.609937921874 0.739342661894
+0 0.686746987952 0.74609375
+0 0.480203234401 0.685434782609
+0 0.365962753124 0.669356597601
+1 0.542181739319 0.701038629299
+0 0.506017999783 0.68275862069
+0 0.596378356887 0.723605010574
+0 0.520471894518 0.678346302656
+0 0.632522499729 0.725168076339
+0 0.704817154165 0.73552374756
+0 0.698795180723 0.747343309477
+0 0.596399913251 0.720135901977
+1 0.032639340707 0.659085364201
+0 0.650597930479 0.731800766284
+0 0.650618087183 0.627909141687
+0 0.693962526024 0.721752331381
+0 0.698795180723 0.747395833333
+0 0.573145795898 0.733424915046
+1 0.759054435047 0.718602409639
+0 0.409638554217 0.693758419398
+0 0.722908985759 0.714453911696
+1 0.759054435047 0.566528166973
+0 0.715648854962 0.724078091106
+0 0.528612865624 0.680143462667
+0 0.623509000217 0.716526894158
+1 0.325309043591 0.632224928263
+0 0.371770245988 0.651423957722
+0 0.530120481928 0.696401308615
+0 0.65059457115 0.727174148775
+0 0.710843373494 0.74821080026
+0 0.650618087183 0.674861270422
+0 0.623492097915 0.746067903243
+0 0.718371330207 0.736282801995
+0 0.495693661317 0.680942028986
+0 0.588636222814 0.738124502928
+0 0.975927130774 0.61393129771
+1
+0 0.542181739319 0.677182446366
+0 0.795199884335 0.726717888345
+0 0.710843373494 0.742838541667
+0 0.666088357395 0.732523675269
+0 0.455412907703 0.626173554444
+1 0.0434829754934 0.693919596628
+0 0.614450428308 0.720568298899
+0 0.515072652353 0.623736822973
+0 0.637046273957 0.748020392667
+0 0.524090071204 0.679337496606
+0 0.379513499837 0.629607415485
+0 0.722891566265 0.749512036435
+0 0.86749078291 0.661891195225
+0 0.623509000217 0.724690063975
+0 0.668666642571 0.723053567556
+1 0.650618087183 0.703520736439
+0 0.975927130774 0.713522745757
+1
+1 0.86749078291 0.563822591555
+0 0.650618087183 0.71786437247
+1 0.433745391455 0.636324178341
+0 0.60412664973 0.736316969127
+0 0.542158223456 0.679650480372
+0 0.379516929166 0.676335877863
+0 0.542168674699 0.691603053435
+0 0.722891566265 0.743706597222
+0 0.542167041666 0.682317139441
+0 0.681578784311 0.731873057182
+0 0.734939759036 0.749078291043
+0 0.715648854962 0.725265669052
+0 0.731925506248 0.736282801995
+0 0.632522499729 0.725286047394
+0 0.511184088233 0.686739130435
+0 0.7373351839 0.726681127983
+0 0.686738713991 0.725113858165
+0 0.759054435047 0.718915569326
+0 0.421686746988 0.690839694656
+0 0.569290826285 0.674577620202
+1 0.86749078291 0.720240963855
+0 0.686763536471 0.675016275537
+0 0.831345333622 0.725540615899
+1 0.0542181739319 0.677302176801
+1 0.000108436347864 0.549100327154
+0 0.650618087183 0.720750352405
+0 0.650600449999 0.743573055646
+0 0.734939759036 0.74609375
+0 0.387260672904 0.659791544334
+0 0.74547968229 0.73758403817
+0 0.746987951807 0.745825200607
+1 0.759054435047 0.704171385883
+1 0.975927130774 0.567421973138
+2
+0 0.542162142625 0.684930762965
+0 0.7373351839 0.725439167209
+0 0.697069211227 0.729559748428
+0 0.55421686747 0.696837513631
+1 0.542181739319 0.645656000579
+0 0.686763536471 0.626605846211
+0 0.555721217707 0.682534507119
+0 0.619617076647 0.734437133974
+0 0.563844552394 0.681780637308
+0 0.677727174149 0.718804222094
+0 0.921708956842 0.660290326957
+1 0.000108436347864 0.375481212384
+0 0.704810785412 0.725330730861
+0 0.65059457115 0.719971801963
+0 0.477099236641 0.627533561464
+1 0.108436347864 0.709262923907
+0 0.759021512838 0.723383947939
+0 0.759033858332 0.736282801995
+1 0.0109520711342 0.564803707743
+0 0.746987951807 0.747178819444
+0 0.52667451515 0.685362318841
+0 0.66415462604 0.740427378241
+0 0.393071105208 0.673391494002
+0 0.397585571258 0.636095965104
+0 0.596399913251 0.672515466155
+0 0.86749078291 0.725943366999
+0 0.712559638144 0.731873057182
+0 0.569275393749 0.680904249538
+0 0.542181739319 0.630025445293
+0 0.566265060241 0.700327153762
+0 0.759021512838 0.726046410757
+0 0.795199884335 0.715631293571
+0 0.433734939759 0.690615177369
+0 0.759036144578 0.745608327912
+0 0.704836261115 0.716635338346
+0 0.677727174149 0.722521415405
+1 0.975927130774 0.724674698795
+2
+0 0.560234214046 0.682541406462
+2 0.000216872695728 0.540197120495
+1 0.650618087183 0.64570422705
+0 0.772588034373 0.735198438517
+1 0.86749078291 0.705834156686
+1 0.162654521796 0.716934587546
+0 0.722908985759 0.677310351242
+0 0.668666642571 0.721652838783
+0 0.722882856833 0.722945131208
+0 0.635107503563 0.734726339383
+0 0.677708802082 0.743789998915
+0 0.585530881332 0.684475937921
+1 0.0109520711342 0.612020820908
+0 0.72805006506 0.731873057182
+1 0.0217957059206 0.565621592148
+0 0.40275109982 0.650910158544
+0 0.780707841777 0.726046410757
+0 0.542164942066 0.681956521739
+0 0.759036144578 0.745659722222
+0 0.771084337349 0.746475818694
+0 0.578313253012 0.698800436205
+0 0.780707841777 0.725292841649
+0 0.786142210415 0.735740620256
+0 0.731945348081 0.716960670908
+0 0.903636232198 0.726965735176
+0 0.975927130774 0.662678062678
+1
+1 0.975927130774 0.706340217365
+2
+0 0.623509000217 0.674324373214
+0 0.58282956979 0.684816867732
+0 0.78313253012 0.747126436782
+2 0.0219041422685 0.532974200406
+2 0.000216872695728 0.652506024096
+0 0.743540491976 0.732451384371
+0 0.704836261115 0.722051541548
+1 0.216872695728 0.720296023205
+0 0.740954928254 0.725439167209
+0 0.831345333622 0.719287374129
+0 0.799696386457 0.736174365647
+0 0.686738713991 0.725882544331
+0 0.406625281249 0.669901853871
+0 0.722908985759 0.627722956619
+1 0.759054435047 0.650743893323
+0 0.498785565579 0.628191629376
+0 0.650597930479 0.737256886704
+0 0.759030918892 0.730933275501
+1 0.0217957059206 0.649541831589
+0 0.578306285466 0.68710290524
+0 0.44578313253 0.687022900763
+0 0.415657642679 0.641166848419
+0 0.691262978124 0.744332357089
+0 0.759054435047 0.716020821284
+0 0.557655368982 0.678695652174
+0 0.802394170715 0.724598698482
+0 0.795180722892 0.747343309477
+1 0.032639340707 0.554362050164
+0 0.771084337349 0.745659722222
+2 0.0435914118412 0.508720649338
+0 0.590361445783 0.701635768811
+0 0.607217210271 0.681824109899
+0 0.704810785412 0.723333875603
+0 0.759054435047 0.68087546889
+0 0.813250562498 0.7360659293
+0 0.802394170715 0.725309043591
+2 0.0219041422685 0.645807228916
+1 0.000108436347864 0.585809252476
+0 0.569290826285 0.628680479826
+0 0.807228915663 0.749078291043
+0 0.774521345808 0.731150148196
+0 0.418241526736 0.655020551967
+0 0.596383745832 0.684273448538
+1 0.032639340707 0.650192484954
+0 0.759026999675 0.725981348948
+0 0.78313253012 0.74609375
+1 0.27109086966 0.719618314403
+0 0.939781681486 0.726965735176
+0 0.731945348081 0.72335273069
+1 0.86749078291 0.652480046297
+2 0.000216872695728 0.623635443526
+0 0.704817154165 0.748345807571
+1 0.0109520711342 0.57967711301
+0 0.650618087183 0.675590608155
+0 0.602409638554 0.699018538713
+0 0.82680473854 0.733571893299
+0 0.666088357395 0.737546092112
+0 0.795180722892 0.747178819444
+0 0.86749078291 0.718636715724
+0 0.819277108434 0.748427672956
+0 0.824080499653 0.724962047278
+1 0.0434829754934 0.568456924755
+0 0.573145795898 0.684347826087
+0 0.786163522013 0.718370445344
+0 0.722882856833 0.724635323464
+0 0.596378356887 0.685039370079
+0 0.790011772724 0.731222439095
+0 0.420179457291 0.675354416576
+0 0.628903539209 0.680693822545
+0 0.457831325301 0.707903008532
+0 0.824080499653 0.723774403471
+1 0.325309043591 0.714603269267
+2 0.0435914118412 0.678072289157
+2 0.065278681414 0.502512320031
+1 0.0434829754934 0.649379168248
+1 0.0217957059206 0.562284628951
+0 0.975927130774 0.726377098953
+1
+0 0.777099071096 0.725710258079
+0 0.795199884335 0.675481290883
+0 0.609937921874 0.683186610151
+0 0.840358914582 0.735957492952
+0 0.831325301205 0.747126436782
+0 0.520471894518 0.629463894007
+0 0.4337297141 0.634351145038
+0 0.718371330207 0.747044147955
+0 0.614457831325 0.691821155943
+0 0.807228915663 0.750434027778
+0 0.681578784311 0.737112284
+0 0.759054435047 0.62852975858
+0 0.759054435047 0.723461163119
+0 0.740954928254 0.722954286644
+2 0.0219041422685 0.612116538545
+0 0.845766828591 0.722489698547
+0 0.813272608979 0.716779930596
+0 0.903636232198 0.719876065066
+0 0.433731953653 0.654726952437
+0 0.805502199641 0.731439311791
+0 0.677727174149 0.680076697659
+0 0.588636222814 0.682536231884
+1 0.975927130774 0.654143859565
+2
+0 0.596399913251 0.62951653944
+1 0.0542181739319 0.558478735005
+1 0.032639340707 0.582336182336
+0 0.731925506248 0.742162924395
+0 0.614450428308 0.685636709204
+0 0.623492097915 0.680795565699
+0 0.650589868147 0.687605964439
+0 0.795171142516 0.725764476252
+0 0.843373493976 0.745825200607
+0 0.845766828591 0.725162689805
+1 0.379527217523 0.721895415978
+2 0.065278681414 0.679951807229
+2 0.0869659509868 0.525727123394
+1 0.0542181739319 0.666485929621
+1 7.22908985759e-05 0.64818142388
+0 0.853913090623 0.734656256777
+0 0.433733633332 0.673500545256
+0 0.469879518072 0.700044903458
+0 0.626506024096 0.695747001091
+0 0.840381695944 0.717647484095
+0 0.831345333622 0.677961372725
+0 0.819277108434 0.746527777778
+0 0.697069211227 0.738052201576
+1 0.108436347864 0.581597600872
+0 0.939781681486 0.719380325329
+0 0.820992626557 0.731583893588
+0 0.759026999675 0.725069139418
+0 0.786163522013 0.72602739726
+0 0.60412664973 0.681811594203
+0 0.704836261115 0.67855721573
+0 0.451801785521 0.637786259542
+0 0.867453157529 0.72639340707
+0 0.74547968229 0.74715261959
+0 0.542158223456 0.62959550759
+0 0.813243213937 0.726035567122
+0 0.855421686747 0.746258945999
+0 0.632522499729 0.683410263372
+2 0.0435914118412 0.654866616864
+1 0.0434829754934 0.57327363994
+0 0.637046273957 0.682099771764
+0 0.449222380569 0.659204345273
+0 0.867467266665 0.736499674691
+0 0.638554216867 0.699672846238
+0 0.86749078291 0.717792076345
+0 0.672276197085 0.685519280094
+2 0.000216872695728 0.543391767741
+0 0.795199884335 0.623285545833
+1 0.00730138075616 0.653479149885
+0 0.831325301205 0.751519097222
+2 0.0869659509868 0.690096385542
+2 0.108436347864 0.503816793893
+1 0.433745391455 0.720431564965
+0 0.867453157529 0.726507592191
+1 0.108436347864 0.668248115816
+0 0.759033858332 0.746176374878
+0 0.623509000217 0.631406761178
+0 0.481927710843 0.705433318366
+0 0.712559638144 0.73747379076
+0 0.447287809374 0.676772082879
+0 0.975927130774 0.720154918668
+1
+0 0.836483053473 0.731945348081
+1 0.162654521796 0.591848418757
+0 0.867469879518 0.74821080026
+0 0.86749078291 0.680038441269
+0 0.619617076647 0.682391304348
+0 0.831315285358 0.726360876166
+0 0.777099071096 0.724255734505
+0 0.894599869876 0.715803932909
+0 0.650600449999 0.684382132377
+0 0.813272608979 0.723280442404
+0 0.650602409639 0.703380588877
+0 0.889139486468 0.723921058339
+0 0.65059457115 0.686559869671
+0 0.843373493976 0.747612847222
+0 0.731945348081 0.67761658406
+0 0.881021442706 0.738343092605
+0 0.851973480389 0.731583893588
+0 0.772588034373 0.74389847055
+0 0.72805006506 0.739353625913
+0 0.889139486468 0.72568329718
+1 0.0542181739319 0.565025098358
+0 0.469873856941 0.641657579062
+0 0.795171142516 0.724743777452
+0 0.464712807485 0.657736347622
+1 0.0145304706137 0.667451514964
+0 0.693962526024 0.688301525888
+2 0.0219041422685 0.556195895927
+1 0.162654521796 0.695196009326
+0 0.563844552394 0.635079406861
+2 0.065278681414 0.647685374846
+0 0.743540491976 0.735810859663
+0 0.879518072289 0.750813272609
+2 0.108436347864 0.695927710843
+1 0.487963565387 0.714955677844
+0 0.840381695944 0.722665991976
+2 0.216872695728 0.528553483428
+1 7.22908985759e-05 0.472966692486
+0 0.66415462604 0.687316596022
+1 0.216872695728 0.601226826609
+0 0.894575618748 0.736282801995
+0 0.635107503563 0.682028985507
+0 0.493975903614 0.68837000449
+0 0.66265060241 0.704034896401
+0 0.867463907305 0.732162220776
+0 0.921708956842 0.71771978022
+0 0.849387356779 0.726360876166
+0 0.786142210415 0.743681527281
+0 0.855421686747 0.746527777778
+0 0.460841985416 0.674372955289
+0 0.759054435047 0.6801128758
+0 0.668666642571 0.687863155037
+0 0.903636232198 0.680131444338
+0 0.831345333622 0.62486811891
+0 0.89156626506 0.747126436782
+0 0.910825815406 0.726046410757
+0 0.86749078291 0.721943109119
+1 0.216872695728 0.698530607819
+0 0.650618087183 0.631406761178
+0 0.759030918892 0.739498228617
+1 0.27109086966 0.607170119956
+0 0.910825815406 0.725162689805
+1 0.0217595604713 0.679286201128
+1 0.00730138075616 0.557924089853
+0 0.813243213937 0.726099452307
+0 0.90812979479 0.73758403817
+1 0.108436347864 0.606539139872
+2 0.325309043591 0.559256933037
+1 0.542181739319 0.72010626474
+0 0.799696386457 0.746610261417
+2 0.0435914118412 0.591811145138
+0 0.867469879518 0.75
+0 0.715648854962 0.685519280094
+0 0.677708802082 0.683512661667
+0 0.674698795181 0.69705561614
+2 0.0869659509868 0.651854350917
+0 0.8674594282 0.725764476252
+0 0.774521345808 0.739136721857
+0 0.480203234401 0.653699354081
+2 0.216872695728 0.712168674699
+0 0.487945928362 0.63505997819
+0 0.650597930479 0.684130434783
+0 0.948818043808 0.717105263158
+0 0.932512144344 0.723487312947
+0 0.882954334221 0.731583893588
+1 0.325309043591 0.60719738277
+0 0.585530881332 0.632578748794
+0 0.921683970831 0.73704185643
+0 0.831315285358 0.725340274389
+1 0.27109086966 0.693488044244
+0 0.903614457831 0.749078291043
+0 0.506024096386 0.700269420745
+0 0.686738713991 0.685039370079
+0 0.474396161457 0.678844056707
+0 0.894599869876 0.722702136119
+1 0.0145304706137 0.612021688613
+2 0.065278681414 0.558727785682
+0 0.932512144344 0.725032537961
+2 0.433745391455 0.539689825104
+1 0.596399913251 0.721597224105
+1 0.162654521796 0.620567087234
+0 0.786163522013 0.681560001447
+1 0.0289886503289 0.693754259867
+0 0.790011772724 0.736316969127
+0 0.879518072289 0.746310763889
+0 0.813250562498 0.741837509491
+0 0.939781681486 0.680627460706
+0 0.686746987952 0.699890948746
+0 0.88553149962 0.726577748861
+0 0.666088357395 0.686666666667
+0 0.691262978124 0.68492555157
+1 0.0217595604713 0.63894655306
+0 0.915662650602 0.747126436782
+0 0.677727174149 0.632533624137
+0 0.975927130774 0.717755928282
+1
+0 0.898444761138 0.731583893588
+2 0.542181739319 0.546212194415
+1 0.325309043591 0.694518245405
+1 0.379527217523 0.612404580153
+0 0.805502199641 0.739570529969
+2 0.108436347864 0.657204135239
+1 0.650618087183 0.723115291821
+0 0.954198473282 0.726046410757
+0 0.86749078291 0.624650902998
+0 0.704810785412 0.685473798534
+0 0.921708956842 0.722665991976
+0 0.7373351839 0.685128026779
+0 0.849387356779 0.724906458435
+2 0.325309043591 0.719903614458
+0 0.935238146873 0.737475601822
+0 0.495693661317 0.656635349383
+0 0.506017999783 0.640021810251
+1 0.0289886503289 0.626769945778
+0 0.927710843373 0.747126436782
+0 0.954198473282 0.726290672451
+0 0.89156626506 0.744574652778
+0 0.813272608979 0.684056293188
+1 0.216872695728 0.628164428164
+1 0.0361454492879 0.684676869695
+0 0.82680473854 0.747694977763
+2 0.0869659509868 0.595138771672
+0 0.487950337499 0.672519083969
+0 0.518072289157 0.716883700045
+0 0.903603571041 0.726631967035
+0 0.607217210271 0.632403264017
+2 0.650618087183 0.557106966857
+0 0.698795180723 0.704252998909
+1 0.433745391455 0.608696837514
+1 5.42181739319e-05 0.414003759398
+0 0.704817154165 0.683621345506
+0 0.681578784311 0.68615942029
+0 0.820992626557 0.738847516449
+0 0.975927130774 0.683107542549
+1
+0 0.948792322915 0.73758403817
+2 0.216872695728 0.680699809625
+1 0.704836261115 0.719238797474
+0 0.913935188054 0.731583893588
+1 0.0361454492879 0.648830364059
+1 0.379527217523 0.7055793526
+0 0.903614457831 0.749348958333
+0 0.948818043808 0.723172009976
+1 0.27109086966 0.631854565188
+0 0.939759036145 0.747343309477
+0 0.722882856833 0.688243279935
+1 0.00547603556712 0.610866107577
+0 0.975884802221 0.726046410757
+0 0.836483053473 0.738992119153
+0 0.8674594282 0.725557182365
+0 0.840358914582 0.746501789782
+2 0.759054435047 0.566987148517
+0 0.759021512838 0.685606225275
+0 0.975884802221 0.725509761388
+1 0.0722908985759 0.722814300762
+0 0.710843373494 0.696183206107
+2 0.433745391455 0.722240963855
+1 0.487963565387 0.610305343511
+0 0.921675642462 0.72641509434
+1 0.0722908985759 0.673648334624
+0 0.704836261115 0.63118865867
+0 0.92942561497 0.730933275501
+0 0.840381695944 0.682500633117
+0 0.718371330207 0.684816867732
+0 0.697069211227 0.68847826087
+0 0.511184088233 0.662727539636
+0 0.524090071204 0.645692475463
+0 0.962346498956 0.73758403817
+0 0.951807228916 0.747343309477
+1 7.22908985759e-05 0.534240629941
+0 0.530120481928 0.700269420745
+1 0.433745391455 0.704440709212
+0 0.903636232198 0.625178427357
+0 0.501504513541 0.681352235551
+2 0.108436347864 0.594608280485
+0 0.851973480389 0.739136721857
+1 0.759054435047 0.722979750061
+0 0.975927130774 0.723280442404
+1
+1 0.325309043591 0.633401166735
+1 0.108436347864 0.682819519752
+1 0.0108978529603 0.60298582996
+1 5.42181739319e-05 0.36975458127
+1 0.108436347864 0.713891814858
+0 0.853913090623 0.746935676321
+0 0.628903539209 0.631876809687
+0 0.915662650602 0.744140625
+0 0.740954928254 0.686994298127
+0 0.997571131159 0.726263283453
+1
+2 0.325309043591 0.689857098103
+1 0.542181739319 0.608751363141
+0 0.975900674998 0.73758403817
+0 0.997571131159 0.724511930586
+1
+2 0.86749078291 0.566479853126
+1 0.00547603556712 0.677991831424
+0 0.867463907305 0.736823078592
+1 0.00730138075616 0.529342468301
+0 0.88553149962 0.724960685429
+0 0.722891566265 0.702726281352
+0 0.780707841777 0.689170977699
+1 0.144581797152 0.692920216886
+0 0.963855421687 0.749078291043
+0 0.712559638144 0.687173913043
+1 0.813272608979 0.720838190246
+0 0.939747713883 0.726035567122
+2 0.542181739319 0.720626506024
+1 0.487963565387 0.707341538795
+0 0.731925506248 0.682860558635
+1 0.0108978529603 0.669570246142
+0 0.944916041886 0.731583893588
+1 4.33726578765e-05 0.644892648016
+1 0.144581797152 0.725850424438
+1 0.0163196703535 0.624638519375
+0 0.867467266665 0.746827204686
+0 0.86749078291 0.684490430882
+0 0.927710843373 0.749565972222
+0 0.98945485104 0.73758403817
+1
+1 4.33726578765e-05 0.510455531453
+1 0.379527217523 0.643766110433
+0 0.731945348081 0.629952744457
+1 0.0145304706137 0.580153145054
+2 0.433745391455 0.69903848471
+0 0.52667451515 0.66713153259
+2 0.216872695728 0.620867594222
+0 0.515058689582 0.675245365322
+0 0.542168674699 0.704086214639
+0 0.542162142625 0.641275899673
+1 2.71083520833e-05 0.346237258729
+0 0.882954334221 0.73747379076
+0 0.975903614458 0.749078291043
+0 0.734939759036 0.700981461287
+0 0.759026999675 0.690306815096
+2 0.975927130774 0.568702290076
+3
+1 0.00438063844552 0.614487096075
+0 0.903603571041 0.726479041267
+1 0.0163196703535 0.681172515994
+1 0.00273794356041 0.622207764043
+1 0.0217414877467 0.637832562175
+1 0.86749078291 0.722356257963
+1 0.542181739319 0.707531312693
+1 0.18072724644 0.695863671572
+0 0.957819785304 0.725764476252
+1 0.00438063844552 0.588893709328
+1 0.00544877876874 0.650292778139
+0 0.72805006506 0.682028985507
+1 0.18072724644 0.719406406841
+0 0.802394170715 0.688518888841
+0 0.960406468802 0.732523675269
+0 0.74547968229 0.684816867732
+0 0.939759036145 0.747612847222
+0 0.650589868147 0.635956830745
+0 0.939781681486 0.628405635201
+1 0.433745391455 0.645177045177
+1 0.00815961397707 0.675775319887
+0 0.881021442706 0.745091658531
+1 0.0217414877467 0.689594101276
+2 0.650618087183 0.722674698795
+0 0.987951807229 0.749078291043
+1 0.00871790423317 0.636434612882
+1 0.596399913251 0.612295528899
+1 0.0108704491854 0.708956842334
+1 0.0217595604713 0.561800539418
+0 0.898444761138 0.739136721857
+1 0.027109086966 0.652074898785
+0 0.894599869876 0.684309540176
+1 0.0135541760416 0.681630882672
+0 0.746987951807 0.700981461287
+1 0.00871790423317 0.623687635575
+2 0.542181739319 0.706677591151
+1 0.216872695728 0.697103020914
+1 0.0271083520833 0.704402515723
+0 0.951807228916 0.749131944444
+0 0.777099071096 0.68797176215
+0 0.975891856725 0.72641509434
+2 0.325309043591 0.633936968002
+1 0.487963565387 0.646235246235
+1 0.921708956842 0.721597224105
+1 0.596399913251 0.71005259448
+1 0.0406625281249 0.725005421817
+3 0.000216872695728 0.528191129578
+1 0.216872695728 0.724673151992
+1 0.0130551700208 0.683539362394
+0 0.975896895718 0.731583893588
+0 0.921675642462 0.727346673174
+0 0.542164942066 0.662213740458
+0 0.528612865624 0.682769901854
+0 0.55421686747 0.706555904805
+0 0.560234214046 0.641384950927
+1 0.0542167041666 0.727607894166
+0 1.0 0.749078291043
+1
+0 0.759033858332 0.682208455603
+1 0.0289886503289 0.5963666801
+1 2.40963855422e-05 0.636304489265
+0 0.743540491976 0.686739130435
+0 0.759054435047 0.632133769538
+0 0.913935188054 0.740727351601
+0 0.824080499653 0.685345389732
+1 0.00243373493976 0.681630882672
+1 0.027109086966 0.696425344273
+0 0.894575618748 0.747261091225
+1 0.0542181739319 0.671594852516
+1 0.00484337349398 0.661244849273
+1 0.00725301204819 0.686618954674
+1 0.0130551700208 0.650151843818
+1 0.0677708802082 0.735090002169
+2 0.650618087183 0.703352049546
+1 0.00966265060241 0.693775753633
+1 0.253018145016 0.696421378776
+0 0.963855421687 0.746744791667
+1 0.0173924358085 0.686055085665
+0 0.759036144578 0.696401308615
+1 0.0120481927711 0.714812405118
+1 0.253018145016 0.721637028317
+0 0.991387322635 0.731583893588
+1
+1 0.542181739319 0.652611585945
+1 0.0813250562498 0.728475384949
+0 0.993963928145 0.72641509434
+1
+1 0.0240963855422 0.735415311212
+0 0.672276197085 0.63358778626
+1 0.0173924358085 0.6168329718
+1 0.0361454492879 0.60607000031
+2 0.759054435047 0.72178313253
+1 0.650618087183 0.705498020929
+1 0.0542181739319 0.70643727184
+1 0.0361445783133 0.729342875732
+1 0.975927130774 0.721353248936
+2
+0 0.795171142516 0.688406190605
+1 0.0481927710843 0.736499674691
+2 0.433745391455 0.6329242121
+0 0.921708956842 0.681162041894
+0 0.772588034373 0.685903706119
+0 0.939747713883 0.72561140936
+1 0.0948792322915 0.733571893299
+0 0.975927130774 0.6266679079
+1
+1 3.09808538323e-05 0.651124123473
+1 0.0813272608979 0.690608733372
+3 0.0219041422685 0.522103584887
+0 0.92942561497 0.742317981346
+1 0.0216863289382 0.694556495337
+0 0.90812979479 0.747478034494
+1 0.650618087183 0.609841875682
+0 0.759030918892 0.687608695652
+1 0.0602409638554 0.741487746693
+1 0.0813272608979 0.715798604836
+1 0.108433408333 0.734114075038
+1 3.61441428417e-05 0.650889178052
+1 0.0722891566265 0.738017783561
+1 0.00312906623707 0.663485867129
+1 0.289163594303 0.709899302866
+1 0.289163594303 0.729723031167
+0 0.975903614458 0.748914930556
+0 0.542167041666 0.679716466739
+0 0.771084337349 0.699890948746
+0 0.845766828591 0.689866539147
+2 0.000108436347864 0.656564287457
+1 0.596399913251 0.654131054131
+1 0.121987584375 0.736824983735
+0 0.557655368982 0.667351732237
+1 0.0216863289382 0.639956616052
+0 0.566265060241 0.70184104176
+1 0.00365055842701 0.641834743006
+1 0.108436347864 0.691657027183
+0 0.921683970831 0.747369562859
+2 0.759054435047 0.70708725932
+1 0.0062271516203 0.675196992699
+1 0.0843373493976 0.746909564086
+1 0.135541760416 0.734764693125
+1 0.0433726578765 0.709303838647
+0 0.578306285466 0.643838604144
+1 0.0722908985759 0.604085934836
+1 0.0963855421687 0.738668401648
+0 0.944916041886 0.741088858362
+1 0.108436347864 0.720280478548
+1 0.10843373494 0.749512036435
+1 0.149095936458 0.73400563869
+1 0.00932523700353 0.688426227138
+1 0.704836261115 0.710676137288
+1 7.22908985759e-05 0.570626202445
+1 0.120481927711 0.741487746693
+3 0.0435914118412 0.515146390956
+0 0.957819785304 0.725177593406
+1 0.00726497271117 0.657449577098
+0 0.786142210415 0.687207912183
+1 0.325309043591 0.706738962045
+1 0.0650589868147 0.712123183691
+1 0.13554543483 0.703007518797
+1 0.1626501125 0.730318802863
+0 0.813243213937 0.690361118653
+2 0.0109520711342 0.635175797663
+1 0.0124233223868 0.685534591195
+1 0.325309043591 0.7243323626
+0 0.786163522013 0.628171573973
+2 0.86749078291 0.722024096386
+1 0.13554543483 0.713991397694
+1 0.0433726578765 0.691453362256
+1 0.132530120482 0.744957709824
+2 0.542181739319 0.644691471149
+0 0.774521345808 0.688768115942
+0 0.960406468802 0.741161159714
+0 0.987951807229 0.748697916667
+1 0.0154904269162 0.70454709752
+0 0.948818043808 0.682970948953
+0 0.78313253012 0.695310796074
+1 0.176204288541 0.727282585123
+0 0.935238146873 0.746067903243
+0 0.693962526024 0.633456172677
+2 0.86749078291 0.707352338723
+1 0.144578313253 0.734981565821
+1 0.650618087183 0.658987925655
+1 0.108436347864 0.623461574232
+1 0.0108793869953 0.67967902841
+1 0.162654521796 0.704706477733
+1 0.00730138075616 0.545708434184
+1 0.0867453157529 0.711515940143
+1 0.0309808538323 0.715896768597
+0 0.867453157529 0.690866408729
+1 0.0650589868147 0.685336225597
+1 0.156626506024 0.745608327912
+1 0.189758464583 0.7360659293
+3 0.065278681414 0.506377427771
+1 0.168674698795 0.74062025591
+1 0.162654521796 0.713485379694
+1 0.361454492879 0.709279628195
+1 0.759054435047 0.710757468958
+0 0.799696386457 0.684164764699
+0 0.975891856725 0.727617808145
+0 0.555721217707 0.676117775354
+2 0.0217957059206 0.653772127192
+0 0.578313253012 0.707453973956
+1 0.180722891566 0.740837128606
+0 0.573145795898 0.664489136817
+1 0.704836261115 0.613822246456
+1 0.0144938012795 0.678377792236
+0 0.831315285358 0.690306815096
+1 0.0464712807485 0.724137931034
+1 0.203312640625 0.732921275211
+1 0.361454492879 0.723000185885
+0 0.596378356887 0.646946564885
+1 0.0619617076647 0.719655895323
+1 0.192771084337 0.749512036435
+1 0.216866816666 0.734656256777
+2 0.975927130774 0.706846278044
+3
+0 0.790011772724 0.685652173913
+1 0.108431644691 0.712513554543
+0 1.0 0.748697916667
+1
+1 0.397599942167 0.704167312161
+1 0.204819277108 0.734547820429
+0 0.975896895718 0.741305762418
+1 0.0145304706137 0.573450009309
+0 0.948792322915 0.747911921033
+1 0.189763608762 0.701163967611
+0 0.795180722892 0.69814612868
+1 2.40963855422e-05 0.548177083333
+1 0.189763608762 0.722629847833
+2 0.975927130774 0.722168674699
+3
+2 0.650618087183 0.650213402136
+1 0.144581797152 0.629723780885
+1 0.0774521345808 0.721607749584
+0 0.993963928145 0.726153679302
+1
+1 0.0867453157529 0.696616052061
+1 0.230420992708 0.73552374756
+1 0.0180720714208 0.692311862936
+1 0.21686746988 0.743873346346
+1 0.00243373493976 0.638237847222
+3 0.0869659509868 0.531162431153
+1 0.704836261115 0.658390991724
+2 0.032639340707 0.674238933015
+1 0.00484337349398 0.612196180556
+0 0.889139486468 0.690649045777
+1 0.397599942167 0.725075903092
+0 0.975927130774 0.684273362035
+1
+1 0.813272608979 0.711923222903
+1 0.228915662651 0.745825200607
+1 0.092942561497 0.726668112485
+0 0.813272608979 0.62933478735
+1 0.243975168749 0.737692474517
+1 0.00725301204819 0.632378472222
+0 0.813250562498 0.686012389958
+1 3.61441428417e-05 0.585759991324
+1 0.433745391455 0.709558481797
+1 0.216872695728 0.709911798728
+1 0.0217595604713 0.54241916465
+1 0.00966265060241 0.672743055556
+1 0.0361441428417 0.702992843201
+1 0.108431644691 0.699088937093
+0 0.715648854962 0.63411424059
+1 0.240963855422 0.74062025591
+1 0.00365055842701 0.567322813296
+3 0.000216872695728 0.533508446394
+1 0.130117973629 0.724615050965
+0 0.991387322635 0.741594967826
+1
+1 0.216872695728 0.722087685691
+1 0.257529344791 0.738126219909
+1 0.0120481927711 0.652560763889
+0 0.849387356779 0.691718707575
+0 0.569275393749 0.682551799346
+0 0.590361445783 0.722945666816
+1 0.0542162142625 0.713240078074
+0 0.807228915663 0.69814612868
+1 0.433745391455 0.726717888345
+1 0.108432988413 0.721896913179
+1 0.0240963855422 0.697916666667
+0 0.962346498956 0.747803449398
+1 5.42181739319e-05 0.571433739734
+1 0.0289886503289 0.571681251164
+3 0.108436347864 0.516934003285
+0 0.805502199641 0.690362318841
+0 0.588636222814 0.666764533177
+1 3.09808538323e-05 0.594750921842
+1 0.123923415329 0.724788549122
+1 0.86749078291 0.712844981836
+1 0.271083520833 0.734981565821
+2 0.0434829754934 0.683374447667
+1 0.253012048193 0.749295163739
+1 0.0361445783133 0.701388888889
+1 0.00726497271117 0.630714169514
+3 0.000216872695728 0.641831325301
+1 0.469890840743 0.72578846273
+1 0.139413842245 0.728113930456
+1 0.243981782694 0.720858784834
+1 0.0722882856833 0.721155931468
+0 0.614450428308 0.644002181025
+1 0.0481927710843 0.698784722222
+1 0.243981782694 0.706116252169
+1 0.0108793869953 0.644270918063
+1 0.00312906623707 0.605740727352
+1 0.151804302568 0.718325742789
+1 0.18072724644 0.641008153269
+1 0.469890840743 0.712780790085
+1 0.759054435047 0.614776444929
+3 0.0219041422685 0.621032845748
+1 0.759054435047 0.658852258852
+1 0.284637696874 0.733571893299
+1 0.130117973629 0.70273318872
+1 0.0602409638554 0.723524305556
+3 0.216872695728 0.537008406609
+1 0.154904269162 0.724137931034
+1 0.0062271516203 0.624755982937
+1 0.265060240964 0.749512036435
+1 0.0361454492879 0.552255942407
+2 0.759054435047 0.651901328639
+0 0.82680473854 0.682534507119
+1 0.0144938012795 0.621061764546
+1 0.298191872916 0.736499674691
+1 0.0722891566265 0.715277777778
+0 0.975900674998 0.745850959974
+1 0.00547603556712 0.533808472921
+1 0.0903603571041 0.720505313381
+0 0.910825815406 0.690475155415
+2 0.0542181739319 0.695275014232
+1 0.00932523700353 0.652375099414
+1 0.506036290031 0.729258318359
+1 0.921708956842 0.713143197961
+1 0.27109086966 0.708032099479
+1 0.277108433735 0.745825200607
+1 0.506036290031 0.715600309837
+0 0.8674594282 0.692641868042
+1 0.0843373493976 0.720269097222
+1 0.27109086966 0.721147937977
+1 0.0722908985759 0.575777322659
+1 0.0180720714208 0.64177647633
+0 0.819277108434 0.701417666303
+1 0.173490631506 0.723140316634
+1 0.311746048958 0.736608111039
+1 0.170394696078 0.726668112485
+0 0.820992626557 0.688985507246
+1 0.0124233223868 0.618176559902
+0 0.840381695944 0.630934205743
+1 0.0361441428417 0.66813079551
+1 0.298199956625 0.705320994795
+1 0.151804302568 0.710195227766
+3 0.0435914118412 0.626888690749
+1 0.216872695728 0.635551973215
+1 0.325300224999 0.736499674691
+1 0.542181739319 0.718357862122
+0 0.58282956979 0.682006543075
+1 0.0108978529603 0.5449513404
+0 0.602409638554 0.705657835653
+1 0.0963855421687 0.719618055556
+1 0.289156626506 0.744090219041
+0 0.7373351839 0.636307800298
+1 0.542181739319 0.72845281616
+1 0.185885122994 0.725511458107
+1 0.0542162142625 0.697684507348
+2 0.108436347864 0.714847244436
+1 0.108432428525 0.715679895901
+1 0.0154904269162 0.650422962909
+1 0.325309043591 0.708502024291
+1 0.195176960444 0.721492084147
+1 0.975927130774 0.714471615247
+2
+3 0.325309043591 0.541815634361
+1 0.298199956625 0.71966602812
+0 0.60412664973 0.659791544334
+1 0.10843373494 0.726345486111
+1 0.20137554991 0.729270584833
+3 0.0219041422685 0.647493975904
+1 0.813272608979 0.654917921585
+1 0.338854401041 0.731403166341
+2 0.86749078291 0.656145258132
+1 0.0722882856833 0.691014587061
+1 0.108436347864 0.589989449513
+1 0.0309808538323 0.678042079387
+0 0.632522499729 0.645528898582
+1 0.578327188607 0.714144074361
+1 0.216863289382 0.721231836912
+0 0.840358914582 0.684490816216
+1 0.301204819277 0.744957709824
+1 0.120481927711 0.730251736111
+0 0.932512144344 0.69095335391
+1 0.126504499946 0.720396877033
+1 0.352418130557 0.709984094853
+1 0.325309043591 0.72678642426
+1 0.173490631506 0.715140997831
+1 0.216865976826 0.726595821586
+0 0.98945485104 0.746176374878
+1
+1 0.578327188607 0.730094801413
+1 0.352408577083 0.734330947734
+0 0.88553149962 0.689872386641
+1 0.0163196703535 0.570420751782
+1 0.132530120482 0.719618055556
+2 0.162654521796 0.712597251213
+1 2.71083520833e-05 0.461655277145
+3 0.065278681414 0.639251030195
+0 0.831325301205 0.69814612868
+1 0.813272608979 0.612486368593
+1 0.0903603571041 0.696708421452
+1 0.144581797152 0.608421771241
+1 0.313253012048 0.747126436782
+1 0.0464712807485 0.68881498084
+0 0.836483053473 0.69115942029
+1 0.238549618321 0.723747560182
+2 0.000108436347864 0.46866019628
+1 0.379527217523 0.709478021978
+1 0.253018145016 0.64776637629
+3 0.0435914118412 0.672024096386
+1 0.614472637895 0.726129252122
+1 0.144576571367 0.718932986337
+3 0.433745391455 0.553072760653
+1 0.365962753124 0.731728475385
+1 0.00273794356041 0.58401128105
+1 0.325301204819 0.748427672956
+1 0.0619617076647 0.698647964717
+1 0.144578313253 0.728298611111
+1 0.18072724644 0.603580959474
+1 0.352418130557 0.724545487404
+1 0.232356403742 0.726957276079
+1 0.614472637895 0.717428350116
+1 0.108432428525 0.702131120872
+2 0.0109520711342 0.609689313018
+1 0.195176960444 0.712885032538
+1 0.0774521345808 0.703925963416
+1 0.247846830659 0.730138075616
+1 0.156626506024 0.739366319444
+1 0.0217414877467 0.582902210484
+1 0.00544877876874 0.610152945005
+1 0.126504499946 0.701697304918
+3 0.065278681414 0.697421686747
+1 0.216872695728 0.604263638056
+0 0.596383745832 0.684514721919
+1 0.379516929166 0.734764693125
+0 0.614457831325 0.71531207903
+1 0.162648642787 0.719149859033
+0 0.853913090623 0.68579502228
+1 0.33734939759 0.750813272609
+1 0.406636304489 0.714864083285
+3 0.0869659509868 0.66633732559
+1 0.092942561497 0.708047140482
+1 0.144576571367 0.707445366303
+1 0.263337257575 0.730065784718
+1 0.379527217523 0.719196154263
+1 0.260235947259 0.719149859033
+1 0.168674698795 0.731553819444
+1 0.86749078291 0.660670194004
+1 0.00815961397707 0.627725349821
+0 0.86749078291 0.631624863686
+3 0.542181739319 0.545342545173
+1 0.253018145016 0.617017315211
+1 0.650618087183 0.714670797831
+1 0.216863289382 0.714143167028
+1 0.108432988413 0.713758947292
+0 0.619617076647 0.664929536113
+0 0.759021512838 0.632359392823
+2 0.975927130774 0.654819030166
+3
+0 0.843373493976 0.701199563795
+1 0.180722891566 0.728949652778
+1 0.393071105208 0.735415311212
+0 0.954198473282 0.690475155415
+1 0.0108704491854 0.651697581083
+1 0.349397590361 0.741704619388
+1 0.650618087183 0.727492409691
+2 0.0217957059206 0.603833432739
+0 0.903603571041 0.689600868857
+2 0.216872695728 0.721543007401
+1 0.162648642787 0.705710102489
+0 0.65059457115 0.645419847328
+3 0.0869659509868 0.702168674699
+0 0.851973480389 0.690362318841
+1 0.281922276197 0.723227065712
+1 0.123923415329 0.711156098619
+1 0.289163594303 0.65297454816
+1 0.192771084337 0.734592013889
+1 0.433745391455 0.712225274725
+1 0.0135541760416 0.662219329645
+1 0.278827684491 0.730354948312
+1 0.027109086966 0.590029304294
+1 0.180720714208 0.725005421817
+1 0.238549618321 0.711323210412
+1 0.686763536471 0.715042602634
+1 0.0271083520833 0.692265972448
+1 0.406625281249 0.735632183908
+1 0.406636304489 0.720750352405
+1 0.204819277108 0.740017361111
+1 0.361445783133 0.744957709824
+3 0.108436347864 0.66096344314
+1 0.180720714208 0.70663196139
+1 0.289163594303 0.617513808726
+1 0.139413842245 0.715277275685
+1 0.0406625281249 0.695411649854
+1 0.294318111407 0.729993493819
+1 0.303608605135 0.720277597051
+1 0.260235947259 0.716529284165
+2 0.032639340707 0.635200347015
+2 0.27109086966 0.712597251213
+1 0.21686746988 0.734375
+1 0.373493975904 0.745391455216
+0 0.867467266665 0.683838713183
+1 0.198792785629 0.718824549989
+0 0.855421686747 0.695528898582
+3 0.650618087183 0.560585563823
+1 0.420179457291 0.734764693125
+1 0.198792785629 0.707282685321
+3 0.000216872695728 0.523136649707
+1 0.0542167041666 0.712007809958
+1 0.154904269162 0.721639794664
+1 0.86749078291 0.613849509269
+1 0.686763536471 0.727058677737
+1 0.460854478421 0.716346153846
+3 0.108436347864 0.682674698795
+1 0.385542168675 0.743222728259
+1 0.0542181739319 0.600846568503
+1 0.309808538323 0.726668112485
+1 0.433745391455 0.721256370405
+1 0.921708956842 0.660778727445
+0 0.609937921874 0.686804798255
+1 0.722908985759 0.716963594113
+0 0.626506024096 0.71845532106
+1 0.228915662651 0.733289930556
+1 0.433733633332 0.7360659293
+1 0.0677708802082 0.708428246014
+0 0.867463907305 0.690289855072
+2 0.325309043591 0.72322372523
+0 0.921675642462 0.693239207168
+1 0.21686485705 0.710970120926
+1 0.325298965239 0.729776621123
+1 0.170394696078 0.716217193262
+2 0.0434829754934 0.648972509895
+1 0.281922276197 0.711757049892
+0 0.975884802221 0.691692387949
+1 0.240963855422 0.734809027778
+3 0.759054435047 0.556744613006
+1 0.0813250562498 0.714719600824
+1 0.325309043591 0.648665405958
+0 0.635107503563 0.665296535526
+1 0.21686485705 0.723921058339
+1 0.397590361446 0.742788982867
+3 0.216872695728 0.67597657662
+1 0.325309043591 0.620834109104
+1 0.185885122994 0.723013520353
+1 0.325294934074 0.72131858599
+1 0.253012048193 0.737196180556
+1 0.0948792322915 0.712550168131
+1 0.447287809374 0.73248752982
+0 0.780707841777 0.639247170308
+0 0.894599869876 0.630425299891
+0 0.668666642571 0.650272628135
+1 0.234936928471 0.7130849737
+0 0.881021442706 0.690359743506
+1 0.460854478421 0.719449163263
+1 0.0813272608979 0.61065084476
+1 0.759054435047 0.714144074361
+0 0.867469879518 0.69814612868
+1 0.487963565387 0.713598901099
+1 0.409638554217 0.745825200607
+1 0.303608605135 0.717310195228
+1 0.340789392156 0.731873057182
+1 0.265060240964 0.740017361111
+1 0.234936928471 0.724788549122
+1 0.722908985759 0.727802218229
+3 0.0219041422685 0.586916158279
+1 0.421686746988 0.743222728259
+1 0.108433408333 0.722312615251
+1 0.20137554991 0.730822066373
+1 0.433734939759 0.745825200607
+0 0.882954334221 0.689710144928
+2 0.379527217523 0.718262896799
+0 0.939747713883 0.692261743144
+1 0.460841985416 0.736608111039
+1 0.253008999892 0.724137931034
+1 0.975927130774 0.663600596934
+2
+3 0.216872695728 0.713734939759
+1 0.346981263012 0.720407720668
+1 0.277108433735 0.736762152778
+1 0.108436347864 0.624036756991
+3 0.86749078291 0.572349985506
+1 0.121987584375 0.725024406118
+1 0.361454492879 0.659701770158
+1 0.356279819072 0.730933275501
+1 0.253008999892 0.709939808036
+0 0.623492097915 0.684841875682
+1 0.361454492879 0.619685967852
+2 0.0542181739319 0.661009597137
+0 0.638554216867 0.719577907499
+1 0.44578313253 0.747126436782
+1 0.216865976826 0.725833273082
+0 0.997571131159 0.690562100596
+1
+1 0.325294934074 0.71453362256
+1 0.921708956842 0.612241003272
+0 0.894575618748 0.687860015216
+1 0.289156626506 0.734592013889
+1 0.795199884335 0.716901626646
+1 0.515072652353 0.712948235975
+1 0.487963565387 0.723208154119
+3 0.0435914118412 0.590002652456
+1 0.135541760416 0.720251654192
+3 0.325309043591 0.68402535123
+0 0.879518072289 0.700981461287
+1 0.271081071312 0.721969204077
+0 0.686738713991 0.64705561614
+1 0.474396161457 0.737367165474
+1 4.33726578765e-05 0.544711559362
+0 0.650597930479 0.66426893717
+1 0.457831325301 0.747343309477
+0 0.898444761138 0.688695652174
+2 0.000108436347864 0.595712929046
+0 0.921708956842 0.634532897128
+1 0.301204819277 0.732638888889
+1 0.271081071312 0.713844151619
+1 0.371770245988 0.727969348659
+1 0.36866759195 0.722012578616
+1 0.232356403742 0.730822066373
+1 0.149095936458 0.726217594099
+0 0.957819785304 0.692750475156
+1 0.289153142733 0.725276512687
+0 0.802394170715 0.636790383434
+3 0.975927130774 0.567832640835
+4
+1 0.13554543483 0.642921746681
+1 0.759054435047 0.727151620299
+1 0.469879518072 0.74669269139
+1 0.313253012048 0.737196180556
+1 0.00438063844552 0.569273573012
+1 0.346981263012 0.712060737527
+1 0.397599942167 0.658926744583
+1 0.1626501125 0.731532704198
+2 0.433745391455 0.723006858413
+1 0.831345333622 0.715228505035
+1 0.325301204819 0.740451388889
+1 0.289153142733 0.718941489073
+2 0.108436347864 0.673751558857
+1 0.481927710843 0.74365647365
+1 0.515072652353 0.721690100119
+1 0.247846830659 0.727134697419
+1 0.487950337499 0.735849056604
+1 0.36866759195 0.720477223427
+1 0.307225214154 0.725493385383
+1 0.387260672904 0.730860984602
+3 0.325309043591 0.718795180723
+1 0.493975903614 0.744740837129
+0 0.90812979479 0.685577654603
+1 0.542181739319 0.716563042221
+0 0.89156626506 0.69945474373
+1 0.307225214154 0.71812808416
+0 0.913935188054 0.691376811594
+1 0.162654521796 0.642957924822
+3 0.065278681414 0.579658074317
+1 0.176204288541 0.731532704198
+0 0.637046273957 0.684841875682
+1 0.33734939759 0.738715277778
+1 0.390353920888 0.723964432878
+2 0.0109520711342 0.572459639126
+1 0.00871790423317 0.563752554015
+0 0.650602409639 0.704086214639
+1 0.263337257575 0.72612247849
+1 0.433745391455 0.663917909291
+1 0.506024096386 0.749078291043
+1 0.397599942167 0.617731024638
+1 0.542181739319 0.722232262262
+1 0.501504513541 0.738234656257
+1 0.975927130774 0.612731733915
+2
+0 0.704810785412 0.644492911668
+3 0.433745391455 0.695327373063
+4 0.000216872695728 0.525751280317
+1 0.349397590361 0.738932291667
+1 0.390353920888 0.720086767896
+1 0.189758464583 0.723071916694
+1 0.40275109982 0.728764548543
+1 0.0130551700208 0.56092683563
+0 0.975891856725 0.69199022536
+0 0.948818043808 0.633042529989
+1 0.86749078291 0.717149496514
+1 0.795199884335 0.725850424438
+1 0.325297285575 0.724192149208
+1 0.189763608762 0.640389276799
+1 0.569290826285 0.713056680162
+0 0.666088357395 0.670361127422
+1 0.325297285575 0.721435930806
+2 0.487963565387 0.72387432568
+1 0.412040249827 0.725092170896
+1 0.518072289157 0.747560182173
+1 0.278827684491 0.731038970429
+1 0.515058689582 0.7360659293
+1 0.203312640625 0.731315760929
+1 0.418241526736 0.728764548543
+3 0.0869659509868 0.604446480673
+0 0.92942561497 0.689057971014
+2 0.162654521796 0.686873068373
+1 0.361445783133 0.744140625
+0 0.921683970831 0.686012389958
+0 0.824080499653 0.638413617619
+1 0.412040249827 0.716746203905
+0 0.903614457831 0.698582333697
+1 0.216866816666 0.726868423907
+1 0.569290826285 0.721400946977
+1 0.343369356996 0.726035567122
+2 0.0217957059206 0.578727445394
+1 0.0173924358085 0.563709081424
+1 0.373493975904 0.741753472222
+1 0.294318111407 0.728653025812
+3 0.542181739319 0.704171385883
+1 0.530120481928 0.741704619388
+1 0.469890840743 0.665684967604
+1 0.343369356996 0.719104170056
+3 0.433745391455 0.714795180723
+2 0.000108436347864 0.567093784079
+1 0.216872695728 0.654498751854
+4 0.0219041422685 0.520919895642
+1 0.433731953653 0.731367020892
+1 0.596399913251 0.716779930596
+1 0.528612865624 0.735740620256
+0 0.993963928145 0.692207439587
+1
+1 0.433726578765 0.725265669052
+1 0.230420992708 0.732725892179
+0 0.650600449999 0.68026172301
+1 0.385542168675 0.740451388889
+1 0.542168674699 0.747993927565
+1 0.0216863289382 0.601878015911
+1 0.596399913251 0.723172009976
+1 0.903636232198 0.71798605732
+1 0.831345333622 0.728112026767
+0 0.66265060241 0.712617871576
+1 0.361441428417 0.725005421817
+3 0.108436347864 0.605362783632
+1 0.433726578765 0.720477223427
+2 0.542181739319 0.720946623655
+1 0.397590361446 0.740885416667
+0 0.944916041886 0.690362318841
+1 3.61441428417e-05 0.525386912843
+1 0.361441428417 0.721490157801
+1 0.309808538323 0.724893355506
+2 0.216872695728 0.692051184731
+1 0.433745391455 0.62260286725
+1 0.243981782694 0.647624905032
+0 0.722882856833 0.646564885496
+1 0.243975168749 0.736956285931
+2 0.032639340707 0.571157237824
+1 0.55421686747 0.749295163739
+2 0.0109520711342 0.553080697928
+0 0.915662650602 0.69945474373
+1 0.449222380569 0.730138075616
+0 0.935238146873 0.6875339637
+1 0.623509000217 0.71786437247
+1 0.506036290031 0.6629878786
+1 0.409638554217 0.736328125
+1 0.0433726578765 0.613615615355
+1 0.455412907703 0.721448709607
+1 0.542167041666 0.735090002169
+0 0.975927130774 0.633442384587
+1
+3 0.650618087183 0.705424488517
+1 0.566265060241 0.750379527218
+1 0.623509000217 0.72234069469
+1 0.379513499837 0.721806549555
+1 0.00365055842701 0.53901710562
+1 0.257529344791 0.733376721987
+4 0.0435914118412 0.51954295101
+1 0.325298965239 0.729159135276
+0 0.681578784311 0.662874339401
+1 0.421686746988 0.740668402778
+1 0.379513499837 0.719592213004
+1 0.455412907703 0.720694143167
+1 0.27109086966 0.655656452371
+3 0.542181739319 0.720554216867
+1 0.578313253012 0.74821080026
+0 0.845766828591 0.635869088357
+2 0.0217957059206 0.557142857143
+1 0.555721217707 0.736282801995
+1 0.0650589868147 0.618832326218
+1 0.477099236641 0.720624593364
+1 0.464712807485 0.727607894166
+1 0.939781681486 0.718822618125
+1 0.271083520833 0.734569909969
+1 0.00726497271117 0.543252783057
+1 0.340789392156 0.731038970429
+1 0.433734939759 0.746961805556
+1 0.397585571258 0.725710258079
+2 0.0434829754934 0.568905168905
+2 0.596399913251 0.72010626474
+1 0.86749078291 0.726562984076
+0 0.960406468802 0.691594202899
+3 0.216872695728 0.620650575101
+2 0.27109086966 0.692186737516
+1 0.650618087183 0.71493637941
+3 0.759054435047 0.704629250307
+0 0.927710843373 0.699018538713
+1 0.542181739319 0.664692934867
+1 5.42181739319e-05 0.569065794257
+1 0.0867453157529 0.637873320871
+1 0.480203234401 0.730354948312
+1 0.397585571258 0.716338593352
+1 0.298199956625 0.66119170797
+1 0.590361445783 0.752114508783
+1 0.477099236641 0.720477223427
+0 0.66415462604 0.690076335878
+0 0.948792322915 0.686990544506
+1 0.650618087183 0.719268442549
+1 0.0108793869953 0.580233505295
+1 0.356279819072 0.731038970429
+0 0.674698795181 0.713515940727
+1 0.44578313253 0.746310763889
+2 0.032639340707 0.579689203926
+1 0.569275393749 0.735957492952
+1 0.284637696874 0.737173229201
+1 0.415657642679 0.723216222078
+1 0.677727174149 0.716779930596
+4 0.065278681414 0.537733114311
+1 0.602409638554 0.749945781826
+1 0.495693661317 0.731150148196
+0 0.740954928254 0.645419847328
+2 0.0542181739319 0.60173653507
+1 0.0144938012795 0.589302199294
+1 0.469890840743 0.622416682182
+1 0.498785565579 0.725612665365
+0 0.975896895718 0.690362318841
+1 0.108431644691 0.637699430509
+1 0.498785565579 0.720477223427
+1 0.415657642679 0.718778808091
+1 0.371770245988 0.728436121755
+3 0.325309043591 0.628632056136
+1 0.325309043591 0.660178720017
+1 0.00547603556712 0.547364594693
+1 0.58282956979 0.73758403817
+1 0.298191872916 0.739125718625
+1 0.457831325301 0.745008680556
+2 0.650618087183 0.720648431782
+1 0.578327188607 0.667886040239
+1 0.0180720714208 0.579636166169
+1 0.677727174149 0.722810568547
+0 0.697069211227 0.671021726365
+3 0.650618087183 0.717542168675
+1 0.975927130774 0.718791634392
+2
+1 0.614457831325 0.744090219041
+1 0.903636232198 0.728514777867
+0 0.939759036145 0.70185387132
+2 0.325309043591 0.69877460283
+2 0.0434829754934 0.57213740458
+1 0.4337297141 0.722511385817
+1 0.387260672904 0.734870942087
+1 0.704836261115 0.713671197224
+1 0.511184088233 0.728764548543
+0 0.962346498956 0.686555809151
+1 0.0108978529603 0.572773536896
+3 0.86749078291 0.70629202111
+1 0.520471894518 0.723617436565
+1 0.469879518072 0.746961805556
+0 0.867453157529 0.636088444327
+1 0.0361441428417 0.593972305186
+0 0.991387322635 0.691304347826
+1
+1 0.311746048958 0.742054452761
+1 0.352418130557 0.657573893853
+1 0.130117973629 0.641525018476
+1 0.596383745832 0.736174365647
+1 0.520471894518 0.721084598698
+1 0.704836261115 0.721184082119
+4 0.0869659509868 0.51360034786
+1 3.09808538323e-05 0.499927536232
+3 0.433745391455 0.63275541945
+1 0.614472637895 0.665188951235
+1 0.325300224999 0.742705282569
+2 0.108436347864 0.609171075838
+0 0.677708802082 0.684841875682
+1 0.626506024096 0.747560182173
+1 0.40275109982 0.733497216398
+1 0.542158223456 0.725829538061
+1 0.4337297141 0.720459844911
+1 0.0163196703535 0.562958924028
+2 0.379527217523 0.710242368378
+1 0.451801785521 0.723975276513
+0 0.686746987952 0.721823080377
+1 0.00312906623707 0.560072463768
+2 7.22908985759e-05 0.648520526723
+1 0.481927710843 0.739366319444
+1 0.0542162142625 0.604398588108
+1 0.338854401041 0.736630871027
+0 0.951807228916 0.697928026172
+1 0.52667451515 0.733680329646
+2 0.0542181739319 0.560387131952
+1 0.638554216867 0.749295163739
+1 0.542158223456 0.722125813449
+1 0.609937921874 0.733463456951
+1 0.151804302568 0.639047080816
+2 0.704836261115 0.72127192388
+1 0.731945348081 0.714900231348
+1 0.506036290031 0.62260286725
+1 0.939781681486 0.727182601152
+0 0.759026999675 0.643075245365
+1 0.379527217523 0.670453312109
+1 0.731945348081 0.72284671269
+0 0.975900674998 0.690251059667
+4 0.108436347864 0.532056237318
+1 0.0722882856833 0.621884333424
+1 0.0062271516203 0.571594202899
+1 0.418241526736 0.735087846143
+3 0.759054435047 0.722385542169
+1 0.493975903614 0.740668402778
+1 0.563844552394 0.720277597051
+1 0.352408577083 0.734461438334
+1 0.542164942066 0.731077857298
+1 0.469873856941 0.726848839731
+3 0.975927130774 0.706749885534
+4
+1 0.0217414877467 0.552235550709
+1 0.451801785521 0.720676752888
+3 0.542181739319 0.646258831473
+2 0.162654521796 0.615086148419
+0 0.712559638144 0.670434527305
+1 0.563844552394 0.722689804772
+2 0.433745391455 0.71203166513
+2 0.108436347864 0.584541984733
+2 0.00730138075616 0.593152594888
+1 0.650618087183 0.666739002387
+1 0.623492097915 0.735090002169
+1 0.00932523700353 0.574347826087
+1 0.650602409639 0.744957709824
+1 0.173490631506 0.646959092292
+1 0.0903603571041 0.630464295411
+1 0.506024096386 0.743923611111
+1 0.585530881332 0.723704185643
+1 0.759054435047 0.725340658546
+1 0.365962753124 0.736739342662
+1 0.0124233223868 0.56768115942
+1 0.975927130774 0.726965735176
+2
+2 0.759054435047 0.720160481444
+4 0.216872695728 0.5531210745
+1 0.433731953653 0.734798640735
+0 0.889139486468 0.637711678512
+0 0.963855421687 0.701635768811
+1 0.557655368982 0.733535747849
+1 0.759054435047 0.718081260844
+1 0.027109086966 0.571501272265
+1 0.487945928362 0.72489698547
+1 0.406636304489 0.665569263051
+1 0.379516929166 0.739993491702
+0 0.691262978124 0.683751363141
+1 0.469873856941 0.718995716067
+1 0.0154904269162 0.56347826087
+0 0.698795180723 0.711495285137
+1 0.518072289157 0.747395833333
+1 0.637046273957 0.7360659293
+3 0.86749078291 0.722530120482
+0 0.98945485104 0.688186066732
+1
+1 0.66265060241 0.749078291043
+1 0.585530881332 0.7231670282
+3 0.650618087183 0.645487207928
+1 0.607217210271 0.722706571243
+2 0.487963565387 0.707856639375
+1 0.108432428525 0.637035025794
+1 0.195176960444 0.655262357084
+4 0.000216872695728 0.630768489288
+2 0.162654521796 0.597491821156
+1 0.449222380569 0.733641819102
+1 0.573145795898 0.731511602689
+2 0.0145304706137 0.639070487994
+1 2.71083520833e-05 0.542875774372
+1 0.0309808538323 0.60384057971
+1 0.393071105208 0.738257945547
+2 0.216872695728 0.621164021164
+4 0.325309043591 0.539665668181
+1 0.686763536471 0.671761168119
+1 0.530120481928 0.742838541667
+1 0.0542181739319 0.589640130862
+1 0.00273794356041 0.584936419954
+2 7.22908985759e-05 0.500495693661
+1 0.126504499946 0.636491990225
+0 0.777099071096 0.645256270447
+1 0.674698795181 0.746258945999
+1 0.786163522013 0.718153556969
+1 0.542181739319 0.621237510085
+1 0.588636222814 0.732668257066
+1 0.433745391455 0.671357765638
+1 0.487945928362 0.72186974676
+1 0.0464712807485 0.624565217391
+1 0.786163522013 0.722304550548
+1 0.506017999783 0.725547603557
+1 0.406625281249 0.742922225838
+1 0.607217210271 0.723861171367
+1 0.650600449999 0.73704185643
+0 0.975903614458 0.700981461287
+1 0.00544877876874 0.568851211825
+1 0.628903539209 0.724788549122
+1 0.464712807485 0.735810859663
+2 0.813272608979 0.721082165415
+1 0.686746987952 0.748644545652
+1 0.0813272608979 0.596873864049
+1 0.216863289382 0.653740816415
+1 0.542168674699 0.75
+0 0.72805006506 0.669406928949
+1 0.0619617076647 0.627536231884
+2 0.0217595604713 0.628071262587
+2 0.542181739319 0.705958900396
+4 0.433745391455 0.55290366219
+1 0.60412664973 0.731150148196
+1 0.144576571367 0.638175400489
+3 0.759054435047 0.651636083046
+1 0.00815961397707 0.572111726986
+2 0.27109086966 0.634133767467
+2 0.216872695728 0.598418756816
+1 0.420179457291 0.741512094587
+1 0.698795180723 0.748644545652
+1 0.0774521345808 0.628405797101
+4 0.0219041422685 0.607561992433
+1 0.813272608979 0.724003325261
+1 0.722908985759 0.676287317481
+1 0.55421686747 0.745442708333
+1 0.460854478421 0.67048949025
+1 0.506017999783 0.720947887859
+1 0.66415462604 0.73704185643
+1 0.0108704491854 0.549288120856
+2 0.00730138075616 0.62336575996
+0 0.704817154165 0.679280261723
+0 0.710843373494 0.719577907499
+1 0.650589868147 0.721361960529
+0 0.910825815406 0.638457488813
+1 0.524090071204 0.725168076339
+1 0.480203234401 0.73320801099
+1 0.813272608979 0.716816078658
+1 0.619617076647 0.731656184486
+3 0.975927130774 0.722265060241
+4
+2 0.0289886503289 0.640278853602
+1 0.108436347864 0.589094874591
+1 0.710843373494 0.745825200607
+1 0.162648642787 0.659462394787
+1 0.433733633332 0.742162924395
+1 0.0135541760416 0.587436148245
+1 0.092942561497 0.640797101449
+1 0.628903539209 0.723123644252
+1 0.677708802082 0.736391238343
+1 0.566265060241 0.742404513889
+2 0.596399913251 0.706555332647
+1 0.238549618321 0.654305960092
+2 0.86749078291 0.722356257963
+1 0.524090071204 0.720297163928
+4 0.542181739319 0.55705865301
+0 0.987951807229 0.701635768811
+1 0.495693661317 0.736967681296
+2 0.27109086966 0.599890948746
+1 0.0271083520833 0.594935333116
+1 0.722891566265 0.747126436782
+2 0.325309043591 0.644580111247
+1 0.635107503563 0.731945348081
+1 0.180720714208 0.652185718165
+1 0.108432988413 0.64615942029
+1 0.447287809374 0.738800303721
+3 0.86749078291 0.651949555111
+2 0.0145304706137 0.677334407336
+1 0.487963565387 0.664881878369
+1 0.542162142625 0.725547603557
+1 0.840381695944 0.723280442404
+1 0.578313253012 0.747612847222
+2 0.0361454492879 0.632439969016
+4 0.0435914118412 0.620743668217
+1 0.578327188607 0.620616893192
+0 0.795171142516 0.649672846238
+1 0.13554543483 0.601999272992
+1 0.672276197085 0.724268054652
+1 0.0406625281249 0.605368981632
+1 0.759054435047 0.67545028986
+1 0.691262978124 0.73758403817
+4 0.650618087183 0.563629336168
+0 0.743540491976 0.66742513212
+1 0.840381695944 0.71743059572
+1 0.542162142625 0.724038826528
+1 0.511184088233 0.735015544791
+1 0.734939759036 0.748861418347
+1 0.460841985416 0.739451133529
+1 0.650589868147 0.725292841649
+2 0.0217595604713 0.690563231923
+1 0.260235947259 0.657305568839
+1 0.198792785629 0.652945967961
+1 0.123923415329 0.649492753623
+2 0.921708956842 0.721515899048
+1 0.590361445783 0.745442708333
+2 0.650618087183 0.712411212926
+1 0.0542167041666 0.620693402891
+1 0.560234214046 0.721535458686
+1 0.650597930479 0.732306802574
+4 0.000216872695728 0.652987951807
+1 0.704817154165 0.736499674691
+2 0.325309043591 0.607906215921
+1 0.693962526024 0.725699414444
+0 1.0 0.700109051254
+1
+2 0.0722908985759 0.681673121611
+0 0.722891566265 0.71014818141
+1 2.40963855422e-05 0.540894220284
+2 0.379527217523 0.645801112468
+1 0.515072652353 0.673492275967
+1 0.00243373493976 0.555288985823
+1 0.139413842245 0.651956521739
+0 0.718371330207 0.682115594329
+1 0.474396161457 0.737173229201
+1 0.52667451515 0.735738558311
+1 0.162654521796 0.608724100327
+1 0.86749078291 0.722629847833
+1 0.602409638554 0.745659722222
+1 0.0677708802082 0.634387566569
+3 0.975927130774 0.656314050782
+4
+1 0.00484337349398 0.557470010905
+1 0.560234214046 0.723713464563
+4 0.759054435047 0.566141656199
+0 0.932512144344 0.639334912696
+1 0.21686485705 0.655335324464
+1 0.672276197085 0.724685466377
+1 0.746987951807 0.744957709824
+1 0.718371330207 0.73552374756
+2 0.0289886503289 0.680742301258
+1 0.00725301204819 0.599345692475
+1 0.154904269162 0.649855072464
+4 0.065278681414 0.627442947683
+1 0.795199884335 0.677155346126
+1 0.578306285466 0.722890913034
+1 0.0813250562498 0.639495706988
+1 0.666088357395 0.732740547965
+1 0.281922276197 0.667304264661
+1 0.00966265060241 0.573827699019
+2 0.975927130774 0.721841199273
+3
+1 0.542164942066 0.736678475887
+1 0.86749078291 0.717394447658
+1 0.715648854962 0.72383430926
+1 0.614457831325 0.745008680556
+2 0.379527217523 0.61060523446
+2 0.108436347864 0.699829589466
+1 0.0120481927711 0.595419847328
+4 0.0219041422685 0.609927710843
+1 0.487950337499 0.743247640742
+2 0.704836261115 0.714552946918
+1 0.542181739319 0.676314170978
+1 0.234936928471 0.660168341026
+2 0.433745391455 0.644851444851
+1 0.189763608762 0.612504543802
+1 0.693962526024 0.722342733189
+1 0.0240963855422 0.608942202835
+1 0.614472637895 0.625736982561
+1 0.0948792322915 0.638952287795
+0 0.813243213937 0.65239912759
+1 0.759036144578 0.749078291043
+2 0.0361454492879 0.693134642791
+1 0.578306285466 0.718995716067
+1 0.170394696078 0.657753623188
+1 0.894599869876 0.725882820689
+4 0.000216872695728 0.563261074004
+1 0.557655368982 0.732557298821
+4 0.86749078291 0.57259155474
+1 0.731925506248 0.73758403817
+1 0.501504513541 0.744332357089
+1 0.0361445783133 0.606543075245
+1 0.7373351839 0.721361960529
+0 0.759030918892 0.671682325308
+1 0.596378356887 0.725601821731
+1 0.681578784311 0.732812838864
+1 0.626506024096 0.744574652778
+1 0.894599869876 0.718587333719
+1 0.0481927710843 0.617884405671
+3 0.000108436347864 0.345251972133
+0 0.734939759036 0.725864391558
+1 0.108433408333 0.643190957505
+1 0.303608605135 0.666521758032
+1 0.831345333622 0.680162445361
+1 0.515058689582 0.738583360451
+1 0.253008999892 0.661580233505
+1 0.569290826285 0.675699142578
+1 0.573145795898 0.737907598872
+2 0.433745391455 0.610114503817
+4 0.0435914118412 0.66065060241
+1 0.74547968229 0.73704185643
+2 0.144581797152 0.695243996902
+1 0.596378356887 0.721652838783
+1 0.185885122994 0.651884057971
+1 0.0602409638554 0.613958560523
+1 0.771084337349 0.749078291043
+4 0.0869659509868 0.656143817625
+0 0.731925506248 0.678625954198
+1 0.715648854962 0.723080260304
+1 0.528612865624 0.744766243627
+1 0.216872695728 0.612831697565
+2 0.759054435047 0.714390283576
+2 0.487963565387 0.646072446072
+1 0.121987584375 0.645908053472
+1 0.697069211227 0.731294729993
+1 0.0722891566265 0.62878953108
+2 0.0722908985759 0.708903897391
+1 0.759021512838 0.720494469746
+1 0.614450428308 0.725764476252
+4 0.0219041422685 0.556895179764
+1 0.638554216867 0.745659722222
+1 0.588636222814 0.735521654255
+1 0.78313253012 0.749078291043
+0 0.954198473282 0.638545231201
+1 0.759033858332 0.73758403817
+1 0.135541760416 0.648081730247
+2 0.487963565387 0.611259541985
+1 0.921708956842 0.72577438826
+1 0.20137554991 0.66847826087
+4 0.975927130774 0.568388250072
+14 14
+1 0.0843373493976 0.64907306434
+1 0.271081071312 0.671029052403
+3 0.0109520711342 0.593510260511
+1 0.86749078291 0.679325417739
+1 0.542167041666 0.747261091225
+1 0.921708956842 0.717213707345
+4 0.065278681414 0.703831325301
+1 0.712559638144 0.733535747849
+1 0.614450428308 0.723713464563
+1 0.325294934074 0.665739251402
+1 0.596399913251 0.675988567707
+1 0.7373351839 0.724728850325
+1 0.0963855421687 0.643184296619
+1 0.60412664973 0.735738558311
+2 0.18072724644 0.701719597211
+1 0.650602409639 0.745442708333
+2 0.108436347864 0.714449470227
+1 0.780707841777 0.722966818478
+1 0.149095936458 0.647212259537
+1 0.772588034373 0.736824983735
+1 0.795180722892 0.747560182173
+1 0.243981782694 0.61752090149
+1 0.555721217707 0.746067903243
+1 0.216865976826 0.662028985507
+0 0.831315285358 0.648473282443
+4 0.108436347864 0.659131985445
+1 0.650618087183 0.622882144852
+1 0.10843373494 0.652998909487
+2 0.542181739319 0.65291005291
+2 0.542181739319 0.612295528899
+1 0.948818043808 0.722955145119
+1 0.786142210415 0.73758403817
+2 0.813272608979 0.712573876267
+3 0.0217957059206 0.669494971401
+1 0.632522499729 0.723270440252
+1 0.72805006506 0.731583893588
+0 0.774521345808 0.66771873165
+1 0.759021512838 0.72399132321
+1 0.289153142733 0.668965517241
+1 0.632522499729 0.725014912423
+0 0.746987951807 0.715087561742
+4 0.0435914118412 0.576089315425
+1 0.569275393749 0.747911921033
+1 0.120481927711 0.651254089422
+1 0.619617076647 0.73819680428
+1 0.807228915663 0.749078291043
+1 0.802394170715 0.726046410757
+2 0.144581797152 0.723619802962
+1 0.1626501125 0.654059341376
+1 0.66265060241 0.749565972222
+1 0.948818043808 0.718045112782
+1 0.232356403742 0.665797101449
+2 0.216872695728 0.698838109992
+1 0.27109086966 0.62490003635
+1 0.346981263012 0.673955571012
+1 0.903636232198 0.679666428992
+0 0.74547968229 0.684514721919
+1 0.132530120482 0.666303162486
+1 0.307225214154 0.674504480043
+1 0.58282956979 0.74064432151
+2 0.596399913251 0.653127119794
+4 0.216872695728 0.679735884522
+1 0.635107503563 0.737546092112
+1 0.799696386457 0.737475601822
+1 0.623509000217 0.679316956695
+4 0.0869659509868 0.692265060241
+3 0.032639340707 0.685787091003
+1 0.743540491976 0.731656184486
+1 0.176204288541 0.647212259537
+1 0.65059457115 0.722845832655
+1 0.824080499653 0.725048796357
+1 0.819277108434 0.749078291043
+1 0.247846830659 0.666811594203
+1 0.144578313253 0.664122137405
+1 0.65059457115 0.726198221644
+1 0.975927130774 0.725882820689
+2
+24  0.180727246440.065278681414  0.7215750666090.587856574474
+
+1 0.780707841777 0.726507592191
+1 0.674698795181 0.749131944444
+0 0.975884802221 0.638457488813
+1 0.36866759195 0.668304134243
+2 0.253018145016 0.70695584818
+1 0.759030918892 0.730933275501
+1 0.596383745832 0.743573055646
+1 0.325297285575 0.666630464295
+1 0.156626506024 0.667611777535
+1 0.189758464583 0.653407238344
+1 0.813250562498 0.737475601822
+2 0.86749078291 0.712817871279
+2 0.216872695728 0.723062147593
+4 0.325309043591 0.679832277032
+1 0.975927130774 0.717936668595
+2
+1 0.650597930479 0.735810859663
+3 0.0434829754934 0.683564206132
+1 0.263337257575 0.670797101449
+2 5.42181739319e-05 0.64932952615
+2 0.596399913251 0.612350054526
+0 0.849387356779 0.644765539804
+1 0.668666642571 0.724680112774
+1 0.686763536471 0.629088313784
+1 0.668666642571 0.723659237568
+1 0.686746987952 0.744357638889
+1 0.939781681486 0.679604426946
+0 0.759036144578 0.719353390211
+2 0.650618087183 0.655379188713
+1 0.168674698795 0.663904034896
+1 0.802394170715 0.725770065076
+2 0.289163594303 0.708412083656
+0 0.790011772724 0.665369935408
+1 0.203312640625 0.666557982828
+1 0.831325301205 0.749512036435
+1 0.845766828591 0.726219908913
+2 5.42181739319e-05 0.411834875651
+1 0.650618087183 0.678448681307
+1 0.298199956625 0.619810977826
+4 0.108436347864 0.697734939759
+4 0.0869659509868 0.596223867281
+0 0.759033858332 0.682224645583
+1 0.390353920888 0.671999304439
+1 0.609937921874 0.746718733051
+1 0.180722891566 0.670447110142
+1 0.343369356996 0.669454249253
+1 0.82680473854 0.73910214704
+1 0.774521345808 0.732089929878
+1 0.686738713991 0.721761292772
+1 0.278827684491 0.667391304348
+1 0.666088357395 0.735232448847
+3 0.0542181739319 0.688633467971
+1 0.216866816666 0.667101402022
+1 0.686738713991 0.725764476252
+1 0.698795180723 0.75
+2 0.00547603556712 0.636281490584
+2 0.253018145016 0.724828056261
+1 0.192771084337 0.661723009815
+2 0.00547603556712 0.608082706767
+1 0.824080499653 0.725726681128
+4 0.433745391455 0.692363303371
+1 0.623492097915 0.748671222475
+1 0.843373493976 0.74669269139
+1 0.975927130774 0.682828533342
+2
+1 0.867453157529 0.724831923661
+1 0.230420992708 0.655472231279
+1 0.790011772724 0.731222439095
+0 0.997571131159 0.638282004036
+1
+2 0.325309043591 0.713245546088
+2 0.921708956842 0.711977444017
+1 0.204819277108 0.675027262814
+1 0.361441428417 0.675101819169
+1 0.412040249827 0.68030256923
+1 0.840358914582 0.736391238343
+2 0.704836261115 0.659991859992
+1 0.681578784311 0.735955462367
+1 0.704810785412 0.722574697685
+4 0.216872695728 0.710457831325
+1 0.677727174149 0.678014543613
+1 0.294318111407 0.667826086957
+1 0.704810785412 0.723758403817
+1 0.722908985759 0.626357599454
+1 0.710843373494 0.75
+2 0.650618087183 0.612677208288
+2 0.0108978529603 0.659594462717
+0 0.771084337349 0.718006286484
+1 0.637046273957 0.746935676321
+2 0.289163594303 0.723588822108
+4 0.108436347864 0.613320151431
+1 0.855421686747 0.747343309477
+0 0.8674594282 0.648200654308
+1 0.21686746988 0.691384950927
+1 0.243975168749 0.660036952505
+3 0.108436347864 0.713329176719
+2 7.22908985759e-05 0.535697678023
+2 0.0108978529603 0.57981492192
+1 0.853913090623 0.73758403817
+1 0.805502199641 0.731583893588
+0 0.805502199641 0.668085731063
+1 4.33726578765e-05 0.546678950601
+1 0.845766828591 0.726117136659
+1 0.325309043591 0.622573609597
+1 0.722882856833 0.727065712427
+1 0.889139486468 0.726133159835
+0 0.772588034373 0.68026172301
+1 0.650600449999 0.744874715262
+2 0.0163196703535 0.688943506705
+1 0.228915662651 0.68026172301
+1 0.309808538323 0.670289855072
+1 0.257529344791 0.670796652538
+1 0.433726578765 0.676650871625
+4 0.542181739319 0.702508615081
+1 0.722882856833 0.722845832655
+1 0.379513499837 0.680749389085
+1 0.867469879518 0.749078291043
+1 0.697069211227 0.736316969127
+2 0.325309043591 0.72805006506
+2 0.0163196703535 0.642820994795
+2 0.975927130774 0.713902293553
+3
+2 0.759054435047 0.658173924841
+1 0.00438063844552 0.562911292445
+2 0.361454492879 0.712625871418
+1 0.722891566265 0.749348958333
+2 0.00730138075616 0.579781132777
+1 0.867467266665 0.736824983735
+1 0.740954928254 0.726740403383
+1 0.704836261115 0.678882819001
+1 0.820992626557 0.733752620545
+4 0.216872695728 0.626606544332
+1 0.240963855422 0.676553980371
+1 0.00871790423317 0.572957795911
+4 0.325309043591 0.714072289157
+1 0.867453157529 0.722212581345
+1 0.879518072289 0.744523964433
+2 0.0145304706137 0.555507331742
+3 0.162654521796 0.709154490499
+1 0.271083520833 0.667970872731
