@@ -9,6 +9,6 @@ modes = ['normal', 'individual', 'group-age', 'group-lang']
 
 for script in scripts:
 	for mode in modes:
-		for prop in range(10, 100, 10):
-			comm = 'nohup python -u '+script+' '+str(prop)+' 5 500 '+mode+' &'
+		for candsize in [5,10,20,30,40]:
+			comm = 'nohup python -u '+script+' '+str(candsize)+' 5 500 '+mode+' &'
 			os.system(comm)

@@ -5,6 +5,34 @@ from sklearn import linear_model
 from lexenstein.features import *
 from sklearn.cross_validation import train_test_split
 
+def getIndex(sent, target):
+	tokens = sent.split(' ')
+	for i in range(len(tokens)):
+		if tokens[i]==target:
+			return i
+	return None
+
+def mountGoldInstances(path):
+	insts = []
+	f = open(path)
+	sent = f.readline().lower().strip()
+	while len(sent)>0:
+		inst = [sent]
+		target = f.readline().lower().strip()
+		inst.append(target)
+		inst.append(getIndex(sent, target))
+		f.readline()
+		i = 0
+		cand = f.readline().strip().lower()
+		while len(cand)>0:
+			i += 1
+			inst.append(str(i)+':'+cand)
+			cand = f.readline().strip().lower()
+		sent = f.readline().lower().strip()
+		insts.append(inst)
+	f.close()
+	return insts
+
 def toText(data):
 	result = '\n'.join(['\t'.join(line) for line in data])
 	return result
@@ -109,14 +137,12 @@ class OnlineRegressionRanker:
 		textdata = textdata.strip()
 
 		#Create matrix:
-		print 'calculating features...'
 		features = self.fe.calculateFeatures(textdata, input='text')
 
 		ranks = []
 		c = -1
 		for line in data:
 			cands = [cand.strip().split(':')[1].strip() for cand in line[3:]]
-			print len(cands)
 			featmap = {}
 			scoremap = {}
 			for cand in cands:
@@ -202,11 +228,18 @@ class RankerEvaluator:
                 return accuracy
 
 	def evaluateReplacementAccuracy(self, gold_data, rankings):
-		print len(gold_data), len(rankings)
-		print 'Gold data[0]: ', gold_data[0]
-		print 'rankings[0]: ', rankings[0]
-		print ''
-		return 0.0
+		acc = 0.0
+		total = 0.0
+		for ginst, rinst in zip(gold_data, rankings):
+			if len(rinst)==0:
+				total += 1.0
+			else:
+				golds = set([w.strip().split(':')[1] for w in ginst[3:]])
+				first = rinst[0]
+				if first in golds:
+					acc += 1.0
+				total += 1.0
+		return acc/total
 
 datapath = '../../../../corpora/datasets/SurveyMonkey_150118_Data_With_IDS.txt'
 candfile = '../../../../corpora/substitutions/mweretrofittedpaetzoldfembed_substitutions_victor_'+str(sys.argv[1])+'.txt'
@@ -230,7 +263,7 @@ ev = RankerEvaluator()
 #Get instances and name from dataset:
 trainmap, name, totalsize = mountInstances(datapath, mode)
 testinsts = mountTestInstances(candfile)
-goldinsts = mountGoldInstances(
+goldinsts = mountGoldInstances('../../../../corpora/datasets/adjusted_selected_instances_tok.txt')
 
 #Produce global steps:
 rawcounts = []
@@ -244,26 +277,21 @@ for j in range(1, step, step/5)+range(step, globalpivot+1, step):
 #Setup control variables:
 all_results = []
 for i in range(0, ntrains):
-	print i
 	results = []
 	for stepprop in allsteps:
 		preds = []
 		golds = []
 		for group in trainmap:
-			print '\t', group
 			train = trainmap[group]
-			random.shuffle(train)
 			test = testinsts
 			j = max(1, int(stepprop*float(len(train))))
 			used_train = train[:j]
 			text_train = toText(used_train)
 			ranker = OnlineRegressionRanker(fe)
-			print 'training...'
 			ranker.trainRegressionModel(text_train)
-			print 'ranking...'
 			ranks = ranker.getRankings(test)
 			preds.extend(ranks)
-			golds.extend(test)
+			golds.extend(goldinsts)
 		acc = ev.evaluateReplacementAccuracy(golds, preds)
 		results.append(acc)
 	all_results.append(results)
