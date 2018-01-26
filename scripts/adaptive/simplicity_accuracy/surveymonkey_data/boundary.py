@@ -336,7 +336,7 @@ for i in range(0, ntrains):
 			text_train = toText(used_train)
 			ranker = BoundaryRanker(fe)
 #			ranker.trainRanker(text_train, 1, 'hinge', 'elasticnet', 0.001, 0.0, 0.001)
-			ranker.trainRankerWithCrossValidation(text_train, 1, 5, 0.5)
+			ranker.trainRankerWithCrossValidation(text_train, 1, 2, 0.5)
 			ranks = ranker.getRankings(test)
 			preds.extend(ranks)
 			golds.extend(test)

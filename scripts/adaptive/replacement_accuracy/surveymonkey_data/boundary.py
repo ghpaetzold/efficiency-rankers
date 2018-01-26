@@ -98,9 +98,7 @@ class BoundaryRanker:
                 data = [d.split('\t') for d in training_data_text.split('\n')]
 
                 #Create matrixes:
-		print 'feat train...'
                 X = self.fe.calculateFeatures(training_data_text, input='text')
-		print 'stop'
                 Y = self.generateLabels(data, positive_range)
 
                 #Train classifier:
@@ -218,9 +216,7 @@ class BoundaryRanker:
                 textdata = textdata.strip()
 		
 		#Create matrixes:
-		print 'feat test...'
 		X = self.fe.calculateFeatures(textdata, input='text')
-		print 'done'
 		
 		#Get boundary distances:
 		distances = self.classifier.decision_function(X)

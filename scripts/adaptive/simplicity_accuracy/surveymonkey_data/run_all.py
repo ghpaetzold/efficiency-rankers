@@ -2,8 +2,8 @@ import os
 
 scripts = ['boundary.py']
 #scripts = ['ridge.py']
-modes = ['normal', 'individual', 'group-age', 'group-lang']
-#modes = ['group-langg', 'group-langgg', 'group-edu', 'group-prof']
+#modes = ['normal', 'individual', 'group-age', 'group-lang']
+modes = ['group-langg', 'group-langgg', 'group-edu', 'group-prof']
 
 #modes = ['normal']
 
