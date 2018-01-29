@@ -50,18 +50,18 @@ names = {}
 names['benchls'] = 'BenchLS'
 names['semeval'] = 'SemEval'
 names['boundary'] = 'Boundary'
-names['ridge'] = 'Neural'
-names['mlp'] = 'Neural'
-names['normal'] = 'All'
-names['individual'] = 'Individual'
+names['ridge'] = 'Regression'
+names['mlp'] = 'Regression'
+names['normal'] = 'Baseline'
+names['individual'] = 'ID'
 names['group-age'] = 'Age'
 names['group-edu'] = 'Education'
-names['group-lang'] = 'Language-1'
-names['group-langg'] = 'Language-2'
-names['group-langgg'] = 'Language-3'
+names['group-lang'] = 'Native Language'
+names['group-langg'] = 'Language Group'
+names['group-langgg'] = 'Language Family'
 names['group-prof'] = 'Proficiency'
 
-performancesf = '../../../corpora/adaptive/surveymonkey/'
+performancesf = '../../../corpora/adaptive/simplicity_accuracy/surveymonkey/'
 map = produceMap(performancesf)
 baselinesf = '../../../corpora/baselines'
 #base = getBaselineMap(baselinesf)
@@ -70,25 +70,30 @@ baselinesf = '../../../corpora/baselines'
 allgroups = ['normal','individual','group-age','group-edu', 'group-lang', 'group-langg', 'group-langgg', 'group-prof']
 
 #Create figure
-fig, axes = plt.subplots(len(map['boundary']), len(map),figsize=(10,20))
+fig, axes = plt.subplots(len(map['ridge']), len(map),figsize=(14,20))
 for i, group in enumerate(allgroups):
 	yvalues = []
 	for j, ranker in enumerate(['boundary','ridge']):
-		colors = list('bgrcmykbgrcmyk')
+	#for j, ranker in enumerate(['ridge']):
+		colors = [(c, c, c) for c in [v/100.0 for v in range(10, 70, 5)]]
 		#fig.suptitle('Comparison between Boundary and Neural rankers')
-		for prop in ['0.2', '0.4', '0.6', '0.8']:
+#		for prop in ['0.2', '0.4', '0.6', '0.8']:
+		for prop in map[ranker][group]:
 			seq = map[ranker][group][prop]
 			x = [value[0] for value in seq]
 			y = [value[1] for value in seq]
 			yvalues.extend(y)
-			axes[i][j].plot(x, y, colors.pop()+'-')
-			axes[i][j].title.set_text(names[ranker]+'-'+names[group])
+			axes[i][j].plot(x, y, color=colors.pop())
+			axes[i][j].title.set_text(names[ranker]+' - '+names[group])
 	miny = ((((numpy.min(yvalues)*100.0)//5.0)-1)*5)/100.0
 	maxy = ((((numpy.max(yvalues)*100.0)//5.0)+1)*5)/100.0
 	for j, ranker in enumerate(map.keys()):
-		axes[i][j].set_ylim([miny,maxy])
-		axes[i][j].set_yticks([miny,maxy])
-		axes[i][j].set_yticks([0.25,0.85])
+		#axes[i][j].set_ylim([miny,maxy])
+		axes[i][j].set_ylim([0.4,0.8])
+		#axes[i][j].set_yticks([miny,maxy])
+		#axes[i][j].set_yticks([0.25,0.35, 0.45, 0.55, 0.65, 0.75, 0.85])
+		axes[i][j].set_yticks([0.4, 0.5, 0.6, 0.7, 0.8])
+		axes[i][j].grid(linestyle='-.')
 			#a, b = numpy.polyfit(numpy.log(x), y, 1)
 			#plt.plot(x, a*numpy.log(x)+b, 'g-')
 			#plt.axis([0, 6, 0, 20])
@@ -98,8 +103,8 @@ for i, group in enumerate(allgroups):
 			# plt.plot(x, y, color='k')
 			#plt.axhline(y=base[dataset][ranker], color='b')
 #plt.tight_layout()
-plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
+plt.tight_layout(pad=0.4, w_pad=0.8, h_pad=1.0)
 #plt.savefig('customized_results.png', dpi=150)
-plt.savefig('customized_results.png', dpi=300, bbox_inches='tight')
+plt.savefig('customized_results_new.png', dpi=300, bbox_inches='tight')
 plt.show()
 plt.close()
