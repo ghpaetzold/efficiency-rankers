@@ -56,7 +56,7 @@ for i, group in enumerate(allgroups):
 			axes[i][j].title.set_text(names[ranker]+' - '+names[group])
 			axes[i][j].set_xlim([0.45,0.75])
 			axes[i][j].set_xticks([0.45, 0.55, 0.65, 0.75])
-			
+			axes[i][j].grid(linestyle='-.')
 plt.setp(axes, yticks=[1, 2], yticklabels=['R', 'N'])
 		
 #plt.tight_layout()

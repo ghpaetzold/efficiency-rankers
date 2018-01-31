@@ -1,0 +1,5 @@
+1 - test supervised pairwise regression using profile as features
+2 - if not compromise performance, claim there is not enough data to test, use as is
+3 - use approved simplifications as gold, produce new ones if all golds are rejected by user (wrong context, etc)
+4 - all non-gold disapproved simplifications for a word are discarded from candidate generation
+5 - for new user
