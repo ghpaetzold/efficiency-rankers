@@ -1,0 +1,4 @@
+Postgraduate	0
+Primary/Elementary School	1
+Secondary/High School	2
+Undergraduate	3

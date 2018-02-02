@@ -1,0 +1,10 @@
+Afro-Asiatic	0
+Altaic	1
+Austroasiatic	2
+Caucasian	3
+Dravidian	4
+Indo-European	5
+Malayo-Polinesian	6
+Niger-Congo	7
+Sino-Tibetan	8
+Uralic	9
