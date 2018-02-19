@@ -1,0 +1,1596 @@
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+python: can't open file 'ridge.py': [Errno 2] No such file or directory
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Iteration:  0
+	Step:  3.09808538323e-05
+Iteration:  0
+	Step:  2.40963855422e-05
+Iteration:  0
+	Step:  0.000216872695728
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+Iteration:  0
+	Step:  4.33726578765e-05
+Iteration:  0
+	Step:  2.40963855422e-05
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+Iteration:  0
+	Step:  7.22908985759e-05
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+	 Performance:  0 2.40963855422e-05 0.554500870115 0.537056699936
+	Step:  0.0241204819277
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Using Theano backend.
+Iteration:  0
+	Step:  0.000216872695728
+Iteration:  0
+	Step:  3.09808538323e-05
+Iteration:  0
+	Step:  2.40963855422e-05
+Iteration:  0
+	Step:  4.33726578765e-05
+Iteration:  0
+	Step:  4.33726578765e-05
+Iteration:  0
+	Step:  3.09808538323e-05
+Iteration:  0
+	Step:  0.000216872695728
+Iteration:  0
+	Step:  4.33726578765e-05
+Iteration:  0
+	Step:  7.22908985759e-05
+Iteration:  0
+	Step:  0.000216872695728
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+Iteration:  0
+	Step:  2.40963855422e-05
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+Iteration:  0
+	Step:  7.22908985759e-05
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+Iteration:  0
+	Step:  2.40963855422e-05
+Iteration:  0
+	Step:  3.09808538323e-05
+Iteration:  0
+	Step:  7.22908985759e-05
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+hybridwithfeat.py:176: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=[sigmoid.0..., inputs=[/input])`
+  self.model = Model(input=[input], output=[ss_out, sr_out])
+	 Performance:  0 2.40963855422e-05 0.867505141592 0.936934997848
+	Step:  0.0241204819277
+	 Performance:  0 2.40963855422e-05 0.814981806676 1.0
+	Step:  0.0241204819277
+	 Performance:  0 3.09808538323e-05 0.329343527551 0.940762250454
+	Step:  0.0310118346862
+	 Performance:  0 4.33726578765e-05 0.863235154545 0.0823273990447
+	Step:  0.0434160305344
+	 Performance:  0 2.40963855422e-05 0.362284448663 1.0
+	Step:  0.0241204819277
+	 Performance:  0 3.09808538323e-05 0.364355391511 0.0108538350217
+	Step:  0.0310118346862
+	 Performance:  0 4.33726578765e-05 0.36543389541 0.670201714137
+	Step:  0.0434160305344
+	 Performance:  0 0.0241204819277 0.857854769815 0.356185121107
+	Step:  0.0482168674699
+	 Performance:  0 7.22908985759e-05 0.865240774637 0.217593453599
+	Step:  0.0723631894744
+	 Performance:  0 0.000216872695728 0.363973495966 0.0
+	Step:  0.217089568423
+	 Performance:  0 3.09808538323e-05 0.864091747957 1.0
+	Step:  0.0310118346862
+	 Performance:  0 7.22908985759e-05 0.364449867806 0.781591021825
+	Step:  0.0723631894744
+	 Performance:  0 0.0310118346862 0.70978117585 0.841451905626
+	Step:  0.0619926885185
+	 Performance:  0 0.000216872695728 0.365054396541 1.0
+	Step:  0.217089568423
+	 Performance:  0 0.0241204819277 0.773928175922 0.916917778734
+	Step:  0.0482168674699
+	 Performance:  0 0.0434160305344 0.669967414344 0.908727746418
+	Step:  0.0867886884108
+	 Performance:  0 4.33726578765e-05 0.362808060995 1.0
+	Step:  0.0434160305344
+	 Performance:  0 0.0310118346862 0.823095175323 0.320767004342
+	Step:  0.0619926885185
+	 Performance:  0 0.0723631894744 0.83049736741 0.128913272581
+	Step:  0.14465408805
+	 Performance:  0 0.0434160305344 0.618399822835 0.775473984936
+	Step:  0.0867886884108
+	 Performance:  0 7.22908985759e-05 0.863964025038 1.0
+	Step:  0.0723631894744
+	 Performance:  0 0.217089568423 0.605453714607 0.320923270076
+	Step:  0.433962264151
+	 Performance:  0 0.0482168674699 0.739993671887 0.738321799308
+	Step:  0.072313253012
+	 Performance:  0 0.000216872695728 0.864773186635 1.0
+	Step:  0.217089568423
+	 Performance:  0 0.0619926885185 0.748774057474 0.54112522686
+	Step:  0.0929735423508
+	 Performance:  0 0.0723631894744 0.706799539014 0.926401289683
+	Step:  0.14465408805
+	 Performance:  0 0.0619926885185 0.504534669127 0.930680173661
+	Step:  0.0929735423508
+	 Performance:  0 0.0241204819277 0.85049833887 0.0373362445415
+	Step:  0.0482168674699
+	 Performance:  0 0.0867886884108 0.600208801291 0.799609205384
+	Step:  0.130161346287
+	 Performance:  0 0.0482168674699 0.748853029584 0.337064141197
+	Step:  0.072313253012
+	 Performance:  0 0.217089568423 0.686951860379 0.935124334994
+	Step:  0.433962264151
+	 Performance:  0 0.072313253012 0.736671412751 0.673875432526
+	Step:  0.0964096385542
+	 Performance:  0 0.0434160305344 0.797984751178 0.0791768399023
+	Step:  0.0867886884108
+	 Performance:  0 0.14465408805 0.736899193275 0.407197321927
+	Step:  0.216944986626
+	 Performance:  0 0.0310118346862 0.762773530187 0.967125271542
+	Step:  0.0619926885185
+	 Performance:  0 0.433962264151 0.756964339069 0.642256989715
+	Step:  0.650834959879
+	 Performance:  0 0.0929735423508 0.63535460058 0.779818511797
+	Step:  0.123954396183
+	 Performance:  0 0.14465408805 0.611630849886 0.912543402778
+	Step:  0.216944986626
+	 Performance:  0 0.0964096385542 0.759689922481 0.476211072664
+	Step:  0.120481927711
+	 Performance:  0 0.0867886884108 0.747081527413 0.568565492165
+	Step:  0.130161346287
+	 Performance:  0 0.0929735423508 0.68650145004 0.564109985528
+	Step:  0.123954396183
+	 Performance:  0 0.072313253012 0.747587407056 0.620749031425
+	Step:  0.0964096385542
+	 Performance:  0 0.130161346287 0.782609383403 0.723708206687
+	Step:  0.173534004164
+	 Performance:  0 0.216944986626 0.733227125845 0.872419564813
+	Step:  0.289235885202
+	 Performance:  0 0.650834959879 0.739722656731 0.799869621904
+	Step:  0.867707655606
+	 Performance:  0 0.433962264151 0.737472977486 0.898028453817
+	Step:  0.650834959879
+	 Performance:  0 0.217089568423 0.704773538148 0.885205618059
+	Step:  0.433962264151
+	 Performance:  0 0.123954396183 0.716873187451 0.958983666062
+	Step:  0.154904269162
+	 Performance:  0 0.120481927711 0.741892105679 0.83758650519
+	Step:  0.240963855422
+	 Performance:  0 0.0482168674699 0.531877867426 0.0829694323144
+	Step:  0.072313253012
+	 Performance:  0 0.0723631894744 0.772094547262 0.0631422096669
+	Step:  0.14465408805
+	 Performance:  0 0.123954396183 0.731584497759 0.929377713459
+	Step:  0.154904269162
+	 Performance:  0 0.289235885202 0.733543488577 0.799485462774
+	Step:  0.361454492879
+	 Performance:  0 0.173534004164 0.732307254263 0.881980026053
+	Step:  0.216863289382
+	 Performance:  0 0.0964096385542 0.757079576016 0.364184244511
+	Step:  0.120481927711
+	 Performance:  0 0.154904269162 0.740864750857 0.830635208711
+	Step:  0.309808538323
+	 Performance:  0 0.867707655606 0.731383025467 0.848519967164
+Iteration:  1
+	Step:  0.000216872695728
+	 Performance:  0 0.130161346287 0.736720554273 0.884339018267
+	Step:  0.173534004164
+	 Performance:  0 0.216944986626 0.734967120873 0.787760416667
+	Step:  0.289235885202
+	 Performance:  0 0.240963855422 0.739835469071 0.897491349481
+	Step:  0.361445783133
+	 Performance:  1 0.000216872695728 0.756384343639 0.926481240041
+	Step:  0.217089568423
+	 Performance:  0 0.0867886884108 0.796782561929 0.875828392047
+	Step:  0.130161346287
+	 Performance:  0 0.650834959879 0.636149533367 0.733395922101
+	Step:  0.867707655606
+	 Performance:  0 0.0619926885185 0.537121012391 0.890224475018
+	Step:  0.0929735423508
+	 Performance:  0 0.433962264151 0.803820939593 0.882651954998
+	Step:  0.650834959879
+	 Performance:  0 0.216863289382 0.73161124996 0.752974381242
+	Step:  0.433726578765
+	 Performance:  0 0.309808538323 0.731215396784 0.670490018149
+	Step:  0.464712807485
+	 Performance:  0 0.361454492879 0.731984272253 0.584216725559
+	Step:  0.722908985759
+	 Performance:  1 0.217089568423 0.76378367928 0.5763919069
+	Step:  0.433962264151
+	 Performance:  0 0.173534004164 0.703597076782 0.908709202666
+	Step:  0.216863289382
+	 Performance:  0 0.120481927711 0.737699731055 0.880111924236
+	Step:  0.240963855422
+	 Performance:  0 0.154904269162 0.758871605589 0.551881331404
+	Step:  0.309808538323
+	 Performance:  1 0.433962264151 0.758853718122 0.698416147569
+	Step:  0.650834959879
+	 Performance:  0 0.289235885202 0.738526201613 0.817088293651
+	Step:  0.361454492879
+	 Performance:  0 0.072313253012 0.772029742129 0.603930131004
+	Step:  0.0964096385542
+	 Performance:  0 0.433726578765 0.746986617735 0.808510638298
+	Step:  0.650589868147
+	 Performance:  0 0.867707655606 0.758335237359 0.756433403144
+Iteration:  1
+	Step:  0.000216872695728
+	 Performance:  0 0.14465408805 0.736142182451 0.836991276814
+	Step:  0.216944986626
+	 Performance:  0 0.361445783133 0.699098243949 0.70544982699
+	Step:  0.481927710843
+	 Performance:  1 0.650834959879 0.735223298241 0.572335699454
+	Step:  0.867707655606
+	 Performance:  0 0.0929735423508 0.749802267335 0.905937726285
+	Step:  0.123954396183
+	 Performance:  1 0.000216872695728 0.365054396541 1.0
+	Step:  0.217089568423
+	 Performance:  1 0.867707655606 0.644515528059 0.427229706891
+Iteration:  2
+	Step:  0.000216872695728
+	 Performance:  1 0.217089568423 0.775207831696 0.2552658819
+	Step:  0.433962264151
+	 Performance:  0 0.216863289382 0.738270745674 0.736949181889
+	Step:  0.433726578765
+	 Performance:  0 0.130161346287 0.74241513493 0.820413324032
+	Step:  0.173534004164
+	 Performance:  2 0.000216872695728 0.808496054274 0.480443285528
+	Step:  0.217089568423
+	 Performance:  0 0.722908985759 0.731747000203 0.785785134214
+Iteration:  1
+	Step:  7.22908985759e-05
+	 Performance:  0 0.361454492879 0.712008225431 0.746031746032
+	Step:  0.722908985759
+	 Performance:  0 0.464712807485 0.729448984972 0.755862068966
+	Step:  0.619617076647
+	 Performance:  0 0.309808538323 0.628895333509 0.642402315485
+	Step:  0.464712807485
+	 Performance:  1 0.433962264151 0.823971386892 0.850364699935
+	Step:  0.650834959879
+	 Performance:  1 7.22908985759e-05 0.86451765982 1.0
+	Step:  0.0723631894744
+	 Performance:  2 0.217089568423 0.687813065715 0.257376020088
+	Step:  0.433962264151
+	 Performance:  1 0.0723631894744 0.644125821978 0.796447833364
+	Step:  0.14465408805
+	 Performance:  0 0.650589868147 0.730219241355 0.754841511073
+	Step:  0.867453157529
+	 Performance:  2 0.433962264151 0.734203912333 0.747766671495
+	Step:  0.650834959879
+	 Performance:  0 0.650834959879 0.774944197409 0.438844587921
+	Step:  0.867707655606
+	 Performance:  1 0.14465408805 0.739102433733 0.813557745955
+	Step:  0.216944986626
+	 Performance:  1 0.650834959879 0.783187162768 0.891480705809
+	Step:  0.867707655606
+	 Performance:  0 0.240963855422 0.732083531087 0.872148084374
+	Step:  0.361445783133
+	 Performance:  2 0.650834959879 0.738140851011 0.795209812159
+	Step:  0.867707655606
+	 Performance:  0 0.216944986626 0.675084175084 0.757985906311
+	Step:  0.289235885202
+	 Performance:  1 0.216944986626 0.776862585587 0.529074452917
+	Step:  0.289235885202
+	 Performance:  0 0.0964096385542 0.769735801297 0.163100436681
+	Step:  0.120481927711
+	 Performance:  1 0.289235885202 0.738616590966 0.891048292108
+	Step:  0.361454492879
+	 Performance:  0 0.619617076647 0.747666754548 0.727622504537
+	Step:  0.774521345808
+	 Performance:  2 0.867707655606 0.657626939909 0.202327490463
+Iteration:  3
+	Step:  0.000216872695728
+	 Performance:  0 0.173534004164 0.762662532823 0.929499476805
+	Step:  0.216863289382
+	 Performance:  0 0.481927710843 0.734219269103 0.691392733564
+	Step:  0.602409638554
+	 Performance:  0 0.123954396183 0.753915106776 0.878276611151
+	Step:  0.154904269162
+	 Performance:  3 0.000216872695728 0.363973495966 0.878603505722
+	Step:  0.217089568423
+	 Performance:  1 0.867707655606 0.580997240628 0.185262752461
+Iteration:  2
+	Step:  0.000216872695728
+	 Performance:  0 0.867453157529 0.731279066089 0.785757707338
+Iteration:  1
+	Step:  4.33726578765e-05
+	 Performance:  1 0.361454492879 0.73419881138 0.839532577026
+	Step:  0.722908985759
+	 Performance:  1 4.33726578765e-05 0.864294979278 0.098653929657
+	Step:  0.0434160305344
+	 Performance:  3 0.217089568423 0.685000966659 0.915881983679
+	Step:  0.433962264151
+	 Performance:  2 0.000216872695728 0.365054396541 1.0
+	Step:  0.217089568423
+	 Performance:  0 0.722908985759 0.732786477753 0.804780505952
+Iteration:  1
+	Step:  7.22908985759e-05
+	 Performance:  1 0.0434160305344 0.62100983897 0.310247503257
+	Step:  0.0867886884108
+	 Performance:  0 0.433726578765 0.734221266095 0.728594926846
+	Step:  0.650589868147
+	 Performance:  1 7.22908985759e-05 0.364449867806 1.0
+	Step:  0.0723631894744
+	 Performance:  3 0.433962264151 0.735996625481 0.574243082718
+	Step:  0.650834959879
+	 Performance:  1 0.0867886884108 0.68448859502 0.775293095962
+	Step:  0.130161346287
+	 Performance:  2 0.217089568423 0.679534949119 0.920151175947
+	Step:  0.433962264151
+	 Performance:  1 0.0723631894744 0.749350326532 0.800068204365
+	Step:  0.14465408805
+	 Performance:  3 0.650834959879 0.719044940858 0.804456999372
+	Step:  0.867707655606
+	 Performance:  1 0.130161346287 0.735376000506 0.775336517586
+	Step:  0.173534004164
+	 Performance:  0 0.154904269162 0.632296335355 0.758508327299
+	Step:  0.309808538323
+	 Performance:  0 0.289235885202 0.792059295415 0.684599385341
+	Step:  0.361454492879
+	 Performance:  2 0.433962264151 0.754380723061 0.493440215691
+	Step:  0.650834959879
+	 Performance:  0 0.867707655606 0.784531697629 0.0655279577923
+Iteration:  1
+	Step:  0.000216872695728
+	 Performance:  3 0.867707655606 0.736163593863 0.736853541938
+Iteration:  4
+	Step:  0.000216872695728
+	 Performance:  1 0.14465408805 0.784941133934 0.866753472222
+	Step:  0.216944986626
+	 Performance:  1 0.173534004164 0.755876490873 0.503994789405
+	Step:  0.216863289382
+	 Performance:  0 0.774521345808 0.642130239916 0.888929219601
+	Step:  0.92942561497
+	 Performance:  1 0.722908985759 0.734006734007 0.711208232596
+Iteration:  2
+	Step:  7.22908985759e-05
+	 Performance:  4 0.000216872695728 0.310279979612 0.038678835289
+	Step:  0.217089568423
+	 Performance:  0 0.464712807485 0.727181650409 0.758827785818
+	Step:  0.619617076647
+	 Performance:  2 7.22908985759e-05 0.801504982713 0.441107184923
+	Step:  0.0723631894744
+	 Performance:  2 0.0723631894744 0.769676632093 0.831039613167
+	Step:  0.14465408805
+	 Performance:  4 0.217089568423 0.795041917852 0.798807281858
+	Step:  0.433962264151
+	 Performance:  1 0.000216872695728 0.864773186635 1.0
+	Step:  0.217089568423
+	 Performance:  0 0.602409638554 0.734535674735 0.677119377163
+	Step:  0.722891566265
+	 Performance:  1 0.216863289382 0.751732101617 0.431437255753
+	Step:  0.433726578765
+	 Performance:  2 0.650834959879 0.552946552542 0.911172095039
+	Step:  0.867707655606
+	 Performance:  1 0.216944986626 0.742876189185 0.566809275794
+	Step:  0.289235885202
+	 Performance:  4 0.433962264151 0.721329771341 0.778212371433
+	Step:  0.650834959879
+	 Performance:  0 0.361445783133 0.738569846543 0.695006457167
+	Step:  0.481927710843
+	 Performance:  2 0.14465408805 0.774320385059 0.54754819912
+	Step:  0.216944986626
+	 Performance:  0 0.120481927711 0.750751463376 0.607860262009
+	Step:  0.240963855422
+	 Performance:  4 0.650834959879 0.679095558641 0.772538509827
+	Step:  0.867707655606
+	 Performance:  2 0.216944986626 0.731588818837 0.79895852706
+	Step:  0.289235885202
+	 Performance:  0 0.650589868147 0.736182732766 0.735217730067
+	Step:  0.867453157529
+	 Performance:  2 0.867707655606 0.736154806053 0.799065983005
+Iteration:  3
+	Step:  0.000216872695728
+	 Performance:  1 0.433726578765 0.731864342434 0.657012592271
+	Step:  0.650589868147
+	 Performance:  1 0.217089568423 0.761964602703 0.0436531836469
+	Step:  0.433962264151
+	 Performance:  1 0.289235885202 0.740819831424 0.716455853175
+	Step:  0.361454492879
+	 Performance:  3 0.000216872695728 0.365054396541 1.0
+	Step:  0.217089568423
+	 Performance:  2 0.289235885202 0.732786477753 0.838819664001
+	Step:  0.361454492879
+	 Performance:  4 0.867707655606 0.736093291386 0.682770775991
+5 5
+	 Performance:  2 0.361454492879 0.737893476149 0.640691835596
+	Step:  0.722908985759
+	 Performance:  3 0.217089568423 0.769829692251 0.851544257481
+	Step:  0.433962264151
+	 Performance:  1 0.361454492879 0.638758954195 0.956039186508
+	Step:  0.722908985759
+	 Performance:  3 0.433962264151 0.768722428248 0.356443032185
+	Step:  0.650834959879
+	 Performance:  0 0.619617076647 0.734484576852 0.503256150507
+	Step:  0.774521345808
+	 Performance:  0 0.92942561497 0.729317163195 0.720362976407
+Iteration:  1
+	Step:  3.09808538323e-05
+	 Performance:  1 3.09808538323e-05 0.363168995518 0.18497277677
+	Step:  0.0310118346862
+	 Performance:  1 0.0310118346862 0.649986817822 0.660181488203
+	Step:  0.0619926885185
+	 Performance:  2 0.722908985759 0.732447517682 0.764521728349
+Iteration:  3
+	Step:  7.22908985759e-05
+	 Performance:  0 0.216863289382 0.735043816635 0.290198814091
+	Step:  0.433726578765
+	 Performance:  3 7.22908985759e-05 0.864348179784 0.836835906019
+	Step:  0.0723631894744
+	 Performance:  3 0.650834959879 0.755619804208 0.65761536795
+	Step:  0.867707655606
+	 Performance:  1 0.650589868147 0.731421430605 0.803647416413
+	Step:  0.867453157529
+	 Performance:  1 0.0619926885185 0.721935143686 0.449945553539
+	Step:  0.0929735423508
+	 Performance:  3 0.0723631894744 0.747621630172 0.73770999938
+	Step:  0.14465408805
+	 Performance:  0 0.361454492879 0.805030167446 0.286995933319
+	Step:  0.722908985759
+	 Performance:  1 0.433962264151 0.808399388368 0.300657688694
+	Step:  0.650834959879
+	 Performance:  3 0.14465408805 0.694947235216 0.488283429422
+	Step:  0.216944986626
+	 Performance:  0 0.722891566265 0.735880398671 0.609429065744
+	Step:  0.843373493976
+	 Performance:  3 0.867707655606 0.731620296325 0.955032377651
+Iteration:  4
+	Step:  0.000216872695728
+	 Performance:  1 0.0929735423508 0.732955444239 0.622431941924
+	Step:  0.123954396183
+	 Performance:  4 0.000216872695728 0.365054396541 0.741604679714
+	Step:  0.217089568423
+	 Performance:  3 0.216944986626 0.738356721578 0.485245800012
+	Step:  0.289235885202
+	 Performance:  0 0.309808538323 0.741022936989 0.559304851557
+	Step:  0.464712807485
+	 Performance:  1 0.722908985759 0.734865432852 0.363963293651
+Iteration:  2
+	Step:  7.22908985759e-05
+	 Performance:  1 0.123954396183 0.63197996309 0.518039927405
+	Step:  0.154904269162
+	 Performance:  2 7.22908985759e-05 0.364449867806 0.292503720238
+	Step:  0.0723631894744
+	 Performance:  3 0.289235885202 0.716629381059 0.815169549315
+	Step:  0.361454492879
+	 Performance:  4 0.217089568423 0.762834595849 0.955730483137
+	Step:  0.433962264151
+	 Performance:  2 0.0723631894744 0.746582152622 0.932136656746
+	Step:  0.14465408805
+	 Performance:  1 0.867453157529 0.732133253187 0.849978289188
+Iteration:  2
+	Step:  4.33726578765e-05
+	 Performance:  1 0.154904269162 0.746954916952 0.41277676951
+	Step:  0.309808538323
+	 Performance:  2 4.33726578765e-05 0.864642981429 0.188319583152
+	Step:  0.0434160305344
+	 Performance:  4 0.433962264151 0.797124628715 0.953443585855
+	Step:  0.650834959879
+	 Performance:  2 0.0434160305344 0.57589610554 0.686669561442
+	Step:  0.0867886884108
+	 Performance:  2 0.14465408805 0.72891103428 0.762059771825
+	Step:  0.216944986626
+	 Performance:  2 0.0867886884108 0.812964661963 0.904429005645
+	Step:  0.130161346287
+	 Performance:  1 0.650834959879 0.654516055328 0.550988942157
+	Step:  0.867707655606
+	 Performance:  3 0.361454492879 0.735611145007 0.845297873659
+	Step:  0.722908985759
+	 Performance:  2 0.130161346287 0.73044069727 0.78106817195
+	Step:  0.173534004164
+	 Performance:  0 0.240963855422 0.756051257712 0.784934497817
+	Step:  0.361445783133
+	 Performance:  2 0.216944986626 0.739294511107 0.36951264881
+	Step:  0.289235885202
+	 Performance:  0 0.774521345808 0.731716319536 0.616353111433
+	Step:  0.92942561497
+	 Performance:  1 0.309808538323 0.719746902188 0.452413793103
+	Step:  0.464712807485
+	 Performance:  0 0.867453157529 0.736356733842 0.724093152108
+Iteration:  1
+	Step:  4.33726578765e-05
+	 Performance:  2 0.173534004164 0.734316175773 0.761658706036
+	Step:  0.216863289382
+	 Performance:  4 0.650834959879 0.738536302441 0.653186009003
+	Step:  0.867707655606
+	 Performance:  1 4.33726578765e-05 0.36543389541 0.90585230716
+	Step:  0.0434160305344
+	 Performance:  2 0.216863289382 0.722294283274 0.88545375597
+	Step:  0.433726578765
+	 Performance:  1 0.0434160305344 0.700291056345 0.286165699939
+	Step:  0.0867886884108
+	 Performance:  3 0.722908985759 0.730843106682 0.850226272395
+Iteration:  4
+	Step:  7.22908985759e-05
+	 Performance:  2 0.289235885202 0.736402051838 0.604972718254
+	Step:  0.361454492879
+	 Performance:  4 7.22908985759e-05 0.863432987594 0.247442811977
+	Step:  0.0723631894744
+	 Performance:  0 0.843373493976 0.733349153615 0.743295847751
+	Step:  0.963855421687
+	 Performance:  4 0.0723631894744 0.758603936456 0.857944330792
+	Step:  0.14465408805
+	 Performance:  1 0.0867886884108 0.735550001582 0.794606527573
+	Step:  0.130161346287
+	 Performance:  0 0.433726578765 0.736926191907 0.837199162888
+	Step:  0.650589868147
+	 Performance:  2 0.433726578765 0.732639438135 0.696178897091
+	Step:  0.650589868147
+	 Performance:  4 0.14465408805 0.795392402775 0.794867026223
+	Step:  0.216944986626
+	 Performance:  4 0.867707655606 0.761314304796 0.379143496786
+5 5
+	 Performance:  2 0.361454492879 0.507389329537 0.866102430556
+	Step:  0.722908985759
+	 Performance:  0 0.481927710843 0.739598164847 0.503874300474
+	Step:  0.602409638554
+	 Performance:  1 0.867707655606 0.764890943283 0.194367486569
+Iteration:  2
+	Step:  0.000216872695728
+	 Performance:  4 0.216944986626 0.731283754774 0.542557807947
+	Step:  0.289235885202
+	 Performance:  1 0.464712807485 0.731610862114 0.698294010889
+	Step:  0.619617076647
+	 Performance:  0 0.722908985759 0.677761959641 0.133641697451
+Iteration:  1
+	Step:  7.22908985759e-05
+	 Performance:  2 0.000216872695728 0.864773186635 1.0
+	Step:  0.217089568423
+	 Performance:  1 0.130161346287 0.736325097282 0.586832308891
+	Step:  0.173534004164
+	 Performance:  1 7.22908985759e-05 0.863964025038 1.0
+	Step:  0.0723631894744
+	 Performance:  4 0.289235885202 0.731430637471 0.744281197694
+	Step:  0.361454492879
+	 Performance:  2 0.217089568423 0.815271455437 0.843407453805
+	Step:  0.433962264151
+	 Performance:  4 0.361454492879 0.693026461483 0.714431839316
+	Step:  0.722908985759
+	 Performance:  2 0.650589868147 0.730662153184 0.742943986105
+	Step:  0.867453157529
+	 Performance:  1 0.173534004164 0.734505995128 0.133365076617
+	Step:  0.216863289382
+	 Performance:  1 0.619617076647 0.726759820722 0.715208711434
+	Step:  0.774521345808
+	 Performance:  1 0.0723631894744 0.755700178519 0.354670474653
+	Step:  0.14465408805
+	 Performance:  2 0.722908985759 0.743260343931 0.594587053571
+Iteration:  3
+	Step:  7.22908985759e-05
+	 Performance:  4 0.722908985759 0.733543488577 0.531368173083
+7 7
+	 Performance:  3 7.22908985759e-05 0.364449867806 0.927269345238
+	Step:  0.0723631894744
+	 Performance:  2 0.433962264151 0.77728175475 0.920426895372
+	Step:  0.650834959879
+	 Performance:  0 0.963855421687 0.732716342351 0.715397923875
+Iteration:  1
+	Step:  2.40963855422e-05
+	 Performance:  1 2.40963855422e-05 0.634235089385 0.0583910034602
+	Step:  0.0241204819277
+	 Performance:  3 0.0723631894744 0.747576435496 0.66248139881
+	Step:  0.14465408805
+	 Performance:  1 0.0241204819277 0.731450719823 0.757352941176
+	Step:  0.0482168674699
+	 Performance:  1 0.216863289382 0.73762219621 0.848238247771
+	Step:  0.433726578765
+	 Performance:  2 0.867453157529 0.686181150938 0.40065132436
+Iteration:  3
+	Step:  4.33726578765e-05
+	 Performance:  1 0.0482168674699 0.737699731055 0.725778546713
+	Step:  0.072313253012
+	 Performance:  3 4.33726578765e-05 0.433420861147 0.408510638298
+	Step:  0.0434160305344
+	 Performance:  3 0.14465408805 0.761213928999 0.850787450397
+	Step:  0.216944986626
+	 Performance:  3 0.0434160305344 0.620946565851 0.641858445506
+	Step:  0.0867886884108
+	 Performance:  1 0.072313253012 0.736434108527 0.803849480969
+	Step:  0.0964096385542
+	 Performance:  1 0.14465408805 0.715296138115 0.931021637227
+	Step:  0.216944986626
+	 Performance:  0 0.92942561497 0.725863432639 0.722069464544
+Iteration:  1
+	Step:  3.09808538323e-05
+	 Performance:  1 0.0964096385542 0.638427464009 0.979455017301
+	Step:  0.120481927711
+	 Performance:  3 0.0867886884108 0.737116011263 0.707294832827
+	Step:  0.130161346287
+	 Performance:  1 3.09808538323e-05 0.364355391511 1.0
+	Step:  0.0310118346862
+	 Performance:  3 0.216944986626 0.724459358688 0.751178075397
+	Step:  0.289235885202
+	 Performance:  1 0.0310118346862 0.642710255734 0.868740955137
+	Step:  0.0619926885185
+	 Performance:  1 0.433726578765 0.718766806922 0.660678729114
+	Step:  0.650589868147
+	 Performance:  2 0.650834959879 0.571831555267 0.985159844853
+	Step:  0.867707655606
+	 Performance:  3 0.130161346287 0.726280489734 0.839947894051
+	Step:  0.173534004164
+	 Performance:  1 0.120481927711 0.673627590571 0.774005190311
+	Step:  0.240963855422
+	 Performance:  1 0.774521345808 0.729264434485 0.767404718693
+	Step:  0.92942561497
+	 Performance:  0 0.602409638554 0.743236829616 0.746663796814
+	Step:  0.722891566265
+	 Performance:  3 0.289235885202 0.718132104038 0.955419146825
+	Step:  0.361454492879
+	 Performance:  1 0.0619926885185 0.659767993673 0.8498552822
+	Step:  0.0929735423508
+	 Performance:  3 0.173534004164 0.654576228289 0.619062092922
+	Step:  0.216863289382
+	 Performance:  3 0.216863289382 0.753440475814 0.737038645245
+	Step:  0.433726578765
+	 Performance:  1 0.0929735423508 0.743395728974 0.562228654124
+	Step:  0.123954396183
+	 Performance:  1 0.240963855422 0.736513209935 0.918468858131
+	Step:  0.361445783133
+	 Performance:  3 0.361454492879 0.693568797596 0.441809275794
+	Step:  0.722908985759
+	 Performance:  3 0.433726578765 0.732750166092 0.505514546244
+	Step:  0.650589868147
+	 Performance:  1 0.92942561497 0.728104402847 0.774809437387
+Iteration:  2
+	Step:  3.09808538323e-05
+	 Performance:  1 0.216944986626 0.750107337356 0.185359947847
+	Step:  0.289235885202
+	 Performance:  2 3.09808538323e-05 0.363168995518 0.883049001815
+	Step:  0.0310118346862
+	 Performance:  2 0.0310118346862 0.759978908516 0.604210526316
+	Step:  0.0619926885185
+	 Performance:  1 0.123954396183 0.695280780385 0.787843704776
+	Step:  0.154904269162
+	 Performance:  2 0.0619926885185 0.738676509359 0.832522686025
+	Step:  0.0929735423508
+	 Performance:  1 0.650589868147 0.736657281154 0.617522292442
+	Step:  0.867453157529
+	 Performance:  2 0.0929735423508 0.72963353546 0.76834845735
+	Step:  0.123954396183
+	 Performance:  2 0.867707655606 0.71606587342 0.224047796863
+Iteration:  3
+	Step:  0.000216872695728
+	 Performance:  2 0.123954396183 0.734590034274 0.776624319419
+	Step:  0.154904269162
+	 Performance:  1 0.154904269162 0.737964671764 0.4999276411
+	Step:  0.309808538323
+	 Performance:  3 0.650589868147 0.73164288652 0.664090316978
+	Step:  0.867453157529
+	 Performance:  3 0.000216872695728 0.864773186635 1.0
+	Step:  0.217089568423
+	 Performance:  2 0.154904269162 0.732269970999 0.534736842105
+	Step:  0.309808538323
+	 Performance:  1 0.361445783133 0.733428255023 0.759299307958
+	Step:  0.481927710843
+	 Performance:  0 0.361445783133 0.721483942414 0.589956331878
+	Step:  0.481927710843
+	 Performance:  3 0.722908985759 0.734402187422 0.806454613095
+Iteration:  4
+	Step:  7.22908985759e-05
+	 Performance:  4 7.22908985759e-05 0.364449867806 1.0
+	Step:  0.0723631894744
+	 Performance:  3 0.217089568423 0.462159692075 0.467488978294
+	Step:  0.433962264151
+	 Performance:  4 0.0723631894744 0.80855535218 0.153614831349
+	Step:  0.14465408805
+	 Performance:  0 0.650589868147 0.712787497232 0.962896756191
+	Step:  0.867453157529
+	 Performance:  2 0.309808538323 0.730371737411 0.709618874773
+	Step:  0.464712807485
+	 Performance:  4 0.14465408805 0.714505231284 0.822854662698
+	Step:  0.216944986626
+	 Performance:  1 0.481927710843 0.735089384591 0.703935986159
+	Step:  0.602409638554
+	 Performance:  1 0.867453157529 0.756271947863 0.69210457969
+Iteration:  2
+	Step:  4.33726578765e-05
+	 Performance:  3 0.867453157529 0.730519788668 0.518367346939
+Iteration:  4
+	Step:  4.33726578765e-05
+	 Performance:  2 4.33726578765e-05 0.36543389541 0.855813349494
+	Step:  0.0434160305344
+	 Performance:  1 0.309808538323 0.734853677828 0.636613603473
+	Step:  0.464712807485
+	 Performance:  4 4.33726578765e-05 0.681056028346 0.625358228398
+	Step:  0.0434160305344
+	 Performance:  1 0.289235885202 0.67317470002 0.740229100053
+	Step:  0.361454492879
+	 Performance:  4 0.0434160305344 0.757047043564 0.269214068606
+	Step:  0.0867886884108
+	 Performance:  4 0.216944986626 0.734277902063 0.517020089286
+	Step:  0.289235885202
+	 Performance:  3 0.433962264151 0.667469286606 0.619407839264
+	Step:  0.650834959879
+	 Performance:  2 0.0434160305344 0.559571640988 0.659813003203
+	Step:  0.0867886884108
+	 Performance:  4 0.0867886884108 0.728305229523 0.826747720365
+	Step:  0.130161346287
+	 Performance:  2 0.464712807485 0.715897706301 0.80058076225
+	Step:  0.619617076647
+	 Performance:  2 0.0867886884108 0.743522414502 0.929789628604
+	Step:  0.130161346287
+	 Performance:  4 0.130161346287 0.726723401563 0.75853234911
+	Step:  0.173534004164
+	 Performance:  0 0.722891566265 0.736592311343 0.863538527766
+	Step:  0.843373493976
+	 Performance:  4 0.289235885202 0.743294239939 0.80130828373
+	Step:  0.361454492879
+	 Performance:  4 0.173534004164 0.735470910184 0.743899261832
+	Step:  0.216863289382
+	 Performance:  0 0.464712807485 0.732032691801 0.693845039826
+	Step:  0.619617076647
+	 Performance:  2 0.130161346287 0.700686513335 0.56120682192
+	Step:  0.173534004164
+	 Performance:  1 0.602409638554 0.734219269103 0.738105536332
+	Step:  0.722891566265
+	 Performance:  4 0.361454492879 0.716301719657 0.862475198413
+	Step:  0.722908985759
+	 Performance:  1 0.464712807485 0.733509095703 0.642040520984
+	Step:  0.619617076647
+	 Performance:  2 0.173534004164 0.739646935999 0.0986927538741
+	Step:  0.216863289382
+	 Performance:  2 0.619617076647 0.734247297654 0.696188747731
+	Step:  0.774521345808
+	 Performance:  3 0.650834959879 0.774944197409 0.615432797707
+	Step:  0.867707655606
+	 Performance:  4 0.216863289382 0.731310702648 0.919626574034
+	Step:  0.433726578765
+	 Performance:  2 0.216863289382 0.736862918789 0.766210717687
+	Step:  0.433726578765
+	 Performance:  1 0.361454492879 0.677422999571 0.89243473132
+	Step:  0.722908985759
+	 Performance:  4 0.433726578765 0.719747540258 0.785193226227
+	Step:  0.650589868147
+	 Performance:  3 0.867707655606 0.374220081902 0.508106675661
+Iteration:  4
+	Step:  0.000216872695728
+	 Performance:  4 0.722908985759 0.730334666576 0.861235119048
+7 7
+	 Performance:  4 0.000216872695728 0.864773186635 1.0
+	Step:  0.217089568423
+	 Performance:  1 0.722891566265 0.735089384591 0.75562283737
+	Step:  0.843373493976
+	 Performance:  2 0.433726578765 0.734094719858 0.532421435374
+	Step:  0.650589868147
+	 Performance:  2 0.774521345808 0.728737147377 0.781052631579
+	Step:  0.92942561497
+	 Performance:  4 0.217089568423 0.74443292265 0.914741381387
+	Step:  0.433962264151
+	 Performance:  4 0.650589868147 0.729776329526 0.743030829353
+	Step:  0.867453157529
+	 Performance:  0 0.843373493976 0.737066919791 0.616229014206
+	Step:  0.963855421687
+	 Performance:  2 0.650589868147 0.733746717707 0.836291230197
+	Step:  0.867453157529
+	 Performance:  2 0.92942561497 0.668890060638 0.748094373866
+Iteration:  3
+	Step:  3.09808538323e-05
+	 Performance:  3 3.09808538323e-05 0.456788821513 0.980471869328
+	Step:  0.0310118346862
+	 Performance:  1 0.843373493976 0.734061066287 0.514922145329
+	Step:  0.963855421687
+	 Performance:  1 0.619617076647 0.731610862114 0.591099855282
+	Step:  0.774521345808
+	 Performance:  3 0.0310118346862 0.70234642763 0.696842105263
+	Step:  0.0619926885185
+	 Performance:  4 0.433962264151 0.783714431341 0.442048712327
+	Step:  0.650834959879
+	 Performance:  3 0.0619926885185 0.727155286053 0.847041742287
+	Step:  0.0929735423508
+	 Performance:  4 0.867453157529 0.73363598975 0.763482414242
+9 9
+	 Performance:  3 0.0929735423508 0.731479040337 0.647041742287
+	Step:  0.123954396183
+	 Performance:  3 0.123954396183 0.732612707619 0.933284936479
+	Step:  0.154904269162
+	 Performance:  3 0.154904269162 0.736224624308 0.329509981851
+	Step:  0.309808538323
+	 Performance:  4 0.650834959879 0.669956236708 0.504878460093
+	Step:  0.867707655606
+	 Performance:  0 0.867453157529 0.724587933816 0.433597837461
+Iteration:  1
+	Step:  4.33726578765e-05
+	 Performance:  2 0.867453157529 0.725125755323 0.592719245087
+Iteration:  3
+	Step:  4.33726578765e-05
+	 Performance:  3 4.33726578765e-05 0.36543389541 1.0
+	Step:  0.0434160305344
+	 Performance:  1 0.722908985759 0.738514902944 0.555334802719
+Iteration:  2
+	Step:  7.22908985759e-05
+	 Performance:  1 0.963855421687 0.733586457839 0.764273356401
+Iteration:  2
+	Step:  2.40963855422e-05
+	 Performance:  1 4.33726578765e-05 0.362808060995 1.0
+	Step:  0.0434160305344
+	 Performance:  2 2.40963855422e-05 0.837921214998 0.69723183391
+	Step:  0.0241204819277
+	 Performance:  2 0.0241204819277 0.580604334757 0.566176470588
+	Step:  0.0482168674699
+	 Performance:  3 0.0434160305344 0.759957607011 0.732101116786
+	Step:  0.0867886884108
+	 Performance:  3 0.309808538323 0.721407856578 0.586424682396
+	Step:  0.464712807485
+	 Performance:  2 0.0482168674699 0.766413542161 0.719723183391
+	Step:  0.072313253012
+	 Performance:  2 7.22908985759e-05 0.863964025038 1.0
+	Step:  0.0723631894744
+	 Performance:  2 0.072313253012 0.731055212783 0.814230103806
+	Step:  0.0964096385542
+	 Performance:  1 0.0434160305344 0.415830934228 0.99245727241
+	Step:  0.0867886884108
+	 Performance:  3 0.0867886884108 0.76596855326 0.228378495368
+	Step:  0.130161346287
+	 Performance:  2 0.0964096385542 0.75019775352 0.228806228374
+	Step:  0.120481927711
+	 Performance:  0 0.481927710843 0.727653852239 0.622052401747
+	Step:  0.602409638554
+	 Performance:  1 0.774521345808 0.728051674137 0.791678726483
+	Step:  0.92942561497
+	 Performance:  2 0.0723631894744 0.481165118749 0.875671312824
+	Step:  0.14465408805
+	 Performance:  2 0.120481927711 0.735722195855 0.622188581315
+	Step:  0.240963855422
+	 Performance:  3 0.130161346287 0.734173811256 0.736126742273
+	Step:  0.173534004164
+	 Performance:  2 0.240963855422 0.738648947951 0.604887543253
+	Step:  0.361445783133
+	 Performance:  3 0.464712807485 0.7286053256 0.825408348457
+	Step:  0.619617076647
+	 Performance:  4 0.867707655606 0.762483083467 0.972584258835
+5 5
+	 Performance:  0 0.619617076647 0.732929079884 0.937943519189
+	Step:  0.774521345808
+	 Performance:  2 0.14465408805 0.773823243622 0.263309843852
+	Step:  0.216944986626
+	 Performance:  1 0.0867886884108 0.73162706824 0.878357167771
+	Step:  0.130161346287
+	 Performance:  0 0.963855421687 0.738174339503 0.827378390013
+Iteration:  1
+	Step:  2.40963855422e-05
+	 Performance:  1 2.40963855422e-05 0.867505141592 1.0
+	Step:  0.0241204819277
+	 Performance:  1 0.0241204819277 0.759294415441 0.339001291433
+	Step:  0.0482168674699
+	 Performance:  3 0.173534004164 0.742162042456 0.557267769024
+	Step:  0.216863289382
+	 Performance:  1 0.0482168674699 0.837921214998 0.917778734395
+	Step:  0.072313253012
+	 Performance:  2 0.361445783133 0.735484891631 0.606617647059
+	Step:  0.481927710843
+	 Performance:  3 0.619617076647 0.728631689955 0.648784029038
+	Step:  0.774521345808
+	 Performance:  1 0.130161346287 0.745278243538 0.425793512382
+	Step:  0.173534004164
+	 Performance:  1 0.072313253012 0.740626483151 0.775721050366
+	Step:  0.0964096385542
+	 Performance:  3 0.216863289382 0.781201556519 0.836464375379
+	Step:  0.433726578765
+	 Performance:  2 0.216944986626 0.610839943055 0.58861329277
+	Step:  0.289235885202
+	 Performance:  1 0.0964096385542 0.753678215472 0.566508824796
+	Step:  0.120481927711
+	 Performance:  3 0.433726578765 0.755053940333 0.864124318241
+	Step:  0.650589868147
+	 Performance:  1 0.173534004164 0.715603151001 0.850366236484
+	Step:  0.216863289382
+	 Performance:  3 0.774521345808 0.732480885842 0.525299455535
+	Step:  0.92942561497
+	 Performance:  1 0.120481927711 0.744186046512 0.967068445975
+	Step:  0.240963855422
+	 Performance:  2 0.289235885202 0.704596298556 0.217334616459
+	Step:  0.361454492879
+	 Performance:  2 0.481927710843 0.733111849391 0.783953287197
+	Step:  0.602409638554
+	 Performance:  1 0.92942561497 0.732296335355 0.942981186686
+Iteration:  2
+	Step:  3.09808538323e-05
+	 Performance:  2 3.09808538323e-05 0.364355391511 0.97988422576
+	Step:  0.0310118346862
+	 Performance:  2 0.0310118346862 0.719456894279 0.909044862518
+	Step:  0.0619926885185
+	 Performance:  3 0.650589868147 0.725932487583 0.598779326465
+	Step:  0.867453157529
+	 Performance:  2 0.0619926885185 0.755655154231 0.780318379161
+	Step:  0.0929735423508
+	 Performance:  1 0.240963855422 0.744502452144 0.596427034008
+	Step:  0.361445783133
+	 Performance:  3 0.92942561497 0.729870814659 0.6555353902
+Iteration:  4
+	Step:  3.09808538323e-05
+	 Performance:  4 3.09808538323e-05 0.338650145004 0.714700544465
+	Step:  0.0310118346862
+	 Performance:  2 0.602409638554 0.734456573327 0.684472318339
+	Step:  0.722891566265
+	 Performance:  4 0.0310118346862 0.526680727656 0.703593466425
+	Step:  0.0619926885185
+	 Performance:  2 0.0929735423508 0.747640390192 0.656946454414
+	Step:  0.123954396183
+	 Performance:  4 0.0619926885185 0.715449512259 0.774736842105
+	Step:  0.0929735423508
+	 Performance:  4 0.0929735423508 0.730582652254 0.914192377495
+	Step:  0.123954396183
+	 Performance:  4 0.123954396183 0.761587134195 0.616842105263
+	Step:  0.154904269162
+	 Performance:  1 0.216863289382 0.745009332785 0.548133937914
+	Step:  0.433726578765
+	 Performance:  2 0.123954396183 0.73432639072 0.841099855282
+	Step:  0.154904269162
+	 Performance:  4 0.154904269162 0.730635380965 0.848638838475
+	Step:  0.309808538323
+	 Performance:  2 0.154904269162 0.760137094648 0.522431259045
+	Step:  0.309808538323
+	 Performance:  2 0.361454492879 0.717239509186 0.422872753236
+	Step:  0.722908985759
+	 Performance:  3 0.867453157529 0.732164889747 0.732317548264
+Iteration:  4
+	Step:  4.33726578765e-05
+	 Performance:  2 0.722891566265 0.734535674735 0.705233564014
+	Step:  0.843373493976
+	 Performance:  4 0.309808538323 0.729738992882 0.539382940109
+	Step:  0.464712807485
+	 Performance:  4 4.33726578765e-05 0.36543389541 0.308414855857
+	Step:  0.0434160305344
+	 Performance:  4 0.0434160305344 0.64617672182 0.940697775084
+	Step:  0.0867886884108
+	 Performance:  4 0.0867886884108 0.802840963017 0.735650593022
+	Step:  0.130161346287
+	 Performance:  0 0.774521345808 0.743237542842 0.740622737147
+	Step:  0.92942561497
+	 Performance:  2 0.309808538323 0.735064592671 0.360781476122
+	Step:  0.464712807485
+	 Performance:  4 0.130161346287 0.739931665032 0.717946498139
+	Step:  0.173534004164
+	 Performance:  0 0.602409638554 0.723461477614 0.874454148472
+	Step:  0.722891566265
+	 Performance:  4 0.464712807485 0.730055365146 0.510490018149
+	Step:  0.619617076647
+	 Performance:  1 0.361445783133 0.738490745135 0.855574687904
+	Step:  0.481927710843
+	 Performance:  4 0.173534004164 0.734189629536 0.782183360748
+	Step:  0.216863289382
+	 Performance:  2 0.464712807485 0.730503559188 0.835600578871
+	Step:  0.619617076647
+	 Performance:  4 0.216863289382 0.747951532791 0.331443165094
+	Step:  0.433726578765
+	 Performance:  4 0.619617076647 0.732006327445 0.632813067151
+	Step:  0.774521345808
+	 Performance:  1 0.433726578765 0.733082349964 0.640739448901
+	Step:  0.650589868147
+	 Performance:  4 0.433726578765 0.745294061818 0.695957059995
+	Step:  0.650589868147
+	 Performance:  2 0.843373493976 0.733665559247 0.751297577855
+	Step:  0.963855421687
+	 Performance:  1 0.481927710843 0.729789590255 0.786913473956
+	Step:  0.602409638554
+	 Performance:  4 0.774521345808 0.728526232534 0.765735027223
+	Step:  0.92942561497
+	 Performance:  2 0.619617076647 0.730635380965 0.701302460203
+	Step:  0.774521345808
+	 Performance:  4 0.650589868147 0.721993735961 0.822829192278
+	Step:  0.867453157529
+	 Performance:  2 0.722908985759 0.715363930129 0.575916555428
+Iteration:  3
+	Step:  7.22908985759e-05
+	 Performance:  3 7.22908985759e-05 0.863964025038 1.0
+	Step:  0.0723631894744
+	 Performance:  3 0.0723631894744 0.752660836553 0.13596995002
+	Step:  0.14465408805
+	 Performance:  2 0.963855421687 0.735484891631 0.71669550173
+Iteration:  3
+	Step:  2.40963855422e-05
+	 Performance:  3 2.40963855422e-05 0.826688815061 1.0
+	Step:  0.0241204819277
+	 Performance:  3 0.0241204819277 0.766967252017 0.535250865052
+	Step:  0.0482168674699
+	 Performance:  3 0.0482168674699 0.74466065496 0.647707612457
+	Step:  0.072313253012
+	 Performance:  3 0.072313253012 0.733111849391 0.638408304498
+	Step:  0.0964096385542
+	 Performance:  3 0.0964096385542 0.735722195855 0.909385813149
+	Step:  0.120481927711
+	 Performance:  4 0.92942561497 0.728710783021 0.76275862069
+11 11
+	 Performance:  3 0.120481927711 0.739835469071 0.767733564014
+	Step:  0.240963855422
+	 Performance:  1 0.650589868147 0.727672498339 0.627092779909
+	Step:  0.867453157529
+	 Performance:  4 0.867453157529 0.734790724161 0.642065622024
+9 9
+	 Performance:  3 0.14465408805 0.754739791653 0.79977027908
+	Step:  0.216944986626
+	 Performance:  3 0.240963855422 0.738886252175 0.800821799308
+	Step:  0.361445783133
+	 Performance:  0 0.92942561497 0.738412865805 0.574004344678
+Iteration:  1
+	Step:  3.09808538323e-05
+	 Performance:  1 3.09808538323e-05 0.864091747957 1.0
+	Step:  0.0310118346862
+	 Performance:  3 0.216944986626 0.700449687027 0.777139664111
+	Step:  0.289235885202
+	 Performance:  1 0.602409638554 0.738728049359 0.793370641412
+	Step:  0.722891566265
+	 Performance:  1 0.0310118346862 0.50234642763 0.983562635771
+	Step:  0.0619926885185
+	 Performance:  3 0.361445783133 0.734852080367 0.725562283737
+	Step:  0.481927710843
+	 Performance:  2 0.774521345808 0.739915634063 0.733502170767
+	Step:  0.92942561497
+	 Performance:  1 0.0619926885185 0.679488531505 0.870166545981
+	Step:  0.0929735423508
+	 Performance:  3 0.481927710843 0.737225122607 0.602508650519
+	Step:  0.602409638554
+	 Performance:  0 0.722891566265 0.731371618415 0.82576419214
+	Step:  0.843373493976
+	 Performance:  3 0.289235885202 0.725250265519 0.8117219756
+	Step:  0.361454492879
+	 Performance:  3 0.602409638554 0.737066919791 0.651816608997
+	Step:  0.722891566265
+	 Performance:  1 0.0929735423508 0.735829158977 0.94207096307
+	Step:  0.123954396183
+	 Performance:  3 0.361454492879 0.790872935168 0.287678887406
+	Step:  0.722908985759
+	 Performance:  1 0.867453157529 0.63935904331 0.890783048483
+Iteration:  2
+	Step:  4.33726578765e-05
+	 Performance:  2 4.33726578765e-05 0.362808060995 1.0
+	Step:  0.0434160305344
+	 Performance:  2 0.92942561497 0.726100711838 0.739001447178
+Iteration:  3
+	Step:  3.09808538323e-05
+	 Performance:  3 0.722891566265 0.735326688815 0.75
+	Step:  0.843373493976
+	 Performance:  1 0.123954396183 0.80777748484 0.979652425778
+	Step:  0.154904269162
+	 Performance:  3 3.09808538323e-05 0.364355391511 1.0
+	Step:  0.0310118346862
+	 Performance:  1 0.722891566265 0.737541528239 0.737623762376
+	Step:  0.843373493976
+	 Performance:  3 0.0310118346862 0.728631689955 0.503111432706
+	Step:  0.0619926885185
+	 Performance:  2 0.0434160305344 0.749944636021 0.946110917335
+	Step:  0.0867886884108
+	 Performance:  3 0.0619926885185 0.742868441867 0.830390738061
+	Step:  0.0929735423508
+	 Performance:  3 0.0929735423508 0.703664645399 0.79515195369
+	Step:  0.123954396183
+	 Performance:  3 0.123954396183 0.729185341418 0.858900144718
+	Step:  0.154904269162
+	 Performance:  2 0.0867886884108 0.749738998387 0.507804325078
+	Step:  0.130161346287
+	 Performance:  1 0.154904269162 0.75554969681 0.0615496017379
+	Step:  0.309808538323
+	 Performance:  3 0.154904269162 0.666596361719 0.94015918958
+	Step:  0.309808538323
+	 Performance:  3 0.722908985759 0.73913632974 0.606245925558
+Iteration:  4
+	Step:  7.22908985759e-05
+	 Performance:  4 7.22908985759e-05 0.863964025038 1.0
+	Step:  0.0723631894744
+	 Performance:  2 0.130161346287 0.73722673922 0.940791768399
+	Step:  0.173534004164
+	 Performance:  4 0.0723631894744 0.628996904165 0.985254400397
+	Step:  0.14465408805
+	 Performance:  3 0.309808538323 0.730767202742 0.734153400868
+	Step:  0.464712807485
+	 Performance:  3 0.843373493976 0.665005537099 0.623269896194
+	Step:  0.963855421687
+	 Performance:  1 0.843373493976 0.736671412751 0.581145071029
+	Step:  0.963855421687
+	 Performance:  4 0.14465408805 0.679140397261 0.794399776488
+	Step:  0.216944986626
+	 Performance:  1 0.309808538323 0.741392037965 0.651991310644
+	Step:  0.464712807485
+	 Performance:  3 0.464712807485 0.733720010546 0.638205499276
+	Step:  0.619617076647
+	 Performance:  2 0.173534004164 0.732924167168 0.699555284269
+	Step:  0.216863289382
+	 Performance:  4 0.216944986626 0.679920005423 0.865892652035
+	Step:  0.289235885202
+	 Performance:  3 0.619617076647 0.731479040337 0.8501447178
+	Step:  0.774521345808
+	 Performance:  4 0.289235885202 0.803301471087 0.91106075187
+	Step:  0.361454492879
+	 Performance:  1 0.963855421687 0.739993671887 0.634739560913
+Iteration:  2
+	Step:  2.40963855422e-05
+	 Performance:  2 2.40963855422e-05 0.867505141592 1.0
+	Step:  0.0241204819277
+	 Performance:  2 0.0241204819277 0.803353899699 0.609987085665
+	Step:  0.0482168674699
+	 Performance:  3 0.963855421687 0.733744660655 0.747188581315
+Iteration:  4
+	Step:  2.40963855422e-05
+	 Performance:  4 2.40963855422e-05 0.684464483468 0.706098615917
+	Step:  0.0241204819277
+	 Performance:  2 0.216863289382 0.820146160904 0.0407656086502
+	Step:  0.433726578765
+	 Performance:  4 0.0241204819277 0.732320835311 0.918468858131
+	Step:  0.0482168674699
+	 Performance:  2 0.0482168674699 0.75731688024 0.732242789496
+	Step:  0.072313253012
+	 Performance:  4 0.0482168674699 0.745372567632 0.246972318339
+	Step:  0.072313253012
+	 Performance:  4 0.072313253012 0.741733902863 0.818771626298
+	Step:  0.0964096385542
+	 Performance:  4 0.0964096385542 0.748694826768 0.247837370242
+	Step:  0.120481927711
+	 Performance:  2 0.072313253012 0.759769023889 0.665518725786
+	Step:  0.0964096385542
+	 Performance:  4 0.120481927711 0.666824869483 0.628243944637
+	Step:  0.240963855422
+	 Performance:  2 0.0964096385542 0.742762221168 0.882049074473
+	Step:  0.120481927711
+	 Performance:  4 0.361454492879 0.720267552482 0.288734361904
+	Step:  0.722908985759
+	 Performance:  2 0.120481927711 0.739993671887 0.197374085235
+	Step:  0.240963855422
+	 Performance:  4 0.240963855422 0.735168485999 0.614403114187
+	Step:  0.361445783133
+	 Performance:  2 0.433726578765 0.766031826379 0.7626874782
+	Step:  0.650589868147
+	 Performance:  1 0.464712807485 0.732902715529 0.980955829109
+	Step:  0.619617076647
+	 Performance:  2 0.240963855422 0.740151874703 0.763237193285
+	Step:  0.361445783133
+	 Performance:  3 0.774521345808 0.73300817295 0.632778581766
+	Step:  0.92942561497
+	 Performance:  4 0.361445783133 0.729710488847 0.837802768166
+	Step:  0.481927710843
+	 Performance:  0 0.843373493976 0.731292517007 0.559388646288
+	Step:  0.963855421687
+	 Performance:  4 0.481927710843 0.737225122607 0.362024221453
+	Step:  0.602409638554
+	 Performance:  2 0.361445783133 0.738569846543 0.799827808868
+	Step:  0.481927710843
+	 Performance:  4 0.602409638554 0.741892105679 0.745674740484
+	Step:  0.722891566265
+	 Performance:  3 0.92942561497 0.731505404693 0.788929088278
+Iteration:  4
+	Step:  3.09808538323e-05
+	 Performance:  4 3.09808538323e-05 0.364355391511 0.0
+	Step:  0.0310118346862
+	 Performance:  4 0.0310118346862 0.804218296863 0.181548480463
+	Step:  0.0619926885185
+	 Performance:  4 0.0619926885185 0.746269443712 0.576845151954
+	Step:  0.0929735423508
+	 Performance:  4 0.722891566265 0.733981964879 0.783737024221
+	Step:  0.843373493976
+	 Performance:  4 0.0929735423508 0.744002109148 0.720549927641
+	Step:  0.123954396183
+	 Performance:  4 0.123954396183 0.729765357237 0.68017366136
+	Step:  0.154904269162
+	 Performance:  4 0.154904269162 0.767229106248 0.493487698987
+	Step:  0.309808538323
+	 Performance:  1 0.619617076647 0.747455839705 0.443374366401
+	Step:  0.774521345808
+	 Performance:  2 0.481927710843 0.735484891631 0.743650452002
+	Step:  0.602409638554
+	 Performance:  4 0.843373493976 0.730817908559 0.836505190311
+	Step:  0.963855421687
+	 Performance:  2 0.650589868147 0.566389319498 0.556592256714
+	Step:  0.867453157529
+	 Performance:  4 0.722908985759 0.73466205681 0.537453822991
+7 7
+	 Performance:  4 0.309808538323 0.697152649618 0.867510853835
+	Step:  0.464712807485
+	 Performance:  4 0.963855421687 0.706296472077 0.704584775087
+13 13
+	 Performance:  2 0.602409638554 0.740784685967 0.59944037882
+	Step:  0.722891566265
+	 Performance:  4 0.464712807485 0.733588188769 0.77004341534
+	Step:  0.619617076647
+	 Performance:  4 0.619617076647 0.730793567097 0.872141823444
+	Step:  0.774521345808
+	 Performance:  2 0.722891566265 0.7430786268 0.589539388721
+	Step:  0.843373493976
+	 Performance:  0 0.963855421687 0.738174339503 0.763973799127
+Iteration:  1
+	Step:  2.40963855422e-05
+	 Performance:  1 2.40963855422e-05 0.362284448663 1.0
+	Step:  0.0241204819277
+	 Performance:  1 0.0241204819277 0.742841322576 0.223362445415
+	Step:  0.0482168674699
+	 Performance:  1 0.0482168674699 0.657253599114 0.993231441048
+	Step:  0.072313253012
+	 Performance:  4 0.774521345808 0.729686264171 0.862156295224
+	Step:  0.92942561497
+	 Performance:  1 0.072313253012 0.798766018035 0.096288209607
+	Step:  0.0964096385542
+	 Performance:  1 0.0964096385542 0.715867742446 0.890611353712
+	Step:  0.120481927711
+	 Performance:  1 0.774521345808 0.745083047719 0.445981173063
+	Step:  0.92942561497
+	 Performance:  4 0.92942561497 0.732981808595 0.897539797395
+11 11
+	 Performance:  1 0.120481927711 0.729868691663 0.628820960699
+	Step:  0.240963855422
+	 Performance:  2 0.843373493976 0.739439962031 0.259793370641
+	Step:  0.963855421687
+	 Performance:  2 0.867453157529 0.728763959632 0.743852459016
+Iteration:  3
+	Step:  4.33726578765e-05
+	 Performance:  3 4.33726578765e-05 0.362808060995 1.0
+	Step:  0.0434160305344
+	 Performance:  3 0.0434160305344 0.76397545003 0.288672828741
+	Step:  0.0867886884108
+	 Performance:  3 0.0867886884108 0.659131892815 0.899633763516
+	Step:  0.130161346287
+	 Performance:  3 0.130161346287 0.752981745705 0.890565050576
+	Step:  0.173534004164
+	 Performance:  3 0.173534004164 0.746369704831 0.0855423787932
+	Step:  0.216863289382
+	 Performance:  2 0.963855421687 0.737146021199 0.750753336203
+Iteration:  3
+	Step:  2.40963855422e-05
+	 Performance:  3 2.40963855422e-05 0.867505141592 1.0
+	Step:  0.0241204819277
+	 Performance:  3 0.0241204819277 0.745372567632 0.778519156263
+	Step:  0.0482168674699
+	 Performance:  3 0.0482168674699 0.821863629173 0.310804993543
+	Step:  0.072313253012
+	 Performance:  3 0.072313253012 0.740942888783 0.43951786483
+	Step:  0.0964096385542
+	 Performance:  3 0.0964096385542 0.599984179718 0.244726646578
+	Step:  0.120481927711
+	 Performance:  3 0.120481927711 0.74940673944 0.863538527766
+	Step:  0.240963855422
+	 Performance:  1 0.240963855422 0.729394083215 0.602838427948
+	Step:  0.361445783133
+	 Performance:  3 0.216863289382 0.718529532728 0.413106034182
+	Step:  0.433726578765
+	 Performance:  3 0.240963855422 0.733744660655 0.727507533362
+	Step:  0.361445783133
+	 Performance:  1 0.92942561497 0.730582652254 0.839391745112
+Iteration:  2
+	Step:  3.09808538323e-05
+	 Performance:  2 3.09808538323e-05 0.864091747957 1.0
+	Step:  0.0310118346862
+	 Performance:  2 0.0310118346862 0.638650145004 0.578928312817
+	Step:  0.0619926885185
+	 Performance:  3 0.361445783133 0.740389178927 0.43994834266
+	Step:  0.481927710843
+	 Performance:  2 0.0619926885185 0.757790667018 0.234395365677
+	Step:  0.0929735423508
+	 Performance:  3 0.433726578765 0.665917934765 0.881496337635
+	Step:  0.650589868147
+	 Performance:  2 0.0929735423508 0.845267598207 0.0202751629254
+	Step:  0.123954396183
+	 Performance:  2 0.123954396183 0.765040864751 0.59000724113
+	Step:  0.154904269162
+	 Performance:  3 0.481927710843 0.602357221959 0.798536375377
+	Step:  0.602409638554
+	 Performance:  3 0.650589868147 0.708136923028 0.788324032089
+	Step:  0.867453157529
+	 Performance:  2 0.154904269162 0.753809649354 0.898551774077
+	Step:  0.309808538323
+	 Performance:  3 0.602409638554 0.737066919791 0.936289281102
+	Step:  0.722891566265
+	 Performance:  2 0.309808538323 0.737490113367 0.495582910934
+	Step:  0.464712807485
+	 Performance:  1 0.361445783133 0.734061066287 0.0703056768559
+	Step:  0.481927710843
+	 Performance:  3 0.722891566265 0.738411643727 0.742789496341
+	Step:  0.843373493976
+	 Performance:  3 0.843373493976 0.737225122607 0.6487300904
+	Step:  0.963855421687
+	 Performance:  2 0.464712807485 0.733298180859 0.39717595945
+	Step:  0.619617076647
+	 Performance:  3 0.867453157529 0.73202252523 0.41877397977
+Iteration:  4
+	Step:  4.33726578765e-05
+	 Performance:  4 4.33726578765e-05 0.362808060995 0.0745116846878
+	Step:  0.0434160305344
+	 Performance:  4 0.0434160305344 0.844980859882 0.770579002442
+	Step:  0.0867886884108
+	 Performance:  1 0.481927710843 0.733981964879 0.807205240175
+	Step:  0.602409638554
+	 Performance:  4 0.0867886884108 0.757379227435 0.204830833624
+	Step:  0.130161346287
+	 Performance:  3 0.963855421687 0.732399936719 0.540895393887
+Iteration:  4
+	Step:  2.40963855422e-05
+	 Performance:  4 2.40963855422e-05 0.867505141592 0.810589754628
+	Step:  0.0241204819277
+	 Performance:  4 0.0241204819277 0.774877392818 0.18101592768
+	Step:  0.0482168674699
+	 Performance:  4 0.0482168674699 0.754627432368 0.377744296169
+	Step:  0.072313253012
+	 Performance:  4 0.072313253012 0.738411643727 0.708136030994
+	Step:  0.0964096385542
+	 Performance:  4 0.130161346287 0.7571735898 0.751613184513
+	Step:  0.173534004164
+	 Performance:  4 0.0964096385542 0.733665559247 0.08243650452
+	Step:  0.120481927711
+	 Performance:  4 0.120481927711 0.682249644044 0.0764098148945
+	Step:  0.240963855422
+	 Performance:  4 0.173534004164 0.759245784428 0.729028601325
+	Step:  0.216863289382
+	 Performance:  2 0.619617076647 0.772449248616 0.82961622013
+	Step:  0.774521345808
+	 Performance:  4 0.216863289382 0.788620329653 0.898805371468
+	Step:  0.433726578765
+	 Performance:  4 0.240963855422 0.738569846543 0.527120103315
+	Step:  0.361445783133
+	 Performance:  4 0.361445783133 0.739677266255 0.616229014206
+	Step:  0.481927710843
+	 Performance:  4 0.433726578765 0.728178683286 0.702563655389
+	Step:  0.650589868147
+	 Performance:  4 0.481927710843 0.710884353741 0.729659922514
+	Step:  0.602409638554
+	 Performance:  2 0.774521345808 0.718165040865 0.920926864591
+	Step:  0.92942561497
+	 Performance:  1 0.602409638554 0.731371618415 0.647161572052
+	Step:  0.722891566265
+	 Performance:  4 0.602409638554 0.688419553868 0.506887645286
+	Step:  0.722891566265
+	 Performance:  4 0.722891566265 0.749723145072 0.675850193715
+	Step:  0.843373493976
+	 Performance:  4 0.650589868147 0.72681831124 0.774372166027
+	Step:  0.867453157529
+	 Performance:  2 0.92942561497 0.72929079884 0.57226647357
+Iteration:  3
+	Step:  3.09808538323e-05
+	 Performance:  4 0.843373493976 0.736592311343 0.849763237193
+	Step:  0.963855421687
+	 Performance:  3 3.09808538323e-05 0.864091747957 0.967632150615
+	Step:  0.0310118346862
+	 Performance:  3 0.0310118346862 0.850593197996 0.899855177408
+	Step:  0.0619926885185
+	 Performance:  3 0.0619926885185 0.681544951226 0.959232440261
+	Step:  0.0929735423508
+	 Performance:  3 0.0929735423508 0.726707092012 0.773062997828
+	Step:  0.123954396183
+	 Performance:  3 0.123954396183 0.75017136831 0.393120926865
+	Step:  0.154904269162
+	 Performance:  4 0.867453157529 0.733477806954 0.685952214859
+9 9
+	 Performance:  3 0.154904269162 0.734510941207 0.962346125996
+	Step:  0.309808538323
+	 Performance:  4 0.963855421687 0.735484891631 0.858803271632
+13 13
+	 Performance:  3 0.309808538323 0.727946216715 0.910209992759
+	Step:  0.464712807485
+	 Performance:  1 0.722891566265 0.730817908559 0.757860262009
+	Step:  0.843373493976
+	 Performance:  3 0.464712807485 0.734247297654 0.922954380883
+	Step:  0.619617076647
+	 Performance:  3 0.619617076647 0.750935934616 0.642722664736
+	Step:  0.774521345808
+	 Performance:  1 0.843373493976 0.733428255023 0.526637554585
+	Step:  0.963855421687
+	 Performance:  3 0.774521345808 0.731953598735 0.296017378711
+	Step:  0.92942561497
+	 Performance:  1 0.963855421687 0.739993671887 0.173580786026
+Iteration:  2
+	Step:  2.40963855422e-05
+	 Performance:  2 2.40963855422e-05 0.362284448663 1.0
+	Step:  0.0241204819277
+	 Performance:  2 0.0241204819277 0.720772029742 0.900436681223
+	Step:  0.0482168674699
+	 Performance:  2 0.0482168674699 0.854453409271 0.985807860262
+	Step:  0.072313253012
+	 Performance:  2 0.072313253012 0.754864736592 0.880131004367
+	Step:  0.0964096385542
+	 Performance:  2 0.0964096385542 0.66176237937 0.818340611354
+	Step:  0.120481927711
+	 Performance:  2 0.120481927711 0.641749723145 0.797161572052
+	Step:  0.240963855422
+	 Performance:  3 0.92942561497 0.733614553124 0.756480811007
+Iteration:  4
+	Step:  3.09808538323e-05
+	 Performance:  4 3.09808538323e-05 0.864091747957 1.0
+	Step:  0.0310118346862
+	 Performance:  4 0.0310118346862 0.831057210651 0.0447501810282
+	Step:  0.0619926885185
+	 Performance:  4 0.0619926885185 0.830714474031 0.176104272266
+	Step:  0.0929735423508
+	 Performance:  4 0.0929735423508 0.527181650409 0.698769007965
+	Step:  0.123954396183
+	 Performance:  2 0.240963855422 0.733586457839 0.437554585153
+	Step:  0.361445783133
+	 Performance:  4 0.123954396183 0.387239651991 0.992976104272
+	Step:  0.154904269162
+	 Performance:  4 0.154904269162 0.732428157132 0.219478638668
+	Step:  0.309808538323
+	 Performance:  2 0.361445783133 0.757633285872 0.365065502183
+	Step:  0.481927710843
+	 Performance:  4 0.309808538323 0.584418665964 0.246053584359
+	Step:  0.464712807485
+	 Performance:  4 0.464712807485 0.735934616399 0.472845763939
+	Step:  0.619617076647
+	 Performance:  2 0.481927710843 0.746717291568 0.556331877729
+	Step:  0.602409638554
+	 Performance:  4 0.619617076647 0.738122857896 0.386241853729
+	Step:  0.774521345808
+	 Performance:  2 0.602409638554 0.727891156463 0.986026200873
+	Step:  0.722891566265
+	 Performance:  4 0.774521345808 0.70102820986 0.897031136857
+	Step:  0.92942561497
+	 Performance:  2 0.722891566265 0.737462426831 0.286244541485
+	Step:  0.843373493976
+	 Performance:  4 0.92942561497 0.731531769048 0.948877624909
+11 11
+	 Performance:  2 0.843373493976 0.736513209935 0.806768558952
+	Step:  0.963855421687
+	 Performance:  2 0.963855421687 0.731925328271 0.832096069869
+Iteration:  3
+	Step:  2.40963855422e-05
+	 Performance:  3 2.40963855422e-05 0.362284448663 1.0
+	Step:  0.0241204819277
+	 Performance:  3 0.0241204819277 0.554421768707 0.982096069869
+	Step:  0.0482168674699
+	 Performance:  3 0.0482168674699 0.784923271634 0.947816593886
+	Step:  0.072313253012
+	 Performance:  3 0.072313253012 0.636370827401 0.968122270742
+	Step:  0.0964096385542
+	 Performance:  3 0.0964096385542 0.751937984496 0.79672489083
+	Step:  0.120481927711
+	 Performance:  3 0.120481927711 0.737462426831 0.36768558952
+	Step:  0.240963855422
+	 Performance:  3 0.240963855422 0.729789590255 0.655240174672
+	Step:  0.361445783133
+	 Performance:  3 0.361445783133 0.731846226863 0.569868995633
+	Step:  0.481927710843
+	 Performance:  3 0.481927710843 0.729710488847 0.600436681223
+	Step:  0.602409638554
+	 Performance:  3 0.602409638554 0.729077677583 0.686244541485
+	Step:  0.722891566265
+	 Performance:  3 0.722891566265 0.732637240943 0.749781659389
+	Step:  0.843373493976
+	 Performance:  3 0.843373493976 0.672045562411 0.793449781659
+	Step:  0.963855421687
+	 Performance:  3 0.963855421687 0.731371618415 0.863755458515
+Iteration:  4
+	Step:  2.40963855422e-05
+	 Performance:  4 2.40963855422e-05 0.362284448663 1.0
+	Step:  0.0241204819277
+	 Performance:  4 0.0241204819277 0.659626641354 0.755021834061
+	Step:  0.0482168674699
+	 Performance:  4 0.0482168674699 0.707957601645 0.79192139738
+	Step:  0.072313253012
+	 Performance:  4 0.072313253012 0.736513209935 0.377292576419
+	Step:  0.0964096385542
+	 Performance:  4 0.0964096385542 0.777487739282 0.505240174672
+	Step:  0.120481927711
+	 Performance:  4 0.120481927711 0.68438538206 0.864847161572
+	Step:  0.240963855422
+	 Performance:  4 0.240963855422 0.735010283183 0.330131004367
+	Step:  0.361445783133
+	 Performance:  4 0.361445783133 0.739598164847 0.773362445415
+	Step:  0.481927710843
+	 Performance:  4 0.481927710843 0.740626483151 0.964410480349
+	Step:  0.602409638554
+	 Performance:  4 0.602409638554 0.729077677583 0.518995633188
+	Step:  0.722891566265
+	 Performance:  4 0.722891566265 0.730897009967 0.699563318777
+	Step:  0.843373493976
+	 Performance:  4 0.843373493976 0.465669988926 0.922052401747
+	Step:  0.963855421687
+	 Performance:  4 0.963855421687 0.728365764911 0.763973799127
+13 13
