@@ -242,7 +242,11 @@ class RankerEvaluator:
 				if first in gold_map:
 					simp += gold_map[first]
 					total += 1.0
-		return simp/total
+		if total==0:
+			res = 0.0
+		else:
+			res = simp/total
+		return res
 
 datapath = '../../../../corpora/datasets/SurveyMonkey_150118_Data_With_IDS.txt'
 candfile = '../../../../corpora/substitutions/mweretrofittedpaetzoldfembed_substitutions_victor_'+str(sys.argv[1])+'.txt'
