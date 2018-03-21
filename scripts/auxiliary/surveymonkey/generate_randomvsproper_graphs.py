@@ -46,7 +46,7 @@ map = produceMap(performancesf)
 allgroups = ['individual','group-age','group-edu', 'group-lang', 'group-langg', 'group-langgg', 'group-prof']
 
 #Create figure
-fig, axes = plt.subplots(len(map['ridge'])-1, len(map),figsize=(7,20))
+fig, axes = plt.subplots(len(map['ridge'])-1, len(map),figsize=(10,20))
 for i, group in enumerate(allgroups):
 	for j, ranker in enumerate(['boundary','ridge']):
 			t, prob = ttest_ind(map[ranker][group]['random'], map[ranker][group]['normal'])
@@ -62,6 +62,5 @@ plt.setp(axes, yticks=[1, 2], yticklabels=['R', 'N'])
 #plt.tight_layout()
 plt.tight_layout(pad=0.4, w_pad=0.3, h_pad=1.0)
 plt.savefig('randomvsnormal_results.png', dpi=150)
-#plt.savefig('customized_results_new.png', dpi=300, bbox_inches='tight')
 plt.show()
 plt.close()

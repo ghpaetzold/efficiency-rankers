@@ -75,7 +75,8 @@ for i, group in enumerate(allgroups):
 	yvalues = []
 	for j, ranker in enumerate(['boundary','ridge']):
 	#for j, ranker in enumerate(['ridge']):
-		colors = [(c, c, c) for c in [v/100.0 for v in range(10, 70, 5)]]
+		#colors = [(c, c, c) for c in [v/100.0 for v in range(10, 70, 5)]]
+		colors = list('bgrcmbgrcmbgrcmbgrcmbgrcm')
 		#fig.suptitle('Comparison between Boundary and Neural rankers')
 #		for prop in ['0.2', '0.4', '0.6', '0.8']:
 		for prop in map[ranker][group]:
@@ -105,6 +106,6 @@ for i, group in enumerate(allgroups):
 #plt.tight_layout()
 plt.tight_layout(pad=0.4, w_pad=0.8, h_pad=1.0)
 #plt.savefig('customized_results.png', dpi=150)
-plt.savefig('customized_results_new.png', dpi=300, bbox_inches='tight')
+plt.savefig('simplicity_accuracy_graphs.png', dpi=300, bbox_inches='tight')
 plt.show()
 plt.close()
